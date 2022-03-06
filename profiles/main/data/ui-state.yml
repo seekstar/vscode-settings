@@ -51,7 +51,6 @@ ms-python.python: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_ENV_INFO_CACHE"
   8.3.0]"},"arch":3,"distro":{"org":""},"source":["path env
   var"],"hasCompleteInfo":true}],"SWITCH_LS":"Pylance","pylanceDefaultPromptMemento":true}'
 ms-vscode.cpptools: '{"CPP.1.7.1.Progress":300,"CPP.machineId":"a31fe850a47e7d191289ae0dad04694a06cd812d84db1181ad557435dedff957","CPP.1.7.1.checkForConflictingExtensions":false,"CPP.1.7.1.IntelliSenseProgress":1000}'
-ms-vscode-remote.remote-containers: "{}"
 workbench.grid.height: "869"
 workbench.sideBar.position: "0"
 workbench.panel.alignment: center
@@ -110,10 +109,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
   virtualWorkspace\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\
   \"remote-explorer-view-icon\"},\"name\":\"远程资源管理器\",\"isBuiltin\":true,\"views\
-  \":[{},{},{\"when\":\"false\"},{\"when\":\"remote-containers:showDetails\"},{\
-  }]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-vi\
-  ew-icon\"},\"name\":\"测试\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.\
-  providerCount >
+  \":[{},{\"when\":\"false\"}]},{\"id\":\"workbench.view.extension.test\",\"the\
+  meIcon\":{\"id\":\"test-view-icon\"},\"name\":\"测试\",\"isBuiltin\":true,\"vie\
+  ws\":[{\"when\":\"testing.providerCount >
   0\"}]},{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"\
   id\":\"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\
   \"when\":\"reference-list.isActive\"},{\"when\":\"cppReferenceTypes:hasResults\

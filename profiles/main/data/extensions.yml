@@ -1,22 +1,8 @@
 disabled:
-  - id: eg2.vscode-npm-script
-    uuid: ae9e3eb0-3357-4cc0-90ee-598d2d384757
-  - id: firefox-devtools.vscode-firefox-debug
-    uuid: c5f4d87f-a524-462c-ac01-923eb19cf3e9
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
-  - id: hollowtree.vue-snippets
-    uuid: 3620b114-6fe8-459b-8c68-99943147069b
-  - id: intel-corporation.oneapi-samples
-    uuid: 1a6fae0a-0a1e-4e77-9fbc-2f030a722201
-  - id: mgmcdermott.vscode-language-babel
-    uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
-  - id: octref.vetur
-    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
-  - id: xabikos.JavaScriptSnippets
-    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
 enabled:
   - id: asciidoctor.asciidoctor-vscode
     uuid: c1309cc2-f420-46a3-b2be-ca04f4d9e51b
@@ -54,8 +40,6 @@ enabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode-remote.remote-ssh
     uuid: 607fd052-be03-4363-b657-2bd62b83d28a
   - id: ms-vscode-remote.remote-ssh-edit
