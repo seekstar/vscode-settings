@@ -159,5 +159,8 @@
     "gitlens.views.branches.pullRequests.enabled": false,
     "gitlens.views.branches.pullRequests.showForBranches": false,
     "gitlens.views.branches.pullRequests.showForCommits": false,
-    "redhat.telemetry.enabled": true
+    "redhat.telemetry.enabled": true,
+    "settingsSync.ignoredExtensions": [
+      "ms-vscode-remote.remote-containers"
+    ]
 }

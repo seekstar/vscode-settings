@@ -10,8 +10,6 @@ enabled:
     uuid: de611071-4d05-4903-821c-6878df63d4af
   - id: blackmery.vscode-switcher
     uuid: a47e378a-39c4-411c-99d7-e2181558e75f
-  - id: cschlosser.doxdocgen
-    uuid: da7e26d5-d57c-4742-ab47-d77fb189e195
   - id: DamianKoper.gdb-debug
     uuid: 497d7078-f844-42d0-b773-2226b6be78b1
   - id: DavidAnson.vscode-markdownlint
@@ -22,8 +20,6 @@ enabled:
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
-  - id: jeff-hykin.better-cpp-syntax
-    uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
   - id: JeffersonQin.latex-snippets-jeff
     uuid: 35939ef0-ae19-483a-a524-0d9c354b32f1
   - id: kevinkyang.auto-comment-blocks
@@ -50,10 +46,6 @@ enabled:
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.cpptools
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
-  - id: ms-vscode.cpptools-extension-pack
-    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
-  - id: ms-vscode.cpptools-themes
-    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.wordcount
     uuid: 03bcac69-2a42-4fd3-ac6e-928090766003
   - id: mushan.vscode-paste-image
