@@ -1,0 +1,61 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+f9",
+        "command": "workbench.action.tasks.runTask",
+        "args": "build debug",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+f10",
+        "command": "workbench.action.tasks.runTask",
+        "args": "run",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "workbench.action.tasks.runTask",
+        "args": "build & run",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+ctrl+f9",
+        "command": "workbench.action.tasks.runTask",
+        "args": "build release",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+f6",
+        "command": "workbench.action.tasks.runTask",
+        "args": "clean",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+oem_1",
+        "command": "toggleVim"
+    },
+    {
+        "key": "alt+o",
+        "command": "extension.switcher.doSwitchInWorkspaceRoot"
+    },
+    {
+        "key": "f4",
+        "command": "extension.switcher.doSwitchInWorkspaceRoot"
+    },
+    {
+        "key": "alt+left",
+        "command": "workbench.action.navigateToLastEditLocation"
+    },
+    {
+        "key": "ctrl+k ctrl+q",
+        "command": "-workbench.action.navigateToLastEditLocation"
+    },
+    {
+        "key": "alt+left",
+        "command": "editor.emmet.action.prevEditPoint"
+    },
+    {
+        "key": "alt+right",
+        "command": "editor.emmet.action.nextEditPoint"
+    }
+]
