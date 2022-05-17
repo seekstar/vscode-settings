@@ -116,13 +116,6 @@
     "java.requirements.JDK11Warning": false,
     "cmake.toolset": "GCC 6.3.0",
     "python.languageServer": "Default",
-    // "C_Cpp.clang_format_fallbackStyle": {
-    //   "BasedOnStyle": "Google",
-    //   "UseTab": "Never",
-    //   "IndentWidth": "4",
-    //   "TabWidth": "4"
-    // },
-    //"C_Cpp.clang_format_fallbackStyle": "Google",
     /*"latex-preview.command": "xelatex",
     "[latex]": {
         "editor.defaultFormatter": "nickfode.latex-formatter"
@@ -139,7 +132,9 @@
       "editor.copyWithSyntaxHighlighting",
       "editor.tabSize",
       "editor.formatOnSave",
-      "update.mode"
+      "update.mode",
+      "C_Cpp.clang_format_style",
+      "files.maxMemoryForLargeFilesMB"
     ],
     "editor.copyWithSyntaxHighlighting": false,
     "workbench.editorAssociations": {
@@ -162,5 +157,14 @@
     "redhat.telemetry.enabled": true,
     "settingsSync.ignoredExtensions": [
       "ms-vscode-remote.remote-containers"
-    ]
+    ],
+    "git.confirmSync": false,
+    "http.proxy": "http://localhost:8234",
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "C_Cpp.clang_format_style": "",
+    "go.toolsManagement.autoUpdate": true,
+    "window.zoomLevel": -1,
+    "update.mode": "none"
 }
