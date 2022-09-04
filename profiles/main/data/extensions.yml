@@ -10,12 +10,8 @@ disabled:
 enabled:
   - id: asciidoctor.asciidoctor-vscode
     uuid: c1309cc2-f420-46a3-b2be-ca04f4d9e51b
-  - id: austin.code-gnu-global
-    uuid: de611071-4d05-4903-821c-6878df63d4af
   - id: blackmery.vscode-switcher
     uuid: a47e378a-39c4-411c-99d7-e2181558e75f
-  - id: DamianKoper.gdb-debug
-    uuid: 497d7078-f844-42d0-b773-2226b6be78b1
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: eamodio.gitlens
@@ -66,8 +62,6 @@ enabled:
     uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.wordcount
     uuid: 03bcac69-2a42-4fd3-ac6e-928090766003
-  - id: ms-vsliveshare.vsliveshare
-    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: mushan.vscode-paste-image
     uuid: ffaf4ec8-f001-4f02-b671-705ecf079cde
   - id: nickfode.latex-formatter

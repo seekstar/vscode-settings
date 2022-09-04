@@ -1,4 +1,4 @@
-eamodio.gitlens: '{"gitlens:synced:version":"12.2.1","gitlens:version":"12.2.1","gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"free","name":"GitLens","startedOn":"2022-09-04T09:18:56.685Z"},"effective":{"id":"free","name":"GitLens","startedOn":"2022-09-04T09:18:56.685Z"}},"state":0}},"gitlens:plus:migratedAuthentication":true,"gitlens:usages":{"commitsView:shown":{"count":3,"firstUsedAt":1661934169367,"lastUsedAt":1662032263579}}}'
+eamodio.gitlens: '{"gitlens:synced:version":"12.2.1","gitlens:version":"12.2.1","gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"free","name":"GitLens","startedOn":"2022-09-04T11:28:42.015Z"},"effective":{"id":"free","name":"GitLens","startedOn":"2022-09-04T11:28:42.015Z"}},"state":0}},"gitlens:plus:migratedAuthentication":true,"gitlens:usages":{"commitsView:shown":{"count":3,"firstUsedAt":1661934169367,"lastUsedAt":1662032263579}}}'
 golang.go: '{"go.extensionVersion":"0.30.0","latestGoVersions":{"timestamp":1662199969494,"goVersions":[{"binpath":"golang.org/dl/go1.19","label":"Go
   1.19","available":false,"description":"download
   golang.org/dl/go1.19"},{"binpath":"golang.org/dl/go1.18.5","label":"Go
@@ -1114,21 +1114,19 @@ ms-dotnettools.vscode-dotnet-runtime: "{\"releases\":\"{\\r\\n    \\\"releases-\
 ms-python.vscode-pylance: '{"insidersChannel":"off"}'
 ms-vscode-remote.remote-containers: "{}"
 ms-vscode.cpptools: '{"CPP.1.7.1.Progress":300,"CPP.machineId":"a31fe850a47e7d191289ae0dad04694a06cd812d84db1181ad557435dedff957","CPP.1.7.1.checkForConflictingExtensions":false,"CPP.1.8.4.Progress":300,"CPP.migratedInsiders":true,"CPP.1.8.4.checkForConflictingExtensions":false,"CPP.1.8.4.IntelliSenseProgress":1000,"CPP.1.9.7.Progress":300,"CPP.1.9.7.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.7.checkForConflictingExtensions":false,"CPP.1.9.7.IntelliSenseProgress":1000,"CPP.1.9.8.Progress":300,"CPP.1.9.8.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.8.checkForConflictingExtensions":false,"CPP.1.9.8.IntelliSenseProgress":1000,"CPP.1.10.5.Progress":300,"CPP.1.10.5.IntelliSenseProgress":1000,"CPP.1.10.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.5.checkForConflictingExtensions":false,"CPP.1.10.6.Progress":300,"CPP.1.10.6.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.6.checkForConflictingExtensions":false,"CPP.1.10.6.IntelliSenseProgress":1000,"CPP.1.10.7.Progress":300,"CPP.1.10.7.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.7.IntelliSenseProgress":1000,"CPP.1.10.7.checkForConflictingExtensions":false,"CPP.1.10.8.Progress":300,"CPP.1.10.8.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.8.checkForConflictingExtensions":false,"CPP.1.10.8.IntelliSenseProgress":1000,"CPP.1.11.0.Progress":300,"CPP.1.11.0.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.0.checkForConflictingExtensions":false,"CPP.1.11.2.checkForConflictingExtensions":false,"CPP.1.11.2.Progress":300,"CPP.1.11.2.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.2.IntelliSenseProgress":1000,"CPP.1.11.4.Progress":300,"CPP.1.11.4.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.4.checkForConflictingExtensions":false,"CPP.1.11.4.IntelliSenseProgress":1000,"CPP.1.12.0.Progress":300,"CPP.1.12.0.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.0.checkForConflictingExtensions":false,"CPP.1.12.1.Progress":300,"CPP.1.12.1.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.1.checkForConflictingExtensions":false,"CPP.1.12.1.IntelliSenseProgress":1000,"CPP.1.11.5.Progress":300,"CPP.1.11.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.5.checkForConflictingExtensions":false,"CPP.1.11.5.IntelliSenseProgress":1000,"CPP.1.12.4.Progress":300,"CPP.1.12.4.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.4.checkForConflictingExtensions":false,"CPP.1.12.4.IntelliSenseProgress":1000}'
-ms-vsliveshare.vsliveshare: '{"vsliveshare-first-activation-flag":"1.0.5418","firstActivationVersion":"1.0.5418","firstActivationTime":1646661553364,"wasDownloadCorrupted":false,"haveShownWakeupNotification":true,"commandFirstRunTrackingShare":true,"IsSwitchToStableNotificationDisplayed":true,"hasUsed":true,"lastUse":1654428983208,"sessionCount":1,"commandFirstRunTrackingJoin":true,"981C6666CE677170D17EF0C819B631B5CCAA-reconnectId":null,"commandFirstRunTrackingJoinReload":true,"07740409DE1FFBF7054B7ACD678C82F90832-reconnectId":null,"7158B47731CAAE682C7FF975400044369A3C-reconnectId":null,"0FDC899A38ACD2715FE19DF6A4F9D4B63A26-reconnectId":null,"ADDE304C8FF52F3474A63EA1288A9F478B3B-reconnectId":"fada4483-3b71-4531-9be3-778b14f3a939"}'
 redhat.java: '{"recommendationUserChoice":{}}'
 rust-lang.rust-analyzer: '{"serverVersion":"0.3.1186"}'
 vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.6.10"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":false,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.json-views","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.CppRenameActivityBar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":false,"visible":false,"order":12},{"id":"workbench.view.extension.github-pull-requests","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":true,"order":10},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":false,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.json-views","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.CppRenameActivityBar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":false,"visible":false,"order":11},{"id":"workbench.view.extension.github-pull-requests","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":10},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"资源管理器\",\"isBuiltin\
   \":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"timeli\
   neHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"go.showExp\
-  lorer\"},{\"when\":\"liveshare:isCollaborating &&
-  liveshare:showExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\
-  \"id\":\"search-view-icon\"},\"name\":\"搜索\",\"isBuiltin\":true,\"views\":[{}\
-  ]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view\
-  -icon\"},\"name\":\"源代码管理\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.pro\
-  viderCount && scm.providerCount != '0'\"},{},{\"when\":\"!gitlens:disabled &&
+  lorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search-v\
+  iew-icon\"},\"name\":\"搜索\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"work\
+  bench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\
+  \"源代码管理\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{},{\"when\":\"!gitlens:disabled &&
   !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!g\
   itlens:disabled\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!gitlens:disa\
   bled &&
@@ -1202,17 +1200,11 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   -tools-1.12.26/res/cmake-view-icon.svg\",\"scheme\":\"file\"},\"name\":\"CMake\
   \",\"isBuiltin\":false,\"views\":[{\"when\":\"cmake:enableFullFeatureSet\"}]}\
   ,{\"id\":\"workbench.view.extension.github-pull-requests\",\"isBuiltin\":fals\
-  e},{\"id\":\"workbench.view.extension.liveshare\",\"iconUrl\":{\"$mid\":1,\"p\
-  ath\":\"%%EXTENSION_DATA_PATH%%/ms-vsliveshare.vsliveshare-1.0.5705/images/da\
-  rk/liveshare.svg\",\"scheme\":\"file\"},\"name\":\"Live
-  Share\",\"isBuiltin\":false,\"views\":[{\"when\":\"liveshare:showExplorer\"},{\
-  \"when\":\"liveshare:showExplorer\"},{\"when\":\"liveshare:isCollaborating &&
-  liveshare:showExplorer &&
-  liveshare:showHelpViewlet\"},{\"when\":\"config.liveshare.teamStatus ||
-  liveshare:isTeamMember\"}]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"\
-  id\":\"settings-sync-view-icon\"},\"name\":\"设置同步\",\"isBuiltin\":true,\"views\
-  \":[{\"when\":\"enableSyncMergesView\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
+  e},{\"id\":\"workbench.view.extension.liveshare\",\"isBuiltin\":false},{\"id\
+  \":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\
+  \"name\":\"设置同步\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncMergesV\
+  iew\"},{\"when\":\"enableSyncActivityViews && userDataSyncAccountStatus ==
+  'available' && syncStatus !=
   'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
   userDataSyncAccountStatus == 'available' && syncStatus !=
   'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
@@ -1222,7 +1214,7 @@ workbench.activity.showAccounts: "false"
 workbench.activityBar.hidden: "false"
 workbench.auxiliarybar.size: "256"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["diff",true],["shellscript",true],["c",true],["lldb.disassembly",true],["ignore",true],["json",true],["jsonc",true],["cpp",true],["markdown",true],["plaintext",true],["rust",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["diff",true],["shellscript",true],["c",true],["lldb.disassembly",true],["ignore",true],["json",true],["jsonc",true],["cpp",true],["markdown",true],["rust",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"workbench.explorer.fileView","isHidden":false},{"id":"outline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"timeline","isHidden":false},{"id":"npm","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"gitlens.views.repositories:explorer","isHidden":false},{"id":"gitlens.views.fileHistory:explorer","isHidden":false},{"id":"gitlens.views.lineHistory:explorer","isHidden":false},{"id":"gitlens.views.compare:explorer","isHidden":false},{"id":"gitlens.views.search:explorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"javaDependencyExplorer","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"intel.oneAPISamples.tree","isHidden":false},{"id":"go.explorer","isHidden":false}]'
 workbench.grid.height: "905"
 workbench.grid.size: '{"height":743,"width":1024}'
@@ -1263,7 +1255,7 @@ workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.merges","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true}]'
 workbench.views.extensions.installed.empty: "3348"
-workbench.views.extensions.installed.size: "51"
+workbench.views.extensions.installed.size: "48"
 workbench.views.extensions.local.installed.size: "51"
 workbench.views.extensions.remote.installed.size: "35"
 workbench.welcomePage.hiddenCategories: '["Intermediate"]'
