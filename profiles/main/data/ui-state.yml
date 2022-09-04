@@ -1,29 +1,1137 @@
-eamodio.gitlens: '{"gitlens:synced:version":"12.0.6","gitlens:version":"12.0.6","gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"free","name":"GitLens","startedOn":"2022-05-17T07:10:52.366Z"},"effective":{"id":"free","name":"GitLens","startedOn":"2022-05-17T07:10:52.366Z"}},"state":0}},"gitlens:plus:migratedAuthentication":true}'
-golang.go: '{"go.extensionVersion":"0.30.0","latestGoVersions":{"timestamp":1652093492079,"goVersions":[{"binpath":"golang.org/dl/go1.18.1","label":"Go
-  1.18.1","available":false,"description":"download
-  golang.org/dl/go1.18.1"},{"binpath":"golang.org/dl/go1.17.9","label":"Go
-  1.17.9","available":false,"description":"download
-  golang.org/dl/go1.17.9"}]},"forceUpdateForGoplsOnDefault":{"options":{},"loose":false,"includePrerelease":false,"raw":"v0.8.0","major":0,"minor":8,"patch":0,"prerelease":[],"build":[],"version":"0.8.0"},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2022-04-25T00:05:15.525Z\"}"}'
+eamodio.gitlens: '{"gitlens:synced:version":"12.2.1","gitlens:version":"12.2.1","gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"free","name":"GitLens","startedOn":"2022-09-04T09:18:56.685Z"},"effective":{"id":"free","name":"GitLens","startedOn":"2022-09-04T09:18:56.685Z"}},"state":0}},"gitlens:plus:migratedAuthentication":true,"gitlens:usages":{"commitsView:shown":{"count":3,"firstUsedAt":1661934169367,"lastUsedAt":1662032263579}}}'
+golang.go: '{"go.extensionVersion":"0.30.0","latestGoVersions":{"timestamp":1662199969494,"goVersions":[{"binpath":"golang.org/dl/go1.19","label":"Go
+  1.19","available":false,"description":"download
+  golang.org/dl/go1.19"},{"binpath":"golang.org/dl/go1.18.5","label":"Go
+  1.18.5","available":false,"description":"download
+  golang.org/dl/go1.18.5"}]},"forceUpdateForGoplsOnDefault":{"options":{},"loose":false,"includePrerelease":false,"raw":"v0.8.0","major":0,"minor":8,"patch":0,"prerelease":[],"build":[],"version":"0.8.0"},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2022-06-19T12:41:13.117Z\"}","developerSurveyConfig":"{\"datePromptComputed\":\"2022-06-19T12:41:13.118Z\",\"prompt\":false}"}'
 mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
+ms-dotnettools.vscode-dotnet-runtime: "{\"releases\":\"{\\r\\n    \\\"releases-\
+  index\\\": [\\r\\n        {\\r\\n            \\\"channel-version\\\":
+  \\\"7.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"7.0.0-preview.7\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2022-08-09\\\",\\r\\n            \\\"security\\\":
+  false,\\r\\n            \\\"latest-runtime\\\":
+  \\\"7.0.0-preview.7.22375.6\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"7.0.100-preview.7.22377.5\\\",\\r\\n            \\\"product\\\":
+  \\\".NET\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"preview\\\",\\r\\n            \\\"eol-date\\\":
+  null,\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/7.0/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"6.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"6.0.8\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2022-08-09\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"6.0.8\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"6.0.400\\\",\\r\\n            \\\"product\\\":
+  \\\".NET\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"lts\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2024-11-12\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/6.0/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"5.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"5.0.17\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2022-05-10\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"5.0.17\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"5.0.408\\\",\\r\\n            \\\"product\\\":
+  \\\".NET\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":\\\"2022-05-10\\\",\\r\\n            \
+  \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/5.0/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"3.1\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"3.1.28\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2022-08-09\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"3.1.28\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"3.1.422\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"maintenance\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2022-12-13\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/3.1/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"3.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"3.0.3\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2020-02-18\\\",\\r\\n            \\\"security\\\":
+  false,\\r\\n            \\\"latest-runtime\\\":
+  \\\"3.0.3\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"3.0.103\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2020-03-03\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/3.0/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"2.1\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"2.1.30\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2021-08-19\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"2.1.30\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"2.1.818\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2021-08-21\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/2.1/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"2.2\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"2.2.8\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2019-11-19\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"2.2.8\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"2.2.207\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2019-12-23\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/2.2/relea\
+  ses.json\\\"\\r\\n          },\\r\\n        {\\r\\n            \\\"channel-ve\
+  rsion\\\": \\\"2.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"2.0.9\\\",\\r\\n            \\\"latest-release-date\\\":\\\"2018-07-10\\\
+  \",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"2.0.9\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"2.1.202\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2018-10-01\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/2.0/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"1.1\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"1.1.13\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2019-05-14\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"1.1.13\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"1.1.14\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2019-06-27\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/1.1/relea\
+  ses.json\\\"\\r\\n        },\\r\\n        {\\r\\n            \\\"channel-vers\
+  ion\\\": \\\"1.0\\\",\\r\\n            \\\"latest-release\\\":
+  \\\"1.0.16\\\",\\r\\n            \\\"latest-release-date\\\":
+  \\\"2019-05-14\\\",\\r\\n            \\\"security\\\":
+  true,\\r\\n            \\\"latest-runtime\\\":
+  \\\"1.0.16\\\",\\r\\n            \\\"latest-sdk\\\":
+  \\\"1.1.14\\\",\\r\\n            \\\"product\\\": \\\".NET
+  Core\\\",\\r\\n            \\\"support-phase\\\":
+  \\\"eol\\\",\\r\\n            \\\"eol-date\\\":
+  \\\"2019-06-27\\\",\\r\\n            \\\"releases.json\\\":
+  \\\"https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/1.0/relea\
+  ses.json\\\"\\r\\n        }\\r\\n    ]\\r\\n}\\r\\n\",\"installing\":[\"6.0.6\
+  \"],\"dotnet-install\":\"#!/usr/bin/env bash\\n# Copyright (c) .NET Foundation
+  and contributors. All rights reserved.\\n# Licensed under the MIT license. See
+  LICENSE file in the project root for full license information.\\n#\\n\\n# Stop
+  script on NZEC\\nset -e\\n# Stop script if unbound variable found (use
+  ${var:-} if intentional)\\nset -u\\n# By default cmd1 | cmd2 returns exit code
+  of cmd2 regardless of cmd1 success\\n# This is causing it to fail\\nset -o
+  pipefail\\n\\n# Use in the the functions: eval
+  $invocation\\ninvocation='say_verbose \\\"Calling: ${yellow:-}${FUNCNAME[0]}
+  ${green:-}$*${normal:-}\\\"'\\n\\n# standard output may be used as a return
+  value in the functions\\n# we need a way to write text on the screen in the
+  functions so that\\n# it won't interfere with the return value.\\n# Exposing
+  stream 3 as a pipe to standard output of the script itself\\nexec 3>&1\\n\\n#
+  Setup some colors to use. These need to work in fairly limited shells, like
+  the Ubuntu Docker container where there are only 8 colors.\\n# See if stdout
+  is a terminal\\nif [ -t 1 ] && command -v tput > /dev/null; then\\n    # see
+  if it supports colors\\n    ncolors=$(tput colors || echo 0)\\n    if [ -n
+  \\\"$ncolors\\\" ] && [ $ncolors -ge 8 ]; then\\n        bold=\\\"$(tput
+  bold       || echo)\\\"\\n        normal=\\\"$(tput sgr0     ||
+  echo)\\\"\\n        black=\\\"$(tput setaf 0   ||
+  echo)\\\"\\n        red=\\\"$(tput setaf 1     ||
+  echo)\\\"\\n        green=\\\"$(tput setaf 2   ||
+  echo)\\\"\\n        yellow=\\\"$(tput setaf 3  ||
+  echo)\\\"\\n        blue=\\\"$(tput setaf 4    ||
+  echo)\\\"\\n        magenta=\\\"$(tput setaf 5 ||
+  echo)\\\"\\n        cyan=\\\"$(tput setaf 6    ||
+  echo)\\\"\\n        white=\\\"$(tput setaf 7   ||
+  echo)\\\"\\n    fi\\nfi\\n\\nsay_warning() {\\n    printf \\\"%b\\\\n\\\"
+  \\\"${yellow:-}dotnet_install: Warning: $1${normal:-}\\\"
+  >&3\\n}\\n\\nsay_err() {\\n    printf \\\"%b\\\\n\\\"
+  \\\"${red:-}dotnet_install: Error: $1${normal:-}\\\" >&2\\n}\\n\\nsay()
+  {\\n    # using stream 3 (defined in the beginning) to not interfere with
+  stdout of functions\\n    # which may be used as return value\\n    printf
+  \\\"%b\\\\n\\\" \\\"${cyan:-}dotnet-install:${normal:-} $1\\\"
+  >&3\\n}\\n\\nsay_verbose() {\\n    if [ \\\"$verbose\\\" = true ];
+  then\\n        say \\\"$1\\\"\\n    fi\\n}\\n\\n# This platform list is finite
+  - if the SDK/Runtime has supported Linux distribution-specific
+  assets,\\n#   then and only then should the Linux distribution appear in this
+  list.\\n# Adding a Linux distribution to this list does not imply
+  distribution-specific support.\\nget_legacy_os_name_from_platform()
+  {\\n    eval $invocation\\n\\n    platform=\\\"$1\\\"\\n    case
+  \\\"$platform\\\" in\\n        \\\"centos.7\\\")\\n            echo
+  \\\"centos\\\"\\n            return
+  0\\n            ;;\\n        \\\"debian.8\\\")\\n            echo
+  \\\"debian\\\"\\n            return
+  0\\n            ;;\\n        \\\"debian.9\\\")\\n            echo
+  \\\"debian.9\\\"\\n            return
+  0\\n            ;;\\n        \\\"fedora.23\\\")\\n            echo
+  \\\"fedora.23\\\"\\n            return
+  0\\n            ;;\\n        \\\"fedora.24\\\")\\n            echo
+  \\\"fedora.24\\\"\\n            return
+  0\\n            ;;\\n        \\\"fedora.27\\\")\\n            echo
+  \\\"fedora.27\\\"\\n            return
+  0\\n            ;;\\n        \\\"fedora.28\\\")\\n            echo
+  \\\"fedora.28\\\"\\n            return
+  0\\n            ;;\\n        \\\"opensuse.13.2\\\")\\n            echo
+  \\\"opensuse.13.2\\\"\\n            return
+  0\\n            ;;\\n        \\\"opensuse.42.1\\\")\\n            echo
+  \\\"opensuse.42.1\\\"\\n            return
+  0\\n            ;;\\n        \\\"opensuse.42.3\\\")\\n            echo
+  \\\"opensuse.42.3\\\"\\n            return
+  0\\n            ;;\\n        \\\"rhel.7\\\"*)\\n            echo
+  \\\"rhel\\\"\\n            return
+  0\\n            ;;\\n        \\\"ubuntu.14.04\\\")\\n            echo
+  \\\"ubuntu\\\"\\n            return
+  0\\n            ;;\\n        \\\"ubuntu.16.04\\\")\\n            echo
+  \\\"ubuntu.16.04\\\"\\n            return
+  0\\n            ;;\\n        \\\"ubuntu.16.10\\\")\\n            echo
+  \\\"ubuntu.16.10\\\"\\n            return
+  0\\n            ;;\\n        \\\"ubuntu.18.04\\\")\\n            echo
+  \\\"ubuntu.18.04\\\"\\n            return
+  0\\n            ;;\\n        \\\"alpine.3.4.3\\\")\\n            echo
+  \\\"alpine\\\"\\n            return 0\\n            ;;\\n    esac\\n    return
+  1\\n}\\n\\nget_legacy_os_name() {\\n    eval $invocation\\n\\n    local
+  uname=$(uname)\\n    if [ \\\"$uname\\\" = \\\"Darwin\\\" ];
+  then\\n        echo \\\"osx\\\"\\n        return 0\\n    elif [ -n
+  \\\"$runtime_id\\\" ]; then\\n        echo $(get_legacy_os_name_from_platform
+  \\\"${runtime_id%-*}\\\" || echo \\\"${runtime_id%-*}\\\")\\n        return
+  0\\n    else\\n        if [ -e /etc/os-release ]; then\\n            .
+  /etc/os-release\\n            os=$(get_legacy_os_name_from_platform
+  \\\"$ID${VERSION_ID:+.${VERSION_ID}}\\\" || echo \\\"\\\")\\n            if [
+  -n \\\"$os\\\" ]; then\\n                echo
+  \\\"$os\\\"\\n                return
+  0\\n            fi\\n        fi\\n    fi\\n\\n    say_verbose \\\"Distribution
+  specific OS name and version could not be detected: UName =
+  $uname\\\"\\n    return 1\\n}\\n\\nget_linux_platform_name() {\\n    eval
+  $invocation\\n\\n    if [ -n \\\"$runtime_id\\\" ]; then\\n        echo
+  \\\"${runtime_id%-*}\\\"\\n        return 0\\n    else\\n        if [ -e
+  /etc/os-release ]; then\\n            . /etc/os-release\\n            echo
+  \\\"$ID${VERSION_ID:+.${VERSION_ID}}\\\"\\n            return 0\\n        elif
+  [ -e /etc/redhat-release ]; then\\n            local
+  redhatRelease=$(</etc/redhat-release)\\n            if [[ $redhatRelease ==
+  \\\"CentOS release 6.\\\"* || $redhatRelease == \\\"Red Hat Enterprise Linux
+  \\\"*\\\" release 6.\\\"* ]]; then\\n                echo
+  \\\"rhel.6\\\"\\n                return
+  0\\n            fi\\n        fi\\n    fi\\n\\n    say_verbose \\\"Linux
+  specific platform name and version could not be detected: UName =
+  $uname\\\"\\n    return 1\\n}\\n\\nis_musl_based_distro() {\\n    (ldd
+  --version 2>&1 || true) | grep -q musl\\n}\\n\\nget_current_os_name()
+  {\\n    eval $invocation\\n\\n    local uname=$(uname)\\n    if [
+  \\\"$uname\\\" = \\\"Darwin\\\" ]; then\\n        echo
+  \\\"osx\\\"\\n        return 0\\n    elif [ \\\"$uname\\\" = \\\"FreeBSD\\\"
+  ]; then\\n        echo \\\"freebsd\\\"\\n        return 0\\n    elif [
+  \\\"$uname\\\" = \\\"Linux\\\" ]; then\\n        local
+  linux_platform_name=\\\"\\\"\\n        linux_platform_name=\\\"$(get_linux_pl\
+  atform_name)\\\" || true\\n\\n        if [ \\\"$linux_platform_name\\\" =
+  \\\"rhel.6\\\" ]; then\\n            echo
+  $linux_platform_name\\n            return 0\\n        elif
+  is_musl_based_distro; then\\n            echo
+  \\\"linux-musl\\\"\\n            return 0\\n        elif [
+  \\\"$linux_platform_name\\\" = \\\"linux-musl\\\" ]; then\\n            echo
+  \\\"linux-musl\\\"\\n            return 0\\n        else\\n            echo
+  \\\"linux\\\"\\n            return 0\\n        fi\\n    fi\\n\\n    say_err
+  \\\"OS name could not be detected: UName = $uname\\\"\\n    return
+  1\\n}\\n\\nmachine_has() {\\n    eval $invocation\\n\\n    command -v
+  \\\"$1\\\" > /dev/null 2>&1\\n    return $?\\n}\\n\\ncheck_min_reqs()
+  {\\n    local hasMinimum=false\\n    if machine_has \\\"curl\\\";
+  then\\n        hasMinimum=true\\n    elif machine_has \\\"wget\\\";
+  then\\n        hasMinimum=true\\n    fi\\n\\n    if [ \\\"$hasMinimum\\\" =
+  \\\"false\\\" ]; then\\n        say_err \\\"curl (recommended) or wget are
+  required to download dotnet. Install missing prerequisite to
+  proceed.\\\"\\n        return 1\\n    fi\\n    return 0\\n}\\n\\n# args:\\n#
+  input - $1\\nto_lowercase() {\\n    #eval $invocation\\n\\n    echo \\\"$1\\\"
+  | tr '[:upper:]' '[:lower:]'\\n    return 0\\n}\\n\\n# args:\\n# input -
+  $1\\nremove_trailing_slash() {\\n    #eval $invocation\\n\\n    local
+  input=\\\"${1:-}\\\"\\n    echo \\\"${input%/}\\\"\\n    return 0\\n}\\n\\n#
+  args:\\n# input - $1\\nremove_beginning_slash() {\\n    #eval
+  $invocation\\n\\n    local input=\\\"${1:-}\\\"\\n    echo
+  \\\"${input#/}\\\"\\n    return 0\\n}\\n\\n# args:\\n# root_path - $1\\n#
+  child_path - $2 - this parameter can be empty\\ncombine_paths() {\\n    eval
+  $invocation\\n\\n    # TODO: Consider making it work with any number of paths.
+  For now:\\n    if [ ! -z \\\"${3:-}\\\" ]; then\\n        say_err
+  \\\"combine_paths: Function takes two parameters.\\\"\\n        return
+  1\\n    fi\\n\\n    local root_path=\\\"$(remove_trailing_slash
+  \\\"$1\\\")\\\"\\n    local child_path=\\\"$(remove_beginning_slash
+  \\\"${2:-}\\\")\\\"\\n    say_verbose \\\"combine_paths:
+  root_path=$root_path\\\"\\n    say_verbose \\\"combine_paths:
+  child_path=$child_path\\\"\\n    echo
+  \\\"$root_path/$child_path\\\"\\n    return
+  0\\n}\\n\\nget_machine_architecture() {\\n    eval $invocation\\n\\n    if
+  command -v uname > /dev/null; then\\n        CPUName=$(uname
+  -m)\\n        case $CPUName in\\n        armv*l)\\n            echo
+  \\\"arm\\\"\\n            return
+  0\\n            ;;\\n        aarch64|arm64)\\n            echo
+  \\\"arm64\\\"\\n            return
+  0\\n            ;;\\n        s390x)\\n            echo
+  \\\"s390x\\\"\\n            return
+  0\\n            ;;\\n        esac\\n    fi\\n\\n    # Always default to
+  'x64'\\n    echo \\\"x64\\\"\\n    return 0\\n}\\n\\n# args:\\n# architecture
+  - $1\\nget_normalized_architecture_from_architecture() {\\n    eval
+  $invocation\\n\\n    local architecture=\\\"$(to_lowercase
+  \\\"$1\\\")\\\"\\n\\n    if [[ $architecture == \\\\<auto\\\\> ]];
+  then\\n        echo \\\"$(get_machine_architecture)\\\"\\n        return
+  0\\n    fi\\n\\n    case \\\"$architecture\\\"
+  in\\n        amd64|x64)\\n            echo \\\"x64\\\"\\n            return
+  0\\n            ;;\\n        arm)\\n            echo
+  \\\"arm\\\"\\n            return
+  0\\n            ;;\\n        arm64)\\n            echo
+  \\\"arm64\\\"\\n            return
+  0\\n            ;;\\n        s390x)\\n            echo
+  \\\"s390x\\\"\\n            return
+  0\\n            ;;\\n    esac\\n\\n    say_err \\\"Architecture
+  \\\\`$architecture\\\\` not supported. If you think this is a bug, report it
+  at https://github.com/dotnet/install-scripts/issues\\\"\\n    return
+  1\\n}\\n\\n# args:\\n# user_defined_os - $1\\nget_normalized_os() {\\n    eval
+  $invocation\\n\\n    local osname=\\\"$(to_lowercase \\\"$1\\\")\\\"\\n    if
+  [ ! -z \\\"$osname\\\" ]; then\\n        case \\\"$osname\\\"
+  in\\n            osx | freebsd | rhel.6 | linux-musl |
+  linux)\\n                echo \\\"$osname\\\"\\n                return
+  0\\n                ;;\\n            *)\\n                say_err
+  \\\"'$user_defined_os' is not a supported value for --os option, supported
+  values are: osx, linux, linux-musl, freebsd, rhel.6. If you think this is a
+  bug, report it at
+  https://github.com/dotnet/install-scripts/issues.\\\"\\n                return
+  1\\n                ;;\\n        esac\\n    else\\n        osname=\\\"$(get_c\
+  urrent_os_name)\\\" || return 1\\n    fi\\n    echo
+  \\\"$osname\\\"\\n    return 0\\n}\\n\\n# args:\\n# quality -
+  $1\\nget_normalized_quality() {\\n    eval $invocation\\n\\n    local
+  quality=\\\"$(to_lowercase \\\"$1\\\")\\\"\\n    if [ ! -z \\\"$quality\\\" ];
+  then\\n        case \\\"$quality\\\" in\\n            daily | signed |
+  validated | preview)\\n                echo
+  \\\"$quality\\\"\\n                return
+  0\\n                ;;\\n            ga)\\n                #ga quality is
+  available without specifying quality, so normalizing it to
+  empty\\n                return
+  0\\n                ;;\\n            *)\\n                say_err
+  \\\"'$quality' is not a supported value for --quality option. Supported values
+  are: daily, signed, validated, preview, ga. If you think this is a bug, report
+  it at
+  https://github.com/dotnet/install-scripts/issues.\\\"\\n                return
+  1\\n                ;;\\n        esac\\n    fi\\n    return 0\\n}\\n\\n#
+  args:\\n# channel - $1\\nget_normalized_channel() {\\n    eval
+  $invocation\\n\\n    local channel=\\\"$(to_lowercase
+  \\\"$1\\\")\\\"\\n\\n    if [[ $channel == release/* ]];
+  then\\n        say_warning 'Using branch name with -Channel option is no
+  longer supported with newer releases. Use -Quality option with a channel in
+  X.Y format instead.';\\n    fi\\n\\n    if [ ! -z \\\"$channel\\\" ];
+  then\\n        case \\\"$channel\\\"
+  in\\n            lts)\\n                echo
+  \\\"LTS\\\"\\n                return
+  0\\n                ;;\\n            *)\\n                echo
+  \\\"$channel\\\"\\n                return
+  0\\n                ;;\\n        esac\\n    fi\\n\\n    return 0\\n}\\n\\n#
+  args:\\n# runtime - $1\\nget_normalized_product() {\\n    eval
+  $invocation\\n\\n    local product=\\\"\\\"\\n    local
+  runtime=\\\"$(to_lowercase \\\"$1\\\")\\\"\\n    if [[ \\\"$runtime\\\" ==
+  \\\"dotnet\\\" ]]; then\\n        product=\\\"dotnet-runtime\\\"\\n    elif [[
+  \\\"$runtime\\\" == \\\"aspnetcore\\\" ]];
+  then\\n        product=\\\"aspnetcore-runtime\\\"\\n    elif [ -z
+  \\\"$runtime\\\" ];
+  then\\n        product=\\\"dotnet-sdk\\\"\\n    fi\\n    echo
+  \\\"$product\\\"\\n    return 0\\n}\\n\\n# The version text returned from the
+  feeds is a 1-line or 2-line string:\\n# For the SDK and the dotnet runtime (2
+  lines):\\n# Line 1: # commit_hash\\n# Line 2: # 4-part version\\n# For the
+  aspnetcore runtime (1 line):\\n# Line 1: # 4-part version\\n\\n# args:\\n#
+  version_text - stdin\\nget_version_from_latestversion_file_content()
+  {\\n    eval $invocation\\n\\n    cat | tail -n 1 | sed
+  's/\\\\r$//'\\n    return 0\\n}\\n\\n# args:\\n# install_root - $1\\n#
+  relative_path_to_package - $2\\n# specific_version -
+  $3\\nis_dotnet_package_installed() {\\n    eval $invocation\\n\\n    local
+  install_root=\\\"$1\\\"\\n    local
+  relative_path_to_package=\\\"$2\\\"\\n    local
+  specific_version=\\\"${3//[$'\\\\t\\\\r\\\\n']}\\\"\\n\\n    local
+  dotnet_package_path=\\\"$(combine_paths \\\"$(combine_paths
+  \\\"$install_root\\\" \\\"$relative_path_to_package\\\")\\\"
+  \\\"$specific_version\\\")\\\"\\n    say_verbose
+  \\\"is_dotnet_package_installed:
+  dotnet_package_path=$dotnet_package_path\\\"\\n\\n    if [ -d
+  \\\"$dotnet_package_path\\\" ]; then\\n        return
+  0\\n    else\\n        return 1\\n    fi\\n}\\n\\n# args:\\n# azure_feed -
+  $1\\n# channel - $2\\n# normalized_architecture -
+  $3\\nget_version_from_latestversion_file() {\\n    eval
+  $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  channel=\\\"$2\\\"\\n    local
+  normalized_architecture=\\\"$3\\\"\\n\\n    local
+  version_file_url=null\\n    if [[ \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n        version_file_url=\\\"$azure_feed/Runtime/$channel/latest.versi\
+  on\\\"\\n    elif [[ \\\"$runtime\\\" == \\\"aspnetcore\\\" ]];
+  then\\n        version_file_url=\\\"$azure_feed/aspnetcore/Runtime/$channel/l\
+  atest.version\\\"\\n    elif [ -z \\\"$runtime\\\" ];
+  then\\n         version_file_url=\\\"$azure_feed/Sdk/$channel/latest.version\\\
+  \"\\n    else\\n        say_err \\\"Invalid value for
+  \\\\$runtime\\\"\\n        return 1\\n    fi\\n    say_verbose
+  \\\"get_version_from_latestversion_file: latest url:
+  $version_file_url\\\"\\n\\n    download \\\"$version_file_url\\\" || return
+  $?\\n    return 0\\n}\\n\\n# args:\\n# json_file -
+  $1\\nparse_globaljson_file_for_version() {\\n    eval
+  $invocation\\n\\n    local json_file=\\\"$1\\\"\\n    if [ ! -f
+  \\\"$json_file\\\" ]; then\\n        say_err \\\"Unable to find
+  \\\\`$json_file\\\\`\\\"\\n        return
+  1\\n    fi\\n\\n    sdk_section=$(cat $json_file | awk
+  '/\\\"sdk\\\"/,/}/')\\n    if [ -z \\\"$sdk_section\\\" ];
+  then\\n        say_err \\\"Unable to parse the SDK node in
+  \\\\`$json_file\\\\`\\\"\\n        return 1\\n    fi\\n\\n    sdk_list=$(echo
+  $sdk_section | awk -F\\\"[{}]\\\" '{print
+  $2}')\\n    sdk_list=${sdk_list//[\\\\\\\"
+  ]/}\\n    sdk_list=${sdk_list//,/$'\\\\n'}\\n\\n    local
+  version_info=\\\"\\\"\\n    while read -r line; do\\n      IFS=:\\n      while
+  read -r key value; do\\n        if [[ \\\"$key\\\" == \\\"version\\\" ]];
+  then\\n          version_info=$value\\n        fi\\n      done <<<
+  \\\"$line\\\"\\n    done <<< \\\"$sdk_list\\\"\\n    if [ -z
+  \\\"$version_info\\\" ]; then\\n        say_err \\\"Unable to find the
+  SDK:version node in \\\\`$json_file\\\\`\\\"\\n        return
+  1\\n    fi\\n\\n    unset IFS;\\n    echo \\\"$version_info\\\"\\n    return
+  0\\n}\\n\\n# args:\\n# azure_feed - $1\\n# channel - $2\\n#
+  normalized_architecture - $3\\n# version - $4\\n# json_file -
+  $5\\nget_specific_version_from_version() {\\n    eval
+  $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  channel=\\\"$2\\\"\\n    local normalized_architecture=\\\"$3\\\"\\n    local
+  version=\\\"$(to_lowercase \\\"$4\\\")\\\"\\n    local
+  json_file=\\\"$5\\\"\\n\\n    if [ -z \\\"$json_file\\\" ]; then\\n        if
+  [[ \\\"$version\\\" == \\\"latest\\\" ]]; then\\n            local
+  version_info\\n            version_info=\\\"$(get_version_from_latestversion_\
+  file \\\"$azure_feed\\\" \\\"$channel\\\" \\\"$normalized_architecture\\\"
+  false)\\\" || return 1\\n            say_verbose
+  \\\"get_specific_version_from_version:
+  version_info=$version_info\\\"\\n            echo \\\"$version_info\\\" |
+  get_version_from_latestversion_file_content\\n            return
+  0\\n        else\\n            echo \\\"$version\\\"\\n            return
+  0\\n        fi\\n    else\\n        local
+  version_info\\n        version_info=\\\"$(parse_globaljson_file_for_version
+  \\\"$json_file\\\")\\\" || return 1\\n        echo
+  \\\"$version_info\\\"\\n        return 0\\n    fi\\n}\\n\\n# args:\\n#
+  azure_feed - $1\\n# channel - $2\\n# normalized_architecture - $3\\n#
+  specific_version - $4\\n# normalized_os - $5\\nconstruct_download_link()
+  {\\n    eval $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  channel=\\\"$2\\\"\\n    local normalized_architecture=\\\"$3\\\"\\n    local
+  specific_version=\\\"${4//[$'\\\\t\\\\r\\\\n']}\\\"\\n    local
+  specific_product_version=\\\"$(get_specific_product_version \\\"$1\\\"
+  \\\"$4\\\")\\\"\\n    local osname=\\\"$5\\\"\\n\\n    local
+  download_link=null\\n    if [[ \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n        download_link=\\\"$azure_feed/Runtime/$specific_version/dotnet\
+  -runtime-$specific_product_version-$osname-$normalized_architecture.tar.gz\\\"\
+  \\n    elif [[ \\\"$runtime\\\" == \\\"aspnetcore\\\" ]];
+  then\\n        download_link=\\\"$azure_feed/aspnetcore/Runtime/$specific_ver\
+  sion/aspnetcore-runtime-$specific_product_version-$osname-$normalized_archite\
+  cture.tar.gz\\\"\\n    elif [ -z \\\"$runtime\\\" ];
+  then\\n        download_link=\\\"$azure_feed/Sdk/$specific_version/dotnet-sdk\
+  -$specific_product_version-$osname-$normalized_architecture.tar.gz\\\"\\n    \
+  else\\n        return 1\\n    fi\\n\\n    echo
+  \\\"$download_link\\\"\\n    return 0\\n}\\n\\n# args:\\n# azure_feed - $1\\n#
+  specific_version - $2\\n# download link - $3
+  (optional)\\nget_specific_product_version() {\\n    # If we find a
+  'productVersion.txt' at the root of any folder, we'll use its contents\\n    #
+  to resolve the version of what's in the folder, superseding the specified
+  version.\\n    # if 'productVersion.txt' is missing but download link is
+  already available, product version will be taken from download link\\n    eval
+  $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  specific_version=\\\"${2//[$'\\\\t\\\\r\\\\n']}\\\"\\n    local
+  package_download_link=\\\"\\\"\\n    if [ $# -gt 2  ]; then\\n        local
+  package_download_link=\\\"$3\\\"\\n    fi\\n    local
+  specific_product_version=null\\n\\n    # Try to get the version number, using
+  the productVersion.txt file located next to the installer file.\\n    local
+  download_links=($(get_specific_product_version_url \\\"$azure_feed\\\"
+  \\\"$specific_version\\\" true
+  \\\"$package_download_link\\\")\\n        $(get_specific_product_version_url
+  \\\"$azure_feed\\\" \\\"$specific_version\\\" false
+  \\\"$package_download_link\\\"))\\n\\n    for download_link in
+  \\\"${download_links[@]}\\\"\\n    do\\n        say_verbose \\\"Checking for
+  the existence of $download_link\\\"\\n\\n        if machine_has
+  \\\"curl\\\"\\n        then\\n            if ! specific_product_version=$(curl
+  -s --fail \\\"${download_link}${feed_credential}\\\" 2>&1);
+  then\\n                continue\\n            else\\n                echo
+  \\\"${specific_product_version//[$'\\\\t\\\\r\\\\n']}\\\"\\n                r\
+  eturn 0\\n            fi\\n\\n        elif machine_has
+  \\\"wget\\\"\\n        then\\n            specific_product_version=$(wget -qO-
+  \\\"${download_link}${feed_credential}\\\" 2>&1)\\n            if [ $? = 0 ];
+  then\\n                echo
+  \\\"${specific_product_version//[$'\\\\t\\\\r\\\\n']}\\\"\\n                r\
+  eturn 0\\n            fi\\n        fi\\n    done\\n    \\n    # Getting the
+  version number with productVersion.txt has failed. Try parsing the download
+  link for a version number.\\n    say_verbose \\\"Failed to get the version
+  using productVersion.txt file. Download link will be parsed
+  instead.\\\"\\n    specific_product_version=\\\"$(get_product_specific_versio\
+  n_from_download_link \\\"$package_download_link\\\"
+  \\\"$specific_version\\\")\\\"\\n    echo
+  \\\"${specific_product_version//[$'\\\\t\\\\r\\\\n']}\\\"\\n    return
+  0\\n}\\n\\n# args:\\n# azure_feed - $1\\n# specific_version - $2\\n#
+  is_flattened - $3\\n# download link - $4
+  (optional)\\nget_specific_product_version_url() {\\n    eval
+  $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  specific_version=\\\"$2\\\"\\n    local is_flattened=\\\"$3\\\"\\n    local
+  package_download_link=\\\"\\\"\\n    if [ $# -gt 3  ]; then\\n        local
+  package_download_link=\\\"$4\\\"\\n    fi\\n\\n    local
+  pvFileName=\\\"productVersion.txt\\\"\\n    if [ \\\"$is_flattened\\\" = true
+  ]; then\\n        if [ -z \\\"$runtime\\\" ];
+  then\\n            pvFileName=\\\"sdk-productVersion.txt\\\"\\n        elif [[
+  \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n            pvFileName=\\\"runtime-productVersion.txt\\\"\\n        el\
+  se\\n            pvFileName=\\\"$runtime-productVersion.txt\\\"\\n        fi\
+  \\n    fi\\n\\n    local download_link=null\\n\\n    if [ -z
+  \\\"$package_download_link\\\" ]; then\\n        if [[ \\\"$runtime\\\" ==
+  \\\"dotnet\\\" ]];
+  then\\n            download_link=\\\"$azure_feed/Runtime/$specific_version/${\
+  pvFileName}\\\"\\n        elif [[ \\\"$runtime\\\" == \\\"aspnetcore\\\" ]];
+  then\\n            download_link=\\\"$azure_feed/aspnetcore/Runtime/$specific\
+  _version/${pvFileName}\\\"\\n        elif [ -z \\\"$runtime\\\" ];
+  then\\n            download_link=\\\"$azure_feed/Sdk/$specific_version/${pvFi\
+  leName}\\\"\\n        else\\n            return
+  1\\n        fi\\n    else\\n        download_link=\\\"${package_download_link\
+  %/*}/${pvFileName}\\\"\\n    fi\\n\\n    say_verbose \\\"Constructed
+  productVersion link: $download_link\\\"\\n    echo
+  \\\"$download_link\\\"\\n    return 0\\n}\\n\\n# args:\\n# download link -
+  $1\\n# specific version -
+  $2\\nget_product_specific_version_from_download_link()\\n{\\n    eval
+  $invocation\\n\\n    local download_link=\\\"$1\\\"\\n    local
+  specific_version=\\\"$2\\\"\\n    local specific_product_version=\\\"\\\"
+  \\n\\n    if [ -z \\\"$download_link\\\" ]; then\\n        echo
+  \\\"$specific_version\\\"\\n        return 0\\n    fi\\n\\n    #get
+  filename\\n    filename=\\\"${download_link##*/}\\\"\\n\\n    #product
+  specific version follows the product name\\n    #for filename
+  'dotnet-sdk-3.1.404-linux-x64.tar.gz': the product version is
+  3.1.404\\n    IFS='-'\\n    read -ra filename_elems <<<
+  \\\"$filename\\\"\\n    count=${#filename_elems[@]}\\n    if [[ \\\"$count\\\"
+  -gt 2 ]];
+  then\\n        specific_product_version=\\\"${filename_elems[2]}\\\"\\n    el\
+  se\\n        specific_product_version=$specific_version\\n    fi\\n    unset
+  IFS;\\n    echo \\\"$specific_product_version\\\"\\n    return 0\\n}\\n\\n#
+  args:\\n# azure_feed - $1\\n# channel - $2\\n# normalized_architecture -
+  $3\\n# specific_version - $4\\nconstruct_legacy_download_link() {\\n    eval
+  $invocation\\n\\n    local azure_feed=\\\"$1\\\"\\n    local
+  channel=\\\"$2\\\"\\n    local normalized_architecture=\\\"$3\\\"\\n    local
+  specific_version=\\\"${4//[$'\\\\t\\\\r\\\\n']}\\\"\\n\\n    local
+  distro_specific_osname\\n    distro_specific_osname=\\\"$(get_legacy_os_name)\
+  \\\" || return 1\\n\\n    local legacy_download_link=null\\n    if [[
+  \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n        legacy_download_link=\\\"$azure_feed/Runtime/$specific_version\
+  /dotnet-$distro_specific_osname-$normalized_architecture.$specific_version.ta\
+  r.gz\\\"\\n    elif [ -z \\\"$runtime\\\" ];
+  then\\n        legacy_download_link=\\\"$azure_feed/Sdk/$specific_version/dot\
+  net-dev-$distro_specific_osname-$normalized_architecture.$specific_version.ta\
+  r.gz\\\"\\n    else\\n        return 1\\n    fi\\n\\n    echo
+  \\\"$legacy_download_link\\\"\\n    return 0\\n}\\n\\nget_user_install_path()
+  {\\n    eval $invocation\\n\\n    if [ ! -z \\\"${DOTNET_INSTALL_DIR:-}\\\" ];
+  then\\n        echo \\\"$DOTNET_INSTALL_DIR\\\"\\n    else\\n        echo
+  \\\"$HOME/.dotnet\\\"\\n    fi\\n    return 0\\n}\\n\\n# args:\\n# install_dir
+  - $1\\nresolve_installation_path() {\\n    eval $invocation\\n\\n    local
+  install_dir=$1\\n    if [ \\\"$install_dir\\\" = \\\"<auto>\\\" ];
+  then\\n        local
+  user_install_path=\\\"$(get_user_install_path)\\\"\\n        say_verbose
+  \\\"resolve_installation_path:
+  user_install_path=$user_install_path\\\"\\n        echo
+  \\\"$user_install_path\\\"\\n        return 0\\n    fi\\n\\n    echo
+  \\\"$install_dir\\\"\\n    return 0\\n}\\n\\n# args:\\n#
+  relative_or_absolute_path - $1\\nget_absolute_path() {\\n    eval
+  $invocation\\n\\n    local relative_or_absolute_path=$1\\n    echo \\\"$(cd
+  \\\"$(dirname \\\"$1\\\")\\\" && pwd -P)/$(basename
+  \\\"$1\\\")\\\"\\n    return 0\\n}\\n\\n# args:\\n# input_files - stdin\\n#
+  root_path - $1\\n# out_path - $2\\n# override -
+  $3\\ncopy_files_or_dirs_from_list() {\\n    eval $invocation\\n\\n    local
+  root_path=\\\"$(remove_trailing_slash \\\"$1\\\")\\\"\\n    local
+  out_path=\\\"$(remove_trailing_slash \\\"$2\\\")\\\"\\n    local
+  override=\\\"$3\\\"\\n    local
+  osname=\\\"$(get_current_os_name)\\\"\\n    local
+  override_switch=$(\\n        if [ \\\"$override\\\" = false ];
+  then\\n            if [ \\\"$osname\\\" = \\\"linux-musl\\\" ];
+  then\\n                printf --
+  \\\"-u\\\";\\n            else\\n                printf --
+  \\\"-n\\\";\\n            fi\\n        fi)\\n\\n    cat | uniq | while read -r
+  file_path; do\\n        local path=\\\"$(remove_beginning_slash
+  \\\"${file_path#$root_path}\\\")\\\"\\n        local
+  target=\\\"$out_path/$path\\\"\\n        if [ \\\"$override\\\" = true ] || (!
+  ([ -d \\\"$target\\\" ] || [ -e \\\"$target\\\" ])); then\\n            mkdir
+  -p \\\"$out_path/$(dirname \\\"$path\\\")\\\"\\n            if [ -d
+  \\\"$target\\\" ]; then\\n                rm -rf
+  \\\"$target\\\"\\n            fi\\n            cp -R $override_switch
+  \\\"$root_path/$path\\\" \\\"$target\\\"\\n        fi\\n    done\\n}\\n\\n#
+  args:\\n# zip_path - $1\\n# out_path - $2\\nextract_dotnet_package()
+  {\\n    eval $invocation\\n\\n    local zip_path=\\\"$1\\\"\\n    local
+  out_path=\\\"$2\\\"\\n\\n    local temp_out_path=\\\"$(mktemp -d
+  \\\"$temporary_file_template\\\")\\\"\\n\\n    local failed=false\\n    tar
+  -xzf \\\"$zip_path\\\" -C \\\"$temp_out_path\\\" > /dev/null ||
+  failed=true\\n\\n    local
+  folders_with_version_regex='^.*/[0-9]+\\\\.[0-9]+[^/]+/'\\n    find
+  \\\"$temp_out_path\\\" -type f | grep -Eo \\\"$folders_with_version_regex\\\"
+  | sort | copy_files_or_dirs_from_list \\\"$temp_out_path\\\" \\\"$out_path\\\"
+  false\\n    find \\\"$temp_out_path\\\" -type f | grep -Ev
+  \\\"$folders_with_version_regex\\\" | copy_files_or_dirs_from_list
+  \\\"$temp_out_path\\\" \\\"$out_path\\\"
+  \\\"$override_non_versioned_files\\\"\\n\\n    rm -rf
+  \\\"$temp_out_path\\\"\\n    rm -f \\\"$zip_path\\\" && say_verbose
+  \\\"Temporary zip file $zip_path was removed\\\"\\n\\n    if [ \\\"$failed\\\"
+  = true ]; then\\n        say_err \\\"Extraction failed\\\"\\n        return
+  1\\n    fi\\n    return 0\\n}\\n\\n# args:\\n# remote_path - $1\\n#
+  disable_feed_credential - $2\\nget_http_header()\\n{\\n    eval
+  $invocation\\n    local remote_path=\\\"$1\\\"\\n    local
+  disable_feed_credential=\\\"$2\\\"\\n\\n    local failed=false\\n    local
+  response\\n    if machine_has \\\"curl\\\";
+  then\\n        get_http_header_curl $remote_path $disable_feed_credential ||
+  failed=true\\n    elif machine_has \\\"wget\\\";
+  then\\n        get_http_header_wget $remote_path $disable_feed_credential ||
+  failed=true\\n    else\\n        failed=true\\n    fi\\n    if [
+  \\\"$failed\\\" = true ]; then\\n        say_verbose \\\"Failed to get HTTP
+  header: '$remote_path'.\\\"\\n        return 1\\n    fi\\n    return
+  0\\n}\\n\\n# args:\\n# remote_path - $1\\n# disable_feed_credential -
+  $2\\nget_http_header_curl() {\\n    eval $invocation\\n    local
+  remote_path=\\\"$1\\\"\\n    local
+  disable_feed_credential=\\\"$2\\\"\\n\\n    remote_path_with_credential=\\\"$\
+  remote_path\\\"\\n    if [ \\\"$disable_feed_credential\\\" = false ];
+  then\\n        remote_path_with_credential+=\\\"$feed_credential\\\"\\n    fi\
+  \\n\\n    curl_options=\\\"-I -sSL --retry 5 --retry-delay 2 --connect-timeout
+  15 \\\"\\n    curl $curl_options \\\"$remote_path_with_credential\\\" 2>&1 ||
+  return 1\\n    return 0\\n}\\n\\n# args:\\n# remote_path - $1\\n#
+  disable_feed_credential - $2\\nget_http_header_wget() {\\n    eval
+  $invocation\\n    local remote_path=\\\"$1\\\"\\n    local
+  disable_feed_credential=\\\"$2\\\"\\n    local wget_options=\\\"-q -S --spider
+  --tries 5 \\\"\\n\\n    local wget_options_extra=''\\n\\n    # Test for
+  options that aren't supported on all wget implementations.\\n    if [[ $(wget
+  -h 2>&1 | grep -E 'waitretry|connect-timeout') ]];
+  then\\n        wget_options_extra=\\\"--waitretry 2 --connect-timeout 15
+  \\\"\\n    else\\n        say \\\"wget extra options are unavailable for this
+  environment\\\"\\n    fi\\n\\n    remote_path_with_credential=\\\"$remote_path\
+  \\\"\\n    if [ \\\"$disable_feed_credential\\\" = false ];
+  then\\n        remote_path_with_credential+=\\\"$feed_credential\\\"\\n    fi\
+  \\n\\n    wget $wget_options $wget_options_extra
+  \\\"$remote_path_with_credential\\\" 2>&1\\n\\n    return $?\\n}\\n\\n#
+  args:\\n# remote_path - $1\\n# [out_path] - $2 - stdout if not
+  provided\\ndownload() {\\n    eval $invocation\\n\\n    local
+  remote_path=\\\"$1\\\"\\n    local out_path=\\\"${2:-}\\\"\\n\\n    if [[
+  \\\"$remote_path\\\" != \\\"http\\\"* ]]; then\\n        cp
+  \\\"$remote_path\\\" \\\"$out_path\\\"\\n        return
+  $?\\n    fi\\n\\n    local failed=false\\n    local attempts=0\\n    while [
+  $attempts -lt 3 ];
+  do\\n        attempts=$((attempts+1))\\n        failed=false\\n        if
+  machine_has \\\"curl\\\"; then\\n            downloadcurl \\\"$remote_path\\\"
+  \\\"$out_path\\\" || failed=true\\n        elif machine_has \\\"wget\\\";
+  then\\n            downloadwget \\\"$remote_path\\\" \\\"$out_path\\\" ||
+  failed=true\\n        else\\n            say_err \\\"Missing dependency:
+  neither curl nor wget was found.\\\"\\n            exit
+  1\\n        fi\\n\\n        if [ \\\"$failed\\\" = false ] || [ $attempts -ge
+  3 ] || { [ ! -z $http_code ] && [ $http_code = \\\"404\\\" ]; };
+  then\\n            break\\n        fi\\n\\n        say \\\"Download attempt
+  #$attempts has failed: $http_code $download_error_msg\\\"\\n        say
+  \\\"Attempt #$((attempts+1)) will start in $((attempts*10))
+  seconds.\\\"\\n        sleep $((attempts*10))\\n    done\\n\\n\\n\\n    if [
+  \\\"$failed\\\" = true ]; then\\n        say_verbose \\\"Download failed:
+  $remote_path\\\"\\n        return 1\\n    fi\\n    return 0\\n}\\n\\n# Updates
+  global variables $http_code and $download_error_msg\\ndownloadcurl()
+  {\\n    eval $invocation\\n    unset http_code\\n    unset
+  download_error_msg\\n    local remote_path=\\\"$1\\\"\\n    local
+  out_path=\\\"${2:-}\\\"\\n    # Append feed_credential as late as possible
+  before calling curl to avoid logging feed_credential\\n    # Avoid passing URI
+  with credentials to functions: note, most of them echoing parameters of
+  invocation in verbose output.\\n    local
+  remote_path_with_credential=\\\"${remote_path}${feed_credential}\\\"\\n    lo\
+  cal curl_options=\\\"--retry 20 --retry-delay 2 --connect-timeout 15 -sSL -f
+  --create-dirs \\\"\\n    local curl_exit_code=0;\\n    if [ -z
+  \\\"$out_path\\\" ]; then\\n        curl $curl_options
+  \\\"$remote_path_with_credential\\\"
+  2>&1\\n        curl_exit_code=$?\\n    else\\n        curl $curl_options -o
+  \\\"$out_path\\\" \\\"$remote_path_with_credential\\\"
+  2>&1\\n        curl_exit_code=$?\\n    fi\\n    \\n    if [ $curl_exit_code
+  -gt 0 ]; then\\n        download_error_msg=\\\"Unable to download
+  $remote_path.\\\"\\n        # Check for curl timeout codes\\n        if [[
+  $curl_exit_code == 7 || $curl_exit_code == 28 ]];
+  then\\n            download_error_msg+=\\\" Failed to reach the server:
+  connection timeout.\\\"\\n        else\\n            local
+  disable_feed_credential=false\\n            local
+  response=$(get_http_header_curl $remote_path
+  $disable_feed_credential)\\n            http_code=$( echo \\\"$response\\\" |
+  awk '/^HTTP/{print $2}' | tail -1 )\\n            if  [[ ! -z $http_code &&
+  $http_code != 2* ]]; then\\n                download_error_msg+=\\\" Returned
+  HTTP status code:
+  $http_code.\\\"\\n            fi\\n        fi\\n        say_verbose
+  \\\"$download_error_msg\\\"\\n        return 1\\n    fi\\n    return
+  0\\n}\\n\\n\\n# Updates global variables $http_code and
+  $download_error_msg\\ndownloadwget() {\\n    eval $invocation\\n    unset
+  http_code\\n    unset download_error_msg\\n    local
+  remote_path=\\\"$1\\\"\\n    local out_path=\\\"${2:-}\\\"\\n    # Append
+  feed_credential as late as possible before calling wget to avoid logging
+  feed_credential\\n    local
+  remote_path_with_credential=\\\"${remote_path}${feed_credential}\\\"\\n    lo\
+  cal wget_options=\\\"--tries 20 \\\"\\n\\n    local
+  wget_options_extra=''\\n    local wget_result=''\\n\\n    # Test for options
+  that aren't supported on all wget implementations.\\n    if [[ $(wget -h 2>&1
+  | grep -E 'waitretry|connect-timeout') ]];
+  then\\n        wget_options_extra=\\\"--waitretry 2 --connect-timeout 15
+  \\\"\\n    else\\n        say \\\"wget extra options are unavailable for this
+  environment\\\"\\n    fi\\n\\n    if [ -z \\\"$out_path\\\" ];
+  then\\n        wget -q $wget_options $wget_options_extra -O -
+  \\\"$remote_path_with_credential\\\"
+  2>&1\\n        wget_result=$?\\n    else\\n        wget $wget_options
+  $wget_options_extra -O \\\"$out_path\\\" \\\"$remote_path_with_credential\\\"
+  2>&1\\n        wget_result=$?\\n    fi\\n\\n    if [[ $wget_result != 0 ]];
+  then\\n        local disable_feed_credential=false\\n        local
+  response=$(get_http_header_wget $remote_path
+  $disable_feed_credential)\\n        http_code=$( echo \\\"$response\\\" | awk
+  '/^  HTTP/{print $2}' | tail -1 )\\n        download_error_msg=\\\"Unable to
+  download $remote_path.\\\"\\n        if  [[ ! -z $http_code && $http_code !=
+  2* ]]; then\\n            download_error_msg+=\\\" Returned HTTP status code:
+  $http_code.\\\"\\n        # wget exit code 4 stands for
+  network-issue\\n        elif [[ $wget_result == 4 ]];
+  then\\n            download_error_msg+=\\\" Failed to reach the server:
+  connection timeout.\\\"\\n        fi\\n        say_verbose
+  \\\"$download_error_msg\\\"\\n        return 1\\n    fi\\n\\n    return
+  0\\n}\\n\\nget_download_link_from_aka_ms() {\\n    eval
+  $invocation\\n\\n    #quality is not supported for LTS or current
+  channel\\n    if [[ ! -z \\\"$normalized_quality\\\"  &&
+  (\\\"$normalized_channel\\\" == \\\"LTS\\\" || \\\"$normalized_channel\\\" ==
+  \\\"current\\\") ]];
+  then\\n        normalized_quality=\\\"\\\"\\n        say_warning
+  \\\"Specifying quality for current or LTS channel is not supported, the
+  quality will be ignored.\\\"\\n    fi\\n\\n    say_verbose \\\"Retrieving
+  primary payload URL from aka.ms for channel: '$normalized_channel', quality:
+  '$normalized_quality', product: '$normalized_product', os: '$normalized_os',
+  architecture: '$normalized_architecture'.\\\" \\n\\n    #construct aka.ms
+  link\\n    aka_ms_link=\\\"https://aka.ms/dotnet\\\"\\n    if  [
+  \\\"$internal\\\" = true ];
+  then\\n        aka_ms_link=\\\"$aka_ms_link/internal\\\"\\n    fi\\n    aka_m\
+  s_link=\\\"$aka_ms_link/$normalized_channel\\\"\\n    if [[ ! -z
+  \\\"$normalized_quality\\\" ]];
+  then\\n        aka_ms_link=\\\"$aka_ms_link/$normalized_quality\\\"\\n    fi\
+  \\n    aka_ms_link=\\\"$aka_ms_link/$normalized_product-$normalized_os-$norma\
+  lized_architecture.tar.gz\\\"\\n    say_verbose \\\"Constructed aka.ms link:
+  '$aka_ms_link'.\\\"\\n\\n    #get HTTP response\\n    #do not pass credentials
+  as a part of the $aka_ms_link and do not apply credentials in the
+  get_http_header function\\n    #otherwise the redirect link would have
+  credentials as well\\n    #it would result in applying credentials twice to
+  the resulting link and thus breaking it, and in echoing credentials to the
+  output as a part of redirect
+  link\\n    disable_feed_credential=true\\n    response=\\\"$(get_http_header
+  $aka_ms_link $disable_feed_credential)\\\"\\n\\n    say_verbose \\\"Received
+  response: $response\\\"\\n    # Get results of all the
+  redirects.\\n    http_codes=$( echo \\\"$response\\\" | awk '$1 ~ /^HTTP/
+  {print $2}' )\\n    # They all need to be 301, otherwise some links are broken
+  (except for the last, which is not a redirect but 200 or
+  404).\\n    broken_redirects=$( echo \\\"$http_codes\\\" | sed '$d' | grep -v
+  '301' )\\n\\n    # All HTTP codes are 301 (Moved Permanently), the redirect
+  link exists.\\n    if [[ -z \\\"$broken_redirects\\\" ]];
+  then\\n        aka_ms_download_link=$( echo \\\"$response\\\" | awk '$1 ~
+  /^Location/{print $2}' | tail -1 | tr -d '\\\\r')\\n\\n        if [[ -z
+  \\\"$aka_ms_download_link\\\" ]]; then\\n            say_verbose \\\"The
+  aka.ms link '$aka_ms_link' is not valid: failed to get redirect
+  location.\\\"\\n            return 1\\n        fi\\n\\n        say_verbose
+  \\\"The redirect location retrieved:
+  '$aka_ms_download_link'.\\\"\\n        return
+  0\\n    else\\n        say_verbose \\\"The aka.ms link '$aka_ms_link' is not
+  valid: received HTTP code: $(echo \\\"$broken_redirects\\\" | paste -sd
+  \\\",\\\" -).\\\"\\n        return
+  1\\n    fi\\n}\\n\\nget_feeds_to_use()\\n{\\n    feeds=(\\n    \\\"https://do\
+  tnetcli.azureedge.net/dotnet\\\"\\n    \\\"https://dotnetbuilds.azureedge.net\
+  /public\\\"\\n    )\\n\\n    if [[ -n \\\"$azure_feed\\\" ]];
+  then\\n        feeds=(\\\"$azure_feed\\\")\\n    fi\\n\\n    if [[
+  \\\"$no_cdn\\\" == \\\"true\\\" ]];
+  then\\n        feeds=(\\n        \\\"https://dotnetcli.blob.core.windows.net/\
+  dotnet\\\"\\n        \\\"https://dotnetbuilds.blob.core.windows.net/public\\\"\
+  \\n        )\\n\\n        if [[ -n \\\"$uncached_feed\\\" ]];
+  then\\n            feeds=(\\\"$uncached_feed\\\")\\n        fi\\n    fi\\n}\\n\
+  \\n# THIS FUNCTION MAY EXIT (if the determined version is already
+  installed).\\ngenerate_download_links()
+  {\\n\\n    download_links=()\\n    specific_versions=()\\n    effective_versi\
+  ons=()\\n    link_types=()\\n\\n    # If generate_akams_links returns false,
+  no fallback to old links. Just terminate.\\n    # This function may also
+  'exit' (if the determined version is already
+  installed).\\n    generate_akams_links || return\\n\\n    # Check other feeds
+  only if we haven't been able to find an aka.ms link.\\n    if [[
+  \\\"${#download_links[@]}\\\" -lt 1 ]]; then\\n        for feed in
+  ${feeds[@]}\\n        do\\n            # generate_regular_links may also
+  'exit' (if the determined version is already
+  installed).\\n            generate_regular_links $feed ||
+  return\\n        done\\n    fi\\n\\n    if [[ \\\"${#download_links[@]}\\\"
+  -eq 0 ]]; then\\n        say_err \\\"Failed to resolve the exact version
+  number.\\\"\\n        return 1\\n    fi\\n\\n    say_verbose \\\"Generated
+  ${#download_links[@]} links.\\\"\\n    for link_index in
+  ${!download_links[@]}\\n    do\\n        say_verbose \\\"Link $link_index:
+  ${link_types[$link_index]}, ${effective_versions[$link_index]},
+  ${download_links[$link_index]}\\\"\\n    done\\n}\\n\\n# THIS FUNCTION MAY
+  EXIT (if the determined version is already
+  installed).\\ngenerate_akams_links() {\\n    local
+  valid_aka_ms_link=true;\\n\\n    normalized_version=\\\"$(to_lowercase
+  \\\"$version\\\")\\\"\\n    if [[ \\\"$normalized_version\\\" !=
+  \\\"latest\\\" ]] && [ -n \\\"$normalized_quality\\\" ];
+  then\\n        say_err \\\"Quality and Version options are not allowed to be
+  specified simultaneously. See
+  https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script#opti\
+  ons for details.\\\"\\n        return 1\\n    fi\\n\\n    if [[ -n
+  \\\"$json_file\\\" || \\\"$normalized_version\\\" != \\\"latest\\\" ]];
+  then\\n        # aka.ms links are not needed when exact version is specified
+  via command or json
+  file\\n        return\\n    fi\\n\\n    get_download_link_from_aka_ms ||
+  valid_aka_ms_link=false\\n\\n    if [[ \\\"$valid_aka_ms_link\\\" == true ]];
+  then\\n        say_verbose \\\"Retrieved primary payload URL from aka.ms link:
+  '$aka_ms_download_link'.\\\"\\n        say_verbose \\\"Downloading using
+  legacy url will not be
+  attempted.\\\"\\n\\n        download_link=$aka_ms_download_link\\n\\n        \
+  #get version from the path\\n        IFS='/'\\n        read -ra pathElems <<<
+  \\\"$download_link\\\"\\n        count=${#pathElems[@]}\\n        specific_ve\
+  rsion=\\\"${pathElems[count-2]}\\\"\\n        unset IFS;\\n        say_verbose
+  \\\"Version: '$specific_version'.\\\"\\n\\n        #Retrieve effective
+  version\\n        effective_version=\\\"$(get_specific_product_version
+  \\\"$azure_feed\\\" \\\"$specific_version\\\"
+  \\\"$download_link\\\")\\\"\\n\\n        # Add link info to
+  arrays\\n        download_links+=($download_link)\\n        specific_versions\
+  +=($specific_version)\\n        effective_versions+=($effective_version)\\n        \
+  link_types+=(\\\"aka.ms\\\")\\n\\n        #  Check if the SDK version is
+  already installed.\\n        if [[ \\\"$dry_run\\\" != true ]] &&
+  is_dotnet_package_installed \\\"$install_root\\\" \\\"$asset_relative_path\\\"
+  \\\"$effective_version\\\"; then\\n            say \\\"$asset_name with
+  version '$effective_version' is already installed.\\\"\\n            exit
+  0\\n        fi\\n\\n        return 0\\n    fi\\n\\n    # if quality is
+  specified - exit with error - there is no fallback approach\\n    if [ ! -z
+  \\\"$normalized_quality\\\" ]; then\\n        say_err \\\"Failed to locate the
+  latest version in the channel '$normalized_channel' with '$normalized_quality'
+  quality for '$normalized_product', os: '$normalized_os', architecture:
+  '$normalized_architecture'.\\\"\\n        say_err \\\"Refer to:
+  https://aka.ms/dotnet-os-lifecycle for information on .NET Core
+  support.\\\"\\n        return 1\\n    fi\\n    say_verbose \\\"Falling back to
+  latest.version file approach.\\\"\\n}\\n\\n# THIS FUNCTION MAY EXIT (if the
+  determined version is already installed)\\n# args:\\n# feed -
+  $1\\ngenerate_regular_links() {\\n    local feed=\\\"$1\\\"\\n    local
+  valid_legacy_download_link=true\\n\\n    specific_version=$(get_specific_vers\
+  ion_from_version \\\"$feed\\\" \\\"$channel\\\"
+  \\\"$normalized_architecture\\\" \\\"$version\\\" \\\"$json_file\\\") ||
+  specific_version='0'\\n\\n    if [[ \\\"$specific_version\\\" == '0' ]];
+  then\\n        say_verbose \\\"Failed to resolve the specific version number
+  using feed
+  '$feed'\\\"\\n        return\\n    fi\\n\\n    effective_version=\\\"$(get_sp\
+  ecific_product_version \\\"$feed\\\"
+  \\\"$specific_version\\\")\\\"\\n    say_verbose
+  \\\"specific_version=$specific_version\\\"\\n\\n    download_link=\\\"$(const\
+  ruct_download_link \\\"$feed\\\" \\\"$channel\\\"
+  \\\"$normalized_architecture\\\" \\\"$specific_version\\\"
+  \\\"$normalized_os\\\")\\\"\\n    say_verbose \\\"Constructed primary named
+  payload URL: $download_link\\\"\\n\\n    # Add link info to
+  arrays\\n    download_links+=($download_link)\\n    specific_versions+=($spec\
+  ific_version)\\n    effective_versions+=($effective_version)\\n    link_types\
+  +=(\\\"primary\\\")\\n\\n    legacy_download_link=\\\"$(construct_legacy_down\
+  load_link \\\"$feed\\\" \\\"$channel\\\" \\\"$normalized_architecture\\\"
+  \\\"$specific_version\\\")\\\" || valid_legacy_download_link=false\\n\\n    if
+  [ \\\"$valid_legacy_download_link\\\" = true ]; then\\n        say_verbose
+  \\\"Constructed legacy named payload URL:
+  $legacy_download_link\\\"\\n    \\n        download_links+=($legacy_download_\
+  link)\\n        specific_versions+=($specific_version)\\n        effective_ve\
+  rsions+=($effective_version)\\n        link_types+=(\\\"legacy\\\")\\n    else\
+  \\n        legacy_download_link=\\\"\\\"\\n        say_verbose \\\"Cound not
+  construct a legacy_download_link; omitting...\\\"\\n    fi\\n\\n    #  Check
+  if the SDK version is already installed.\\n    if [[ \\\"$dry_run\\\" != true
+  ]] && is_dotnet_package_installed \\\"$install_root\\\"
+  \\\"$asset_relative_path\\\" \\\"$effective_version\\\"; then\\n        say
+  \\\"$asset_name with version '$effective_version' is already
+  installed.\\\"\\n        exit 0\\n    fi\\n}\\n\\nprint_dry_run()
+  {\\n\\n    say \\\"Payload URLs:\\\"\\n\\n    for link_index in
+  \\\"${!download_links[@]}\\\"\\n        do\\n            say \\\"URL
+  #$link_index - ${link_types[$link_index]}:
+  ${download_links[$link_index]}\\\"\\n    done\\n\\n    resolved_version=${spe\
+  cific_versions[0]}\\n    repeatable_command=\\\"./$script_name --version
+  \\\"\\\\\\\"\\\"$resolved_version\\\"\\\\\\\"\\\" --install-dir
+  \\\"\\\\\\\"\\\"$install_root\\\"\\\\\\\"\\\" --architecture
+  \\\"\\\\\\\"\\\"$normalized_architecture\\\"\\\\\\\"\\\" --os
+  \\\"\\\\\\\"\\\"$normalized_os\\\"\\\\\\\"\\\"\\\"\\n    \\n    if [ ! -z
+  \\\"$normalized_quality\\\" ]; then\\n        repeatable_command+=\\\"
+  --quality
+  \\\"\\\\\\\"\\\"$normalized_quality\\\"\\\\\\\"\\\"\\\"\\n    fi\\n\\n    if
+  [[ \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n        repeatable_command+=\\\" --runtime
+  \\\"\\\\\\\"\\\"dotnet\\\"\\\\\\\"\\\"\\\"\\n    elif [[ \\\"$runtime\\\" ==
+  \\\"aspnetcore\\\" ]]; then\\n        repeatable_command+=\\\" --runtime
+  \\\"\\\\\\\"\\\"aspnetcore\\\"\\\\\\\"\\\"\\\"\\n    fi\\n\\n    repeatable_c\
+  ommand+=\\\"$non_dynamic_parameters\\\"\\n\\n    if [ -n
+  \\\"$feed_credential\\\" ]; then\\n        repeatable_command+=\\\"
+  --feed-credential
+  \\\"\\\\\\\"\\\"<feed_credential>\\\"\\\\\\\"\\\"\\\"\\n    fi\\n\\n    say
+  \\\"Repeatable invocation: $repeatable_command\\\"\\n}\\n\\ncalculate_vars()
+  {\\n    eval $invocation\\n\\n    script_name=$(basename
+  \\\"$0\\\")\\n    normalized_architecture=\\\"$(get_normalized_architecture_f\
+  rom_architecture \\\"$architecture\\\")\\\"\\n    say_verbose \\\"Normalized
+  architecture:
+  '$normalized_architecture'.\\\"\\n    normalized_os=\\\"$(get_normalized_os
+  \\\"$user_defined_os\\\")\\\"\\n    say_verbose \\\"Normalized OS:
+  '$normalized_os'.\\\"\\n    normalized_quality=\\\"$(get_normalized_quality
+  \\\"$quality\\\")\\\"\\n    say_verbose \\\"Normalized quality:
+  '$normalized_quality'.\\\"\\n    normalized_channel=\\\"$(get_normalized_chan\
+  nel \\\"$channel\\\")\\\"\\n    say_verbose \\\"Normalized channel:
+  '$normalized_channel'.\\\"\\n    normalized_product=\\\"$(get_normalized_prod\
+  uct \\\"$runtime\\\")\\\"\\n    say_verbose \\\"Normalized product:
+  '$normalized_product'.\\\"\\n    install_root=\\\"$(resolve_installation_path
+  \\\"$install_dir\\\")\\\"\\n    say_verbose \\\"InstallRoot:
+  '$install_root'.\\\"\\n\\n    if [[ \\\"$runtime\\\" == \\\"dotnet\\\" ]];
+  then\\n        asset_relative_path=\\\"shared/Microsoft.NETCore.App\\\"\\n        \
+  asset_name=\\\".NET Core Runtime\\\"\\n    elif [[ \\\"$runtime\\\" ==
+  \\\"aspnetcore\\\" ]];
+  then\\n        asset_relative_path=\\\"shared/Microsoft.AspNetCore.App\\\"\\n        \
+  asset_name=\\\"ASP.NET Core Runtime\\\"\\n    elif [ -z \\\"$runtime\\\" ];
+  then\\n        asset_relative_path=\\\"sdk\\\"\\n        asset_name=\\\".NET
+  Core SDK\\\"\\n    fi\\n\\n    get_feeds_to_use\\n}\\n\\ninstall_dotnet()
+  {\\n    eval $invocation\\n    local download_failed=false\\n    local
+  download_completed=false\\n\\n    mkdir -p
+  \\\"$install_root\\\"\\n    zip_path=\\\"$(mktemp
+  \\\"$temporary_file_template\\\")\\\"\\n    say_verbose \\\"Zip path:
+  $zip_path\\\"\\n\\n    for link_index in
+  \\\"${!download_links[@]}\\\"\\n    do\\n        download_link=\\\"${download\
+  _links[$link_index]}\\\"\\n        specific_version=\\\"${specific_versions[$\
+  link_index]}\\\"\\n        effective_version=\\\"${effective_versions[$link_i\
+  ndex]}\\\"\\n        link_type=\\\"${link_types[$link_index]}\\\"\\n\\n        \
+  say \\\"Attempting to download using $link_type link
+  $download_link\\\"\\n\\n        # The download function will set variables
+  $http_code and $download_error_msg in case of
+  failure.\\n        download_failed=false\\n        download
+  \\\"$download_link\\\" \\\"$zip_path\\\" 2>&1 ||
+  download_failed=true\\n\\n        if [ \\\"$download_failed\\\" = true ];
+  then\\n            case $http_code in\\n            404)\\n                say
+  \\\"The resource at $link_type link '$download_link' is not
+  available.\\\"\\n                ;;\\n            *)\\n                say
+  \\\"Failed to download $link_type link '$download_link':
+  $download_error_msg\\\"\\n                ;;\\n            esac\\n            \
+  rm -f \\\"$zip_path\\\" 2>&1 && say_verbose \\\"Temporary zip file $zip_path
+  was
+  removed\\\"\\n        else\\n            download_completed=true\\n            \
+  break\\n        fi\\n    done\\n\\n    if [[ \\\"$download_completed\\\" ==
+  false ]]; then\\n        say_err \\\"Could not find \\\\`$asset_name\\\\` with
+  version = $specific_version\\\"\\n        say_err \\\"Refer to:
+  https://aka.ms/dotnet-os-lifecycle for information on .NET Core
+  support\\\"\\n        return 1\\n    fi\\n\\n    say \\\"Extracting zip from
+  $download_link\\\"\\n    extract_dotnet_package \\\"$zip_path\\\"
+  \\\"$install_root\\\" || return 1\\n\\n    #  Check if the SDK version is
+  installed; if not, fail the installation.\\n    # if the version contains
+  \\\"RTM\\\" or \\\"servicing\\\"; check if a 'release-type' SDK version is
+  installed.\\n    if [[ $specific_version == *\\\"rtm\\\"* || $specific_version
+  == *\\\"servicing\\\"* ]]; then\\n        IFS='-'\\n        read -ra verArr
+  <<<
+  \\\"$specific_version\\\"\\n        release_version=\\\"${verArr[0]}\\\"\\n        \
+  unset IFS;\\n        say_verbose \\\"Checking installation: version =
+  $release_version\\\"\\n        if is_dotnet_package_installed
+  \\\"$install_root\\\" \\\"$asset_relative_path\\\" \\\"$release_version\\\";
+  then\\n            say \\\"Installed version is
+  $effective_version\\\"\\n            return
+  0\\n        fi\\n    fi\\n\\n    #  Check if the standard SDK version is
+  installed.\\n    say_verbose \\\"Checking installation: version =
+  $effective_version\\\"\\n    if is_dotnet_package_installed
+  \\\"$install_root\\\" \\\"$asset_relative_path\\\" \\\"$effective_version\\\";
+  then\\n        say \\\"Installed version is
+  $effective_version\\\"\\n        return 0\\n    fi\\n\\n    # Version
+  verification failed. More likely something is wrong either with the downloaded
+  content or with the verification algorithm.\\n    say_err \\\"Failed to verify
+  the version of installed \\\\`$asset_name\\\\`.\\\\nInstallation source:
+  $download_link.\\\\nInstallation location: $install_root.\\\\nReport the bug
+  at https://github.com/dotnet/install-scripts/issues.\\\"\\n    say_err
+  \\\"\\\\`$asset_name\\\\` with version = $effective_version failed to install
+  with an error.\\\"\\n    return
+  1\\n}\\n\\nargs=(\\\"$@\\\")\\n\\nlocal_version_file_relative_path=\\\"/.vers\
+  ion\\\"\\nbin_folder_relative_path=\\\"\\\"\\ntemporary_file_template=\\\"${T\
+  MPDIR:-/tmp}/dotnet.XXXXXXXXX\\\"\\n\\nchannel=\\\"LTS\\\"\\nversion=\\\"Late\
+  st\\\"\\njson_file=\\\"\\\"\\ninstall_dir=\\\"<auto>\\\"\\narchitecture=\\\"<\
+  auto>\\\"\\ndry_run=false\\nno_path=false\\nno_cdn=false\\nazure_feed=\\\"\\\"\
+  \\nuncached_feed=\\\"\\\"\\nfeed_credential=\\\"\\\"\\nverbose=false\\nruntim\
+  e=\\\"\\\"\\nruntime_id=\\\"\\\"\\nquality=\\\"\\\"\\ninternal=false\\noverri\
+  de_non_versioned_files=true\\nnon_dynamic_parameters=\\\"\\\"\\nuser_defined_\
+  os=\\\"\\\"\\n\\nwhile [ $# -ne 0 ]\\ndo\\n    name=\\\"$1\\\"\\n    case
+  \\\"$name\\\"
+  in\\n        -c|--channel|-[Cc]hannel)\\n            shift\\n            chan\
+  nel=\\\"$1\\\"\\n            ;;\\n        -v|--version|-[Vv]ersion)\\n            \
+  shift\\n            version=\\\"$1\\\"\\n            ;;\\n        -q|--qualit\
+  y|-[Qq]uality)\\n            shift\\n            quality=\\\"$1\\\"\\n            \
+  ;;\\n        --internal|-[Ii]nternal)\\n            internal=true\\n            \
+  non_dynamic_parameters+=\\\"
+  $name\\\"\\n            ;;\\n        -i|--install-dir|-[Ii]nstall[Dd]ir)\\n            \
+  shift\\n            install_dir=\\\"$1\\\"\\n            ;;\\n        --arch|\
+  --architecture|-[Aa]rch|-[Aa]rchitecture)\\n            shift\\n            a\
+  rchitecture=\\\"$1\\\"\\n            ;;\\n        --os|-[Oo][SS])\\n            \
+  shift\\n            user_defined_os=\\\"$1\\\"\\n            ;;\\n        --s\
+  hared-runtime|-[Ss]hared[Rr]untime)\\n            say_warning \\\"The
+  --shared-runtime flag is obsolete and may be removed in a future version of
+  this script. The recommended usage is to specify '--runtime
+  dotnet'.\\\"\\n            if [ -z \\\"$runtime\\\" ];
+  then\\n                runtime=\\\"dotnet\\\"\\n            fi\\n            \
+  ;;\\n        --runtime|-[Rr]untime)\\n            shift\\n            runtime=\
+  \\\"$1\\\"\\n            if [[ \\\"$runtime\\\" != \\\"dotnet\\\" ]] && [[
+  \\\"$runtime\\\" != \\\"aspnetcore\\\" ]]; then\\n                say_err
+  \\\"Unsupported value for --runtime: '$1'. Valid values are 'dotnet' and
+  'aspnetcore'.\\\"\\n                if [[ \\\"$runtime\\\" ==
+  \\\"windowsdesktop\\\" ]]; then\\n                    say_err
+  \\\"WindowsDesktop archives are manufactured for Windows platforms
+  only.\\\"\\n                fi\\n                exit
+  1\\n            fi\\n            ;;\\n        --dry-run|-[Dd]ry[Rr]un)\\n            \
+  dry_run=true\\n            ;;\\n        --no-path|-[Nn]o[Pp]ath)\\n            \
+  no_path=true\\n            non_dynamic_parameters+=\\\"
+  $name\\\"\\n            ;;\\n        --verbose|-[Vv]erbose)\\n            ver\
+  bose=true\\n            non_dynamic_parameters+=\\\"
+  $name\\\"\\n            ;;\\n        --no-cdn|-[Nn]o[Cc]dn)\\n            no_\
+  cdn=true\\n            non_dynamic_parameters+=\\\"
+  $name\\\"\\n            ;;\\n        --azure-feed|-[Aa]zure[Ff]eed)\\n            \
+  shift\\n            azure_feed=\\\"$1\\\"\\n            non_dynamic_parameter\
+  s+=\\\" $name
+  \\\"\\\\\\\"\\\"$1\\\"\\\\\\\"\\\"\\\"\\n            ;;\\n        --uncached-\
+  feed|-[Uu]ncached[Ff]eed)\\n            shift\\n            uncached_feed=\\\
+  \"$1\\\"\\n            non_dynamic_parameters+=\\\" $name
+  \\\"\\\\\\\"\\\"$1\\\"\\\\\\\"\\\"\\\"\\n            ;;\\n        --feed-cred\
+  ential|-[Ff]eed[Cc]redential)\\n            shift\\n            feed_credenti\
+  al=\\\"$1\\\"\\n            #feed_credential should start with \\\"?\\\", for
+  it to be added to the end of the link.\\n            #adding \\\"?\\\" at the
+  beginning of the feed_credential if needed.\\n            [[ -z \\\"$(echo
+  $feed_credential)\\\" ]] || [[ $feed_credential == \\\\?* ]] ||
+  feed_credential=\\\"?$feed_credential\\\"\\n            ;;\\n        --runtim\
+  e-id|-[Rr]untime[Ii]d)\\n            shift\\n            runtime_id=\\\"$1\\\"\
+  \\n            non_dynamic_parameters+=\\\" $name
+  \\\"\\\\\\\"\\\"$1\\\"\\\\\\\"\\\"\\\"\\n            say_warning \\\"Use of
+  --runtime-id is obsolete and should be limited to the versions below 2.1. To
+  override architecture, use --architecture option instead. To override OS, use
+  --os option
+  instead.\\\"\\n            ;;\\n        --jsonfile|-[Jj][Ss]on[Ff]ile)\\n            \
+  shift\\n            json_file=\\\"$1\\\"\\n            ;;\\n        --skip-no\
+  n-versioned-files|-[Ss]kip[Nn]on[Vv]ersioned[Ff]iles)\\n            override_\
+  non_versioned_files=false\\n            non_dynamic_parameters+=\\\"
+  $name\\\"\\n            ;;\\n        -?|--?|-h|--help|-[Hh]elp)\\n            \
+  script_name=\\\"$(basename \\\"$0\\\")\\\"\\n            echo \\\".NET Tools
+  Installer\\\"\\n            echo \\\"Usage: $script_name [-c|--channel
+  <CHANNEL>] [-v|--version <VERSION>] [-p|--prefix
+  <DESTINATION>]\\\"\\n            echo \\\"       $script_name
+  -h|-?|--help\\\"\\n            echo \\\"\\\"\\n            echo
+  \\\"$script_name is a simple command line interface for obtaining dotnet
+  cli.\\\"\\n            echo \\\"\\\"\\n            echo
+  \\\"Options:\\\"\\n            echo \\\"  -c,--channel
+  <CHANNEL>         Download from the channel specified, Defaults to
+  \\\\`$channel\\\\`.\\\"\\n            echo
+  \\\"      -Channel\\\"\\n            echo \\\"          Possible
+  values:\\\"\\n            echo \\\"          - Current - most current
+  release\\\"\\n            echo \\\"          - LTS - most current supported
+  release\\\"\\n            echo \\\"          - 2-part version in a format A.B
+  - represents a specific release\\\"\\n            echo
+  \\\"              examples: 2.0; 1.0\\\"\\n            echo \\\"          -
+  3-part version in a format A.B.Cxx - represents a specific SDK
+  release\\\"\\n            echo \\\"              examples: 5.0.1xx,
+  5.0.2xx.\\\"\\n            echo \\\"              Supported since 5.0
+  release\\\"\\n            echo \\\"          Note: The version parameter
+  overrides the channel parameter when any version other than 'latest' is
+  used.\\\"\\n            echo \\\"  -v,--version <VERSION>         Use specific
+  VERSION, Defaults to \\\\`$version\\\\`.\\\"\\n            echo
+  \\\"      -Version\\\"\\n            echo \\\"          Possible
+  values:\\\"\\n            echo \\\"          - latest - the latest build on
+  specific channel\\\"\\n            echo \\\"          - 3-part version in a
+  format A.B.C - represents specific version of build\\\"\\n            echo
+  \\\"              examples: 2.0.0-preview2-006120;
+  1.1.0\\\"\\n            echo \\\"  -q,--quality <quality>         Download the
+  latest build of specified quality in the channel.\\\"\\n            echo
+  \\\"      -Quality\\\"\\n            echo \\\"          The possible values
+  are: daily, signed, validated, preview, GA.\\\"\\n            echo
+  \\\"          Works only in combination with channel. Not applicable for
+  current and LTS channels and will be ignored if those channels are used.\\\"
+  \\n            echo \\\"          For SDK use channel in A.B.Cxx format. Using
+  quality for SDK together with channel in A.B format is not supported.\\\"
+  \\n            echo \\\"          Supported since 5.0 release.\\\"
+  \\n            echo \\\"          Note: The version parameter overrides the
+  channel parameter when any version other than 'latest' is used, and therefore
+  overrides the quality.\\\"\\n            echo
+  \\\"  --internal,-Internal               Download internal builds. Requires
+  providing credentials via --feed-credential parameter.\\\"\\n            echo
+  \\\"  --feed-credential <FEEDCREDENTIAL> Token to access Azure feed. Used as a
+  query string to append to the Azure feed.\\\"\\n            echo
+  \\\"      -FeedCredential                This parameter typically is not
+  specified.\\\"\\n            echo \\\"  -i,--install-dir
+  <DIR>             Install under specified location (see Install Location
+  below)\\\"\\n            echo \\\"      -InstallDir\\\"\\n            echo
+  \\\"  --architecture <ARCHITECTURE>      Architecture of dotnet binaries to be
+  installed, Defaults to \\\\`$architecture\\\\`.\\\"\\n            echo
+  \\\"      --arch,-Architecture,-Arch\\\"\\n            echo
+  \\\"          Possible values: x64, arm, arm64 and
+  s390x\\\"\\n            echo \\\"  --os <system>                    Specifies
+  operating system to be used when selecting the
+  installer.\\\"\\n            echo \\\"          Overrides the OS determination
+  approach used by the script. Supported values: osx, linux, linux-musl,
+  freebsd, rhel.6.\\\"\\n            echo \\\"          In case any other value
+  is provided, the platform will be determined by the script based on machine
+  configuration.\\\"\\n            echo \\\"          Not supported for legacy
+  links. Use --runtime-id to specify platform for legacy
+  links.\\\"\\n            echo \\\"          Refer to:
+  https://aka.ms/dotnet-os-lifecycle for more
+  information.\\\"\\n            echo \\\"  --runtime
+  <RUNTIME>                Installs a shared runtime only, without the
+  SDK.\\\"\\n            echo \\\"      -Runtime\\\"\\n            echo
+  \\\"          Possible values:\\\"\\n            echo \\\"          -
+  dotnet     - the Microsoft.NETCore.App shared runtime\\\"\\n            echo
+  \\\"          - aspnetcore - the Microsoft.AspNetCore.App shared
+  runtime\\\"\\n            echo \\\"  --dry-run,-DryRun                  Do not
+  perform installation. Display download link.\\\"\\n            echo
+  \\\"  --no-path, -NoPath                 Do not set PATH for the current
+  process.\\\"\\n            echo
+  \\\"  --verbose,-Verbose                 Display diagnostics
+  information.\\\"\\n            echo
+  \\\"  --azure-feed,-AzureFeed            For internal use
+  only.\\\"\\n            echo \\\"                                     Allows
+  using a different storage to download SDK archives
+  from.\\\"\\n            echo \\\"                                     This
+  parameter is only used if --no-cdn is false.\\\"\\n            echo
+  \\\"  --uncached-feed,-UncachedFeed      For internal use
+  only.\\\"\\n            echo \\\"                                     Allows
+  using a different storage to download SDK archives
+  from.\\\"\\n            echo \\\"                                     This
+  parameter is only used if --no-cdn is true.\\\"\\n            echo
+  \\\"  --skip-non-versioned-files         Skips non-versioned files if they
+  already exist, such as the dotnet executable.\\\"\\n            echo
+  \\\"      -SkipNonVersionedFiles\\\"\\n            echo
+  \\\"  --no-cdn,-NoCdn                    Disable downloading from the Azure
+  CDN, and use the uncached feed directly.\\\"\\n            echo
+  \\\"  --jsonfile <JSONFILE>              Determines the SDK version from a
+  user specified global.json file.\\\"\\n            echo
+  \\\"                                     Note: global.json must have a value
+  for 'SDK:Version'\\\"\\n            echo
+  \\\"  -?,--?,-h,--help,-Help             Shows this help
+  message\\\"\\n            echo \\\"\\\"\\n            echo \\\"Install
+  Location:\\\"\\n            echo \\\"  Location is chosen in following
+  order:\\\"\\n            echo \\\"    - --install-dir
+  option\\\"\\n            echo \\\"    - Environmental variable
+  DOTNET_INSTALL_DIR\\\"\\n            echo \\\"    -
+  $HOME/.dotnet\\\"\\n            exit
+  0\\n            ;;\\n        *)\\n            say_err \\\"Unknown argument
+  \\\\`$name\\\\`\\\"\\n            exit
+  1\\n            ;;\\n    esac\\n\\n    shift\\ndone\\n\\nsay \\\"Note that the
+  intended use of this script is for Continuous Integration (CI) scenarios,
+  where:\\\"\\nsay \\\"- The SDK needs to be installed without user interaction
+  and without admin rights.\\\"\\nsay \\\"- The SDK installation doesn't need to
+  persist across multiple CI runs.\\\"\\nsay \\\"To set up a development
+  environment or to run apps, use installers rather than this script. Visit
+  https://dotnet.microsoft.com/download to get the installer.\\\\n\\\"\\n\\nif [
+  \\\"$internal\\\" = true ] && [ -z \\\"$(echo $feed_credential)\\\" ];
+  then\\n    message=\\\"Provide credentials via --feed-credential
+  parameter.\\\"\\n    if [ \\\"$dry_run\\\" = true ];
+  then\\n        say_warning \\\"$message\\\"\\n    else\\n        say_err
+  \\\"$message\\\"\\n        exit
+  1\\n    fi\\nfi\\n\\ncheck_min_reqs\\ncalculate_vars\\n#
+  generate_regular_links call below will 'exit' if the determined version is
+  already installed.\\ngenerate_download_links\\n\\nif [[ \\\"$dry_run\\\" =
+  true ]]; then\\n    print_dry_run\\n    exit
+  0\\nfi\\n\\ninstall_dotnet\\n\\nbin_path=\\\"$(get_absolute_path
+  \\\"$(combine_paths \\\"$install_root\\\"
+  \\\"$bin_folder_relative_path\\\")\\\")\\\"\\nif [ \\\"$no_path\\\" = false ];
+  then\\n    say \\\"Adding to current process PATH: \\\\`$bin_path\\\\`. Note:
+  This change will be visible only when sourcing script.\\\"\\n    export
+  PATH=\\\"$bin_path\\\":\\\"$PATH\\\"\\nelse\\n    say \\\"Binaries of dotnet
+  can be found in $bin_path\\\"\\nfi\\n\\nsay \\\"Note that the script does not
+  resolve dependencies during installation.\\\"\\nsay \\\"To check the list of
+  dependencies, go to https://docs.microsoft.com/dotnet/core/install, select
+  your operating system and check the \\\\\\\"Dependencies\\\\\\\"
+  section.\\\"\\nsay \\\"Installation finished
+  successfully.\\\"\\n\",\"installed\":[\"6.0.5\",\"6.0.6\",\"6.0.7\",\"6.0.7\",\
+  \"6.0.8\",\"6.0.8\"]}"
 ms-python.vscode-pylance: '{"insidersChannel":"off"}'
-ms-toolsai.jupyter: '{"MigratedDataScienceSettingsService":true,"MigratedDataScienceKeybindingsService":true,"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true}'
 ms-vscode-remote.remote-containers: "{}"
-ms-vscode.cpptools: '{"CPP.1.7.1.Progress":300,"CPP.machineId":"a31fe850a47e7d191289ae0dad04694a06cd812d84db1181ad557435dedff957","CPP.1.7.1.checkForConflictingExtensions":false,"CPP.1.8.4.Progress":300,"CPP.migratedInsiders":true,"CPP.1.8.4.checkForConflictingExtensions":false,"CPP.1.8.4.IntelliSenseProgress":1000,"CPP.1.9.7.Progress":300,"CPP.1.9.7.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.7.checkForConflictingExtensions":false,"CPP.1.9.7.IntelliSenseProgress":1000,"CPP.1.9.8.Progress":300,"CPP.1.9.8.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.8.checkForConflictingExtensions":false,"CPP.1.9.8.IntelliSenseProgress":1000}'
+ms-vscode.cpptools: '{"CPP.1.7.1.Progress":300,"CPP.machineId":"a31fe850a47e7d191289ae0dad04694a06cd812d84db1181ad557435dedff957","CPP.1.7.1.checkForConflictingExtensions":false,"CPP.1.8.4.Progress":300,"CPP.migratedInsiders":true,"CPP.1.8.4.checkForConflictingExtensions":false,"CPP.1.8.4.IntelliSenseProgress":1000,"CPP.1.9.7.Progress":300,"CPP.1.9.7.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.7.checkForConflictingExtensions":false,"CPP.1.9.7.IntelliSenseProgress":1000,"CPP.1.9.8.Progress":300,"CPP.1.9.8.ignoreMismatchedCompatibleVsix":false,"CPP.1.9.8.checkForConflictingExtensions":false,"CPP.1.9.8.IntelliSenseProgress":1000,"CPP.1.10.5.Progress":300,"CPP.1.10.5.IntelliSenseProgress":1000,"CPP.1.10.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.5.checkForConflictingExtensions":false,"CPP.1.10.6.Progress":300,"CPP.1.10.6.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.6.checkForConflictingExtensions":false,"CPP.1.10.6.IntelliSenseProgress":1000,"CPP.1.10.7.Progress":300,"CPP.1.10.7.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.7.IntelliSenseProgress":1000,"CPP.1.10.7.checkForConflictingExtensions":false,"CPP.1.10.8.Progress":300,"CPP.1.10.8.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.8.checkForConflictingExtensions":false,"CPP.1.10.8.IntelliSenseProgress":1000,"CPP.1.11.0.Progress":300,"CPP.1.11.0.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.0.checkForConflictingExtensions":false,"CPP.1.11.2.checkForConflictingExtensions":false,"CPP.1.11.2.Progress":300,"CPP.1.11.2.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.2.IntelliSenseProgress":1000,"CPP.1.11.4.Progress":300,"CPP.1.11.4.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.4.checkForConflictingExtensions":false,"CPP.1.11.4.IntelliSenseProgress":1000,"CPP.1.12.0.Progress":300,"CPP.1.12.0.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.0.checkForConflictingExtensions":false,"CPP.1.12.1.Progress":300,"CPP.1.12.1.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.1.checkForConflictingExtensions":false,"CPP.1.12.1.IntelliSenseProgress":1000,"CPP.1.11.5.Progress":300,"CPP.1.11.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.11.5.checkForConflictingExtensions":false,"CPP.1.11.5.IntelliSenseProgress":1000,"CPP.1.12.4.Progress":300,"CPP.1.12.4.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.4.checkForConflictingExtensions":false,"CPP.1.12.4.IntelliSenseProgress":1000}'
+ms-vsliveshare.vsliveshare: '{"vsliveshare-first-activation-flag":"1.0.5418","firstActivationVersion":"1.0.5418","firstActivationTime":1646661553364,"wasDownloadCorrupted":false,"haveShownWakeupNotification":true,"commandFirstRunTrackingShare":true,"IsSwitchToStableNotificationDisplayed":true,"hasUsed":true,"lastUse":1654428983208,"sessionCount":1,"commandFirstRunTrackingJoin":true,"981C6666CE677170D17EF0C819B631B5CCAA-reconnectId":null,"commandFirstRunTrackingJoinReload":true,"07740409DE1FFBF7054B7ACD678C82F90832-reconnectId":null,"7158B47731CAAE682C7FF975400044369A3C-reconnectId":null,"0FDC899A38ACD2715FE19DF6A4F9D4B63A26-reconnectId":null,"ADDE304C8FF52F3474A63EA1288A9F478B3B-reconnectId":"fada4483-3b71-4531-9be3-778b14f3a939"}'
 redhat.java: '{"recommendationUserChoice":{}}'
+rust-lang.rust-analyzer: '{"serverVersion":"0.3.1186"}'
 vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.6.10"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":false,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.json-views","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.CppRenameActivityBar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":false,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-requests","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":false,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.json-views","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.CppRenameActivityBar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":false,"visible":false,"order":12},{"id":"workbench.view.extension.github-pull-requests","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":true,"order":10},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"资源管理器\",\"isBuiltin\
   \":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"timeli\
   neHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"go.showExp\
-  lorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search-v\
-  iew-icon\"},\"name\":\"搜索\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"work\
-  bench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\
-  \"源代码管理\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
-  scm.providerCount !=
-  '0'\"},{},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
+  lorer\"},{\"when\":\"liveshare:isCollaborating &&
+  liveshare:showExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\
+  \"id\":\"search-view-icon\"},\"name\":\"搜索\",\"isBuiltin\":true,\"views\":[{}\
+  ]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view\
+  -icon\"},\"name\":\"源代码管理\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.pro\
+  viderCount && scm.providerCount != '0'\"},{},{\"when\":\"!gitlens:disabled &&
   !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!g\
-  itlens:disabled &&
+  itlens:disabled\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!gitlens:disa\
+  bled &&
   !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!g\
   itlens:disabled\"},{\"when\":\"!gitlens:disabled &&
   !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"co\
@@ -59,44 +1167,52 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   nsions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"sea\
   rchUnsupportedWorkspaceExtensions &&
   virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\
-  \"remote-explorer-view-icon\"},\"name\":\"远程资源管理器\",\"isBuiltin\":true,\"views\
-  \":[{},{\"when\":\"false\"}]},{\"id\":\"workbench.view.extension.test\",\"the\
-  meIcon\":{\"id\":\"test-view-icon\"},\"name\":\"测试\",\"isBuiltin\":true,\"vie\
-  ws\":[{\"when\":\"testing.providerCount >
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
+  kbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"n\
+  ame\":\"远程资源管理器\",\"isBuiltin\":true,\"views\":[{},{\"when\":\"false\"}]},{\"\
+  id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\
+  \"},\"name\":\"测试\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.provide\
+  rCount >
   0\"},{\"when\":\"go.hasProfiles\"}]},{\"id\":\"workbench.view.extension.refer\
-  ences-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"References\",\"\
-  isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\"},{\"when\":\
-  \"cppReferenceTypes:hasResults\"}]},{\"id\":\"workbench.view.extension.github\
-  -pull-request\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.latex\
-  -workshop-activitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_P\
-  ATH%%/james-yu.latex-workshop-8.26.0/icons/activity-bar.svg\",\"scheme\":\"fi\
-  le\"},\"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-wor\
-  kshop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-work\
-  shop:enabled\"}]},{\"id\":\"workbench.view.extension.dockerView\",\"isBuiltin\
-  \":false},{\"id\":\"workbench.view.extension.jupyter\",\"isBuiltin\":false},{\
-  \"id\":\"workbench.view.extension.json-views\",\"isBuiltin\":false},{\"id\":\
-  \"workbench.view.extension.cspell-explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\
-  \"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-2.1.11/resour\
-  ces/dark/check_circle.svg\",\"scheme\":\"file\"},\"name\":\"Spell Checker
+  ences-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"引用\",\"isBuiltin\
+  \":false,\"views\":[{\"when\":\"reference-list.isActive\"},{\"when\":\"cppRef\
+  erenceTypes:hasResults\"}]},{\"id\":\"workbench.view.extension.mongoDB\",\"is\
+  Builtin\":false},{\"id\":\"workbench.view.extension.github-pull-request\",\"i\
+  sBuiltin\":false},{\"id\":\"workbench.view.extension.latex-workshop-activityb\
+  ar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/james-yu.late\
+  x-workshop-8.29.0/icons/activity-bar.svg\",\"scheme\":\"file\"},\"name\":\"La\
+  TeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-workshop:enabled\"},{\
+  \"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-workshop:enabled\"}]},{\
+  \"id\":\"workbench.view.extension.dockerView\",\"isBuiltin\":false},{\"id\":\
+  \"workbench.view.extension.jupyter\",\"themeIcon\":{\"id\":\"notebook\"},\"na\
+  me\":\"Jupyter\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.e\
+  xtension.json-views\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension\
+  .cspell-explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
+  /streetsidesoftware.code-spell-checker-2.7.0/resources/dark/check_circle.svg\
+  \",\"scheme\":\"file\"},\"name\":\"Spell Checker
   Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experimental.\
   enableRegexpView\"}]},{\"id\":\"workbench.view.extension.localHistory\",\"isB\
   uiltin\":false},{\"id\":\"workbench.view.extension.CppRenameActivityBar\",\"i\
   sBuiltin\":false},{\"id\":\"workbench.view.extension.latex\",\"isBuiltin\":fa\
-  lse},{\"id\":\"workbench.view.extension.gitlens\",\"iconUrl\":{\"$mid\":1,\"p\
-  ath\":\"%%EXTENSION_DATA_PATH%%/eamodio.gitlens-12.0.6/images/gitlens-activit\
-  ybar.svg\",\"scheme\":\"file\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"vi\
-  ews\":[{\"when\":\"config.gitlens.plusFeatures.enabled &&
+  lse},{\"id\":\"workbench.view.extension.gitlens\",\"themeIcon\":{\"id\":\"git\
+  lens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\":[{\"when\":\
+  \"config.gitlens.plusFeatures.enabled &&
   !gitlens:disabled\"}]},{\"id\":\"workbench.view.extension.cmake__viewContainer\
   \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-vscode.cmake\
-  -tools-1.10.5/res/cmake-view-icon.svg\",\"scheme\":\"file\"},\"name\":\"CMake\
+  -tools-1.12.26/res/cmake-view-icon.svg\",\"scheme\":\"file\"},\"name\":\"CMake\
   \",\"isBuiltin\":false,\"views\":[{\"when\":\"cmake:enableFullFeatureSet\"}]}\
   ,{\"id\":\"workbench.view.extension.github-pull-requests\",\"isBuiltin\":fals\
-  e},{\"id\":\"workbench.view.extension.liveshare\",\"isBuiltin\":false},{\"id\
-  \":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\
-  \"name\":\"设置同步\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncMergesV\
-  iew\"},{\"when\":\"enableSyncActivityViews && userDataSyncAccountStatus ==
-  'available' && syncStatus !=
+  e},{\"id\":\"workbench.view.extension.liveshare\",\"iconUrl\":{\"$mid\":1,\"p\
+  ath\":\"%%EXTENSION_DATA_PATH%%/ms-vsliveshare.vsliveshare-1.0.5705/images/da\
+  rk/liveshare.svg\",\"scheme\":\"file\"},\"name\":\"Live
+  Share\",\"isBuiltin\":false,\"views\":[{\"when\":\"liveshare:showExplorer\"},{\
+  \"when\":\"liveshare:showExplorer\"},{\"when\":\"liveshare:isCollaborating &&
+  liveshare:showExplorer &&
+  liveshare:showHelpViewlet\"},{\"when\":\"config.liveshare.teamStatus ||
+  liveshare:isTeamMember\"}]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"\
+  id\":\"settings-sync-view-icon\"},\"name\":\"设置同步\",\"isBuiltin\":true,\"views\
+  \":[{\"when\":\"enableSyncMergesView\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
   'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
   userDataSyncAccountStatus == 'available' && syncStatus !=
   'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
@@ -106,7 +1222,7 @@ workbench.activity.showAccounts: "false"
 workbench.activityBar.hidden: "false"
 workbench.auxiliarybar.size: "256"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["doctex",true],["go",true],["latex",true],["bibtex",true],["shellscript",true],["diff",true],["cpp",true],["markdown",true],["plaintext",true],["jsonc",true],["c",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["diff",true],["shellscript",true],["c",true],["lldb.disassembly",true],["ignore",true],["json",true],["jsonc",true],["cpp",true],["markdown",true],["plaintext",true],["rust",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"workbench.explorer.fileView","isHidden":false},{"id":"outline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"timeline","isHidden":false},{"id":"npm","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"gitlens.views.repositories:explorer","isHidden":false},{"id":"gitlens.views.fileHistory:explorer","isHidden":false},{"id":"gitlens.views.lineHistory:explorer","isHidden":false},{"id":"gitlens.views.compare:explorer","isHidden":false},{"id":"gitlens.views.search:explorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"javaDependencyExplorer","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"intel.oneAPISamples.tree","isHidden":false},{"id":"go.explorer","isHidden":false}]'
 workbench.grid.height: "905"
 workbench.grid.size: '{"height":743,"width":1024}'
@@ -117,15 +1233,15 @@ workbench.panel.lastNonMaximizedHeight: "233"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.output","name":"输出","pinned":true,"order":1,"visible":true},{"id":"terminal","name":"终端","pinned":true,"order":3,"visible":true},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":true},{"id":"refactorPreview","name":"重构预览","pinned":true,"visible":false},{"id":"workbench.panel.repl","name":"调试控制台","pinned":true,"order":2,"visible":true},{"id":"workbench.panel.markers","name":"问题","pinned":true,"order":0,"visible":true}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.output","name":"输出","pinned":true,"order":1,"visible":true},{"id":"terminal","name":"终端","pinned":true,"order":3,"visible":true},{"id":"~remote.forwardedPortsContainer","name":"端口","pinned":true,"order":5,"visible":false},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":true},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":7,"visible":true},{"id":"refactorPreview","name":"重构预览","pinned":true,"visible":false},{"id":"workbench.panel.repl","name":"调试控制台","pinned":true,"order":2,"visible":true},{"id":"workbench.panel.markers","name":"问题","pinned":true,"order":0,"visible":true}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "233"
-workbench.scm.views.state.hidden: '[{"id":"scm.mainPane","isHidden":false},{"id":"scm:repository:684467788","isHidden":false},{"id":"scm:repository:-1776878757","isHidden":false},{"id":"scm:repository:-911439393","isHidden":false},{"id":"workbench.scm","isHidden":false},{"id":"scm:repository:-752036745","isHidden":false},{"id":"scm:repository:-941833722","isHidden":false},{"id":"scm:repository:-1893378507","isHidden":false},{"id":"scm:repository:685464619","isHidden":false},{"id":"scm:repository:-1559589883","isHidden":false},{"id":"scm:repository:-445300799","isHidden":false},{"id":"scm:repository:-752051061","isHidden":false},{"id":"scm:repository:1102710023","isHidden":false},{"id":"scm:repository:-1753521287","isHidden":false},{"id":"scm:repository:-1444182707","isHidden":false},{"id":"workbench.scm.repositories","isHidden":true},{"id":"gitlens.views.repositories:scm","isHidden":false},{"id":"gitlens.views.fileHistory:scm","isHidden":false},{"id":"gitlens.views.lineHistory:scm","isHidden":false},{"id":"gitlens.views.compare:scm","isHidden":false},{"id":"gitlens.views.search:scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":true},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.contributors","isHidden":true},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false}]'
+workbench.scm.views.state.hidden: '[{"id":"scm.mainPane","isHidden":false},{"id":"scm:repository:684467788","isHidden":false},{"id":"scm:repository:-1776878757","isHidden":false},{"id":"scm:repository:-911439393","isHidden":false},{"id":"workbench.scm","isHidden":false},{"id":"scm:repository:-752036745","isHidden":false},{"id":"scm:repository:-941833722","isHidden":false},{"id":"scm:repository:-1893378507","isHidden":false},{"id":"scm:repository:685464619","isHidden":false},{"id":"scm:repository:-1559589883","isHidden":false},{"id":"scm:repository:-445300799","isHidden":false},{"id":"scm:repository:-752051061","isHidden":false},{"id":"scm:repository:1102710023","isHidden":false},{"id":"scm:repository:-1753521287","isHidden":false},{"id":"scm:repository:-1444182707","isHidden":false},{"id":"workbench.scm.repositories","isHidden":true},{"id":"gitlens.views.repositories:scm","isHidden":false},{"id":"gitlens.views.fileHistory:scm","isHidden":false},{"id":"gitlens.views.lineHistory:scm","isHidden":false},{"id":"gitlens.views.compare:scm","isHidden":false},{"id":"gitlens.views.search:scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":true},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.contributors","isHidden":true},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false}]'
 workbench.sideBar.position: "0"
 workbench.sidebar.size: "256"
-workbench.sideBar.size: "226"
+workbench.sideBar.size: "391"
 workbench.statusBar.hidden: "false"
-workbench.statusbar.hidden: '["golang.go","ms-python.python","status.workspaceTrust.63416d86f6b84851085ed42d42e6e8d5","status.workspaceTrust.07ab83e822dec91c8bf381cf86242b44","status.workspaceTrust.1625741130401","status.workspaceTrust.1625743053770","status.workspaceTrust.8f0cd77f249f33ec7deba7dc05adfe03","status.workspaceTrust.1626143120892","status.workspaceTrust.1626245624123","status.workspaceTrust.1626245633958","status.workspaceTrust.1626246910209","status.workspaceTrust.bb11971cc2060514fadf0011caecf4cf","status.workspaceTrust.1626251071919","status.workspaceTrust.1626255961185","status.workspaceTrust.1626255966459","status.workspaceTrust.09a094e9e72e7ab1fcf9f6b40648a4f9","status.workspaceTrust.1626258318419","status.workspaceTrust.1626258378887","status.workspaceTrust.222188c339675492a61b36207bf84668","status.workspaceTrust.1626324047198","status.workspaceTrust.1626342617140","status.workspaceTrust.6772198c78c7adc2f41a2927f975dc1b","status.workspaceTrust.1626421631436","status.workspaceTrust.1626421639006","status.workspaceTrust.739a358a75cd15010d65de5f5d58f297","status.workspaceTrust.1626585149624","status.workspaceTrust.34c00942057c083b3c7511b964fdcf65","status.workspaceTrust.e0737c6ef35232a1280425eda032474c","status.workspaceTrust.1626790608947","status.workspaceTrust.ae05aac02ab6649dd155e080e5f2e251","status.workspaceTrust.80cb8678bbbe7141539009b71068d1dd","status.workspaceTrust.1626852726356","status.workspaceTrust.1c52b66cafbcf41d7f837469df5bae63","status.workspaceTrust.1626878051136","status.workspaceTrust.f235b80a4cfc44eae4cb77df102121ae","status.workspaceTrust.1cd43a6d6ea2f462fd7731a28cc19c5b","status.workspaceTrust.1626940399796","status.workspaceTrust.6ae962b79418343534ba600731d48e30","status.workspaceTrust.1627182746696","status.workspaceTrust.1627183532509","status.workspaceTrust.1627225841632","status.workspaceTrust.1627301505602","status.workspaceTrust.1627312816602","status.workspaceTrust.1627392227813","status.workspaceTrust.bbabad0900d406d538561dfa1f2d3824","status.workspaceTrust.1627404350803","status.workspaceTrust.1627404358173","status.workspaceTrust.943384ad52599a30e734dbc9ab6f05cf","status.workspaceTrust.1627452101749","status.workspaceTrust.1627466467559","status.workspaceTrust.1627469875146","status.workspaceTrust.1627481506511","status.workspaceTrust.1627524295118","status.workspaceTrust.1627537380318","status.workspaceTrust.1627556861488","status.workspaceTrust.1627622630572","status.workspaceTrust.1627625529722","status.workspaceTrust.1627645954730","status.workspaceTrust.1627659388854","status.workspaceTrust.1627660720028","status.workspaceTrust.1627706010471","status.workspaceTrust.1627716133703","status.workspaceTrust.e42cd34a00643ca85006587019a3a949","status.workspaceTrust.1627716705286","status.workspaceTrust.1627723365630","status.workspaceTrust.13b14aa6e9501ef39139857a33be2317","status.workspaceTrust.1627752156965","status.workspaceTrust.1627794452064","status.workspaceTrust.1627794456972","status.workspaceTrust.1627796751132","status.workspaceTrust.68ceb0e2aa59f88eb379ad99a0d92fb6","status.workspaceTrust.1627807836384","status.workspaceTrust.1627808610457","status.workspaceTrust.1627818856827","status.workspaceTrust.b12e9dba582ecf977f0e259eb953e6df","status.workspaceTrust.2b000c52475a1c0f1853b9219b68b4ec","status.workspaceTrust.1627870195135","status.workspaceTrust.1627886965367","status.workspaceTrust.3ebca98991471e479ad6d40d3e5a2ea5","status.workspaceTrust.1627984592061","status.workspaceTrust.1628000380978","status.workspaceTrust.2fc444576889a56f03d86e0d1ddff8ef","status.workspaceTrust.1628006728914","status.workspaceTrust.1628045456296","status.workspaceTrust.1628057966585","status.workspaceTrust.1628064345266","status.workspaceTrust.5f3841e4d984fa25e6e58a7a21e61aea","status.workspaceTrust.1628064536845","status.workspaceTrust.1628064542286","status.workspaceTrust.1628172937580","status.workspaceTrust.1628173055394","status.workspaceTrust.bd53211a8516e442a9905dddc1f35109","status.workspaceTrust.2c8ed84119fb037552f44fc2d1ace53b","status.workspaceTrust.1628248663986","status.workspaceTrust.1628248744801","status.workspaceTrust.240977021865183c814e2cfa52197494","status.workspaceTrust.1628330684119","status.workspaceTrust.76fdf4e18c045c0eaf6a979440b03c1c","status.workspaceTrust.1628475301066","status.workspaceTrust.1e6eb7a7ef852f6ca9da50cb8c92c184","status.workspaceTrust.1628480858838","status.workspaceTrust.1628655324263","status.workspaceTrust.1628657835558","status.workspaceTrust.1628699927383","status.workspaceTrust.828eec606254c3fbbd9b6fe2098cc6ff","status.workspaceTrust.1628761546564","status.workspaceTrust.1fc95a908684c533b07b5e7aae3f7e56","status.workspaceTrust.b2531d4776325ed923ce945edf051f66","status.workspaceTrust.1628847145108","status.workspaceTrust.1628861567757","status.workspaceTrust.1628917259580","status.workspaceTrust.1628925128053","status.workspaceTrust.1628927945242","status.workspaceTrust.1628993649774","status.workspaceTrust.1629006271134","status.workspaceTrust.1629007789980","status.workspaceTrust.1ac2c059e00c36e8c2172e88095e56e3","status.workspaceTrust.1629082455328","status.workspaceTrust.1629111877270","status.workspaceTrust.1629113795182","status.workspaceTrust.1629166689386","status.workspaceTrust.1629168648385","status.workspaceTrust.1629356131397","status.workspaceTrust.1629438989082","status.workspaceTrust.ec97f1c5d0a21cdbb887c08cc210367e","status.workspaceTrust.1629686833851","status.workspaceTrust.1629686855198","status.workspaceTrust.e18d01a791cc3a5feb67673da416e4b9","status.workspaceTrust.1629718363624","status.workspaceTrust.1629736157208","status.workspaceTrust.1629771534523","status.workspaceTrust.1629771726855","status.workspaceTrust.868221c260e44f61c0e2f809c152568b","status.workspaceTrust.1629802676731","status.workspaceTrust.64a5a98d8e97c49856e26c80f7fb927d","status.workspaceTrust.a3b973c98be245e70eb8d1c9d374094f","status.workspaceTrust.1629887255051","status.workspaceTrust.1629948511677","status.workspaceTrust.1629952756404","status.workspaceTrust.1629963505853","status.workspaceTrust.1629964477117","status.workspaceTrust.1629975574154","status.workspaceTrust.1629985940598","status.workspaceTrust.1629986265920","status.workspaceTrust.1630028725236","status.workspaceTrust.1630033343252","status.workspaceTrust.1630033350749","status.workspaceTrust.1630034036890","status.workspaceTrust.27b0442c19ab7bab49ed68c58f3082c9","status.workspaceTrust.1630306628414","status.workspaceTrust.1630306634080","status.workspaceTrust.1630306703637","status.workspaceTrust.1630569521395","status.workspaceTrust.1630569777726","status.workspaceTrust.1630672080350","status.workspaceTrust.1630931944344","status.workspaceTrust.1630937202898","status.workspaceTrust.1630942953560","status.workspaceTrust.1631074557761","status.workspaceTrust.1631078237896","status.workspaceTrust.1631080180467","status.workspaceTrust.1631085922240","status.workspaceTrust.1631099460944","status.workspaceTrust.1631099474284","status.workspaceTrust.1631099889340","status.workspaceTrust.1631169092063","status.workspaceTrust.1631202371007","status.workspaceTrust.1631283149217","status.workspaceTrust.1631283432606","status.workspaceTrust.1631359111168","status.workspaceTrust.1631359118882","status.workspaceTrust.1631363862940","status.workspaceTrust.1631363874425","status.workspaceTrust.1631423339238","status.workspaceTrust.1631423400584","status.workspaceTrust.1631513700685","status.workspaceTrust.1631513713815","status.workspaceTrust.1631513910122","status.workspaceTrust.8af86555408238ddcc96d08c6ab35882","status.workspaceTrust.243da0fde4a8c91c3b832345687965fa","status.workspaceTrust.1983395342dbdaafb7a3386016592d95","status.workspaceTrust.1631756895175","status.workspaceTrust.1631803693173","status.workspaceTrust.1631855925081","status.workspaceTrust.1631950415210","status.workspaceTrust.1631954141770","status.workspaceTrust.1631955679858","status.workspaceTrust.1632018062558","status.workspaceTrust.9db6480308b3b2b76662e44108069bf0","status.workspaceTrust.42be0f5b9132b1ad964edb6771f2fb25","status.workspaceTrust.88e4033e5a2465e08f19621d1373e633","status.workspaceTrust.1632045789139","status.workspaceTrust.a6b2fa523c32967dd7fca5596f706bb1","status.workspaceTrust.11ea77144dff26d675290c8ca4909a63","status.workspaceTrust.10d677bb7b582944c0dda6947866f942","status.workspaceTrust.1632582437216","status.workspaceTrust.1632584412298","status.workspaceTrust.1632645838412","status.workspaceTrust.1632731447857","status.workspaceTrust.1632731790270","status.workspaceTrust.1632735351913","status.workspaceTrust.1632841203262","status.workspaceTrust.1632904757123","status.workspaceTrust.6180d42c9317a8aafd9f6eba73d2858f","status.workspaceTrust.139a93ae513f283a8c51fe05d55f10ce","status.workspaceTrust.03be91d96f8546c6641147ebf1b26fed","status.workspaceTrust.67644b019ca471c6e947eaeafec35367","status.workspaceTrust.1f185332168a26b50015e644771010a1","status.workspaceTrust.1634555085967","status.workspaceTrust.6124308e9caeefa9ea027c79ff2ec50d","status.workspaceTrust.4ece11c62e8845b3f960aa8178b6f248","status.workspaceTrust.1634708022411","status.workspaceTrust.c70c8b72145e54b4823b18303c0568cc","status.workspaceTrust.ffc5721b5d31ce2453c0bcaa7126713a","status.workspaceTrust.c64fabd256039d95c4d1ddc2c06fe63e","status.workspaceTrust.1635864831186","status.workspaceTrust.1506eb3d6567883273b417b2ef6b4aa5","status.workspaceTrust.b2ab6fd3c4d980ac73aabca99a8bbdfd","status.workspaceTrust.1637054759310","status.workspaceTrust.3579d6dd0e64787e144affafce29318e","status.workspaceTrust.bfe17ab4870f2f90d39341b124a323ad","status.workspaceTrust.f469e099d145d2ab4d963b3be2fab489","status.workspaceTrust.2a31989ca773209c58e955453a6bb78a","status.workspaceTrust.03843e40ea45cac8e1045582663b134c","status.workspaceTrust.fd24d531b84dc63a73fbf16caf11332b","status.workspaceTrust.4209b2d4058609dc527fc6eef81f623d","status.workspaceTrust.aa76bda12d17d8c2542f1b0824415e31","status.workspaceTrust.1637229490657","status.workspaceTrust.359fa88b4e1ec96e62bcaddbe7d9da51","status.workspaceTrust.8bef5e8ce362fe38b469dfee9f7ae650","status.workspaceTrust.1637292794981","status.workspaceTrust.f1280b6fb75df1c4bb09bf323cac7b88","status.workspaceTrust.4847274260f429df5b1a3e66d03fa23b","status.workspaceTrust.1637420496742","status.workspaceTrust.8af186e2deee4a3310931e52de1580ae","status.workspaceTrust.c7f628e9b37dffecb986668a0707e875","status.workspaceTrust.1637732474758","status.workspaceTrust.1637735238575","status.workspaceTrust.d65e408e2d2ac151bb645c606834f796","status.workspaceTrust.1637809973866","status.workspaceTrust.1637985534368","status.workspaceTrust.1637986749806","status.workspaceTrust.1637986818994","status.workspaceTrust.1637995668230","status.workspaceTrust.1639191455150","status.workspaceTrust.3700207dddb03561619d2a1fed772e44","status.workspaceTrust.c4c1e2f7a247ea6dc39a21a6ea3f987f","status.workspaceTrust.ec2297ed17e4a5ad9ebf3ebb161f4f35","status.workspaceTrust.7db5885673aaad9ea77535001bbf9406","status.workspaceTrust.588d3c4e5cd7b80af0954528b5693755","status.workspaceTrust.5418c1f5ff1573382e2bb632278f780a","status.workspaceTrust.ac931b1f0a73f86e715ed54a9af10c1a","status.workspaceTrust.1c3a9393d26fdf4a37ca1ae0d19938b9","status.workspaceTrust.5fb0151cf9c71eb18c6574ead39a40bd","status.workspaceTrust.1641016534607","status.workspaceTrust.88ac33866518d90d004702d23897230e","status.workspaceTrust.9aa28ec1c556beee17cc712c2ae9cf18","status.workspaceTrust.8a768e3901cd87cbe645f6ad70cb8fca","status.workspaceTrust.1643261412997","status.workspaceTrust.24f7d950d43817bfe6762c8107b300bf","status.workspaceTrust.98c3318d975d2132a62fb325c5c6a0e3","status.workspaceTrust.1644756816220","status.workspaceTrust.0046f08723327f82bd61195853114ac1","status.workspaceTrust.33901fbf8f7f710471f9a8ce3c0b7dc6","status.workspaceTrust.1644758217937","status.workspaceTrust.1644813141529","status.workspaceTrust.1644836267982","status.workspaceTrust.96bb0108e3fdae94a72e9b5ed9f2d0d7","status.workspaceTrust.1644842218035","status.workspaceTrust.1645063773263","status.workspaceTrust.f4784e7ce373a7362fc4c3c6b2b6fb2b","status.workspaceTrust.1645094111331","status.workspaceTrust.1645169102698","status.workspaceTrust.c8b86ea384a96632e2e61fb3b9ad5024","status.workspaceTrust.530d43ae87273f6a22a2832f9158d55b","status.workspaceTrust.1645591443001","status.workspaceTrust.b2cacf53f0708b370ecfd1b9f2d67dce","status.workspaceTrust.b50ed1f1b943f93b4883b08eeae5a61d","status.workspaceTrust.1645675737653","status.workspaceTrust.1645675783434","status.workspaceTrust.1645676082007","status.workspaceTrust.1645676271774","status.workspaceTrust.1645681317726","status.workspaceTrust.431cd24cd0134a20c84f2019186e06c7","status.workspaceTrust.f58c30137464c8a04c61ee5943b3f90d","status.workspaceTrust.1646025337958","status.workspaceTrust.d9cc73995927b3b107904faf9aba49d3","status.workspaceTrust.1646025606680","status.workspaceTrust.8e1ef36b10bc7d9e1914da92d23b943b","status.workspaceTrust.c153015f9a5044b482ffd47bf422903e","status.workspaceTrust.5dc128d56bde3e56da4ba9af48f137b3","status.workspaceTrust.628501019c94a1ee4c896ea3a972d81c","status.workspaceTrust.1646201099147","status.workspaceTrust.1646201119820","status.workspaceTrust.0f2d0c55393450c8d382ceb3e9964036","status.workspaceTrust.1646219143630","status.workspaceTrust.1646219593043","status.workspaceTrust.9ab58bb88896c97bcee95357c9c654ba","status.workspaceTrust.1646278577517","status.workspaceTrust.1646298414031","status.workspaceTrust.1646378665876","status.workspaceTrust.1646378797370","status.workspaceTrust.1646459366693","status.workspaceTrust.b58a9901759474ca2c1a57e5bf9ebbe0","status.workspaceTrust.1646478840380","status.workspaceTrust.1646485812857","status.workspaceTrust.1646485819903","status.workspaceTrust.f3cd636f3a8a9b3e7b2bab37a8c50226","status.workspaceTrust.1646532094200","status.workspaceTrust.1646544697802","status.workspaceTrust.1646544746208","status.workspaceTrust.1646545309847","status.workspaceTrust.1646545319085","status.workspaceTrust.1646545548558","status.workspaceTrust.1646546261428","status.workspaceTrust.1646546277105","status.workspaceTrust.4b033e8175151b4bcc9906004055c278","status.workspaceTrust.aeb006220cdedc739e94c99c8445348e","status.workspaceTrust.1646547104162","status.workspaceTrust.b1295f5aaaa88dfafcfef6b310c1b027","status.workspaceTrust.194ba845d9d6c7be50678b34dd9bc96c","status.workspaceTrust.1646552777988","status.workspaceTrust.569666db48c74dfae07e82867cb76fe8","status.workspaceTrust.36b0b9c6ee2071dffc815c002929cfdf","status.workspaceTrust.1646569282410","status.workspaceTrust.1646569290879","status.workspaceTrust.aba8b6e53d7474f2e7d63a28ba2dd5f7","status.workspaceTrust.1646575645936","status.workspaceTrust.1646575660684","status.workspaceTrust.a82a9beb856c8b31b633c0bc7b82f96b","status.workspaceTrust.1646576032963","status.workspaceTrust.1646633500225","status.workspaceTrust.1646639723615","status.workspaceTrust.ed0e4bf9108797a94fab1a24451e6e4a","status.workspaceTrust.1647766238612","status.workspaceTrust.1647774950109","status.workspaceTrust.1647785355940","status.workspaceTrust.1647828660194","status.workspaceTrust.1647833174449","status.workspaceTrust.072c135b2a5653bbf63d4ae3c720910a","status.workspaceTrust.1647926253032","status.workspaceTrust.74db54b39febc71a937b4df6b7e61de7","status.workspaceTrust.3124b6eb1156b8dc0803f1e91c740fc8","status.workspaceTrust.5b375bf0fd75d0c59bf2892ac9d41e10","status.workspaceTrust.1647927600186","status.workspaceTrust.1647927625398","status.workspaceTrust.dac63d1a2389d3567c7174b20eb4480a","status.workspaceTrust.1647937712750","status.workspaceTrust.1648008494324","status.workspaceTrust.1648037288833","status.workspaceTrust.1648042441400","status.workspaceTrust.1648097776636","status.workspaceTrust.1648097836357","status.workspaceTrust.1648105329470","status.workspaceTrust.1648111753760","status.workspaceTrust.5272595cd8e6328fa3a399cd82a579fd","status.workspaceTrust.1648122475733","status.workspaceTrust.1648126277107","status.workspaceTrust.1648128877366","status.workspaceTrust.1648272761294","status.workspaceTrust.1648273974400","status.workspaceTrust.1648277672347","status.workspaceTrust.1648278565287","status.workspaceTrust.1648278724310","status.workspaceTrust.1648278747963","status.workspaceTrust.1648284823608","status.workspaceTrust.1648293864411","status.workspaceTrust.1648436800553","status.workspaceTrust.1648555458982","status.workspaceTrust.1648622148574","status.workspaceTrust.1648624623781","status.workspaceTrust.1648692413718","status.workspaceTrust.1648716153259","status.workspaceTrust.87263a869cd5fff6121cb72d8760fd45","status.workspaceTrust.1648717972904","status.workspaceTrust.1648728426420","status.workspaceTrust.1648794748552","status.workspaceTrust.1648816989092","status.workspaceTrust.1648869321610","status.workspaceTrust.1648869468061","status.workspaceTrust.e710b22febe3b018744429a83536be09","status.workspaceTrust.1648873059778","status.workspaceTrust.bdec4e8726ee9a6d8e3b72af472b5a25","status.workspaceTrust.1648874289716","status.workspaceTrust.1648889000442","status.workspaceTrust.1648950777304","status.workspaceTrust.1648955666946","status.workspaceTrust.1648966200083","status.workspaceTrust.1648969638816","status.workspaceTrust.1e7c760d362dd8d6bebc30c92941dc54","status.workspaceTrust.1648980433249","status.workspaceTrust.1648991731848","status.workspaceTrust.1649063727213","status.workspaceTrust.1649232243460","status.workspaceTrust.1649232358036","status.workspaceTrust.1649261502559","status.workspaceTrust.1649313752560","status.workspaceTrust.1649324279174","status.workspaceTrust.1649324286142","status.workspaceTrust.43c78123f0e477122801201a3d8ada1b","status.workspaceTrust.1649331687804","status.workspaceTrust.1649332270762","status.workspaceTrust.1649333190684","status.workspaceTrust.1649334844495","status.workspaceTrust.1649387934463","status.workspaceTrust.1649396756243","status.workspaceTrust.1649416227064","status.workspaceTrust.1649422969562","status.workspaceTrust.1649482206188","status.workspaceTrust.1649486045251","status.workspaceTrust.1649487433446","status.workspaceTrust.7ff35756ccd8ceded86e1e7860c1be14","status.workspaceTrust.1649511652562","status.workspaceTrust.1649568229195","status.workspaceTrust.1649576760586","status.workspaceTrust.1649737926185","status.workspaceTrust.1649752652009","status.workspaceTrust.1649924654408","status.workspaceTrust.1649925446610","status.workspaceTrust.1649986668141","status.workspaceTrust.1649987257458","status.workspaceTrust.1650000137914","status.workspaceTrust.1650008272689","status.workspaceTrust.1650031708730","status.workspaceTrust.1650106651848","status.workspaceTrust.1650114540694","status.workspaceTrust.1650116295385","status.workspaceTrust.1650172112526","status.workspaceTrust.1650283555802","status.workspaceTrust.1650358026291","status.workspaceTrust.1650432875697","status.workspaceTrust.1650434127318","status.workspaceTrust.1650434145500","status.workspaceTrust.1650451357904","status.workspaceTrust.1650453622574","status.workspaceTrust.1cf8a2b404ac8412a9c4126ab9091dff","status.workspaceTrust.1650512640392","status.workspaceTrust.1650512651643","status.workspaceTrust.1650531303114","status.workspaceTrust.4b946fb1b6b205dba4fc091ead8ad065","status.workspaceTrust.1650541913751","status.workspaceTrust.1650616595643","status.workspaceTrust.ee988ce8597fe9b3f9b13541161a1ee9","status.workspaceTrust.1650691333769","status.workspaceTrust.655116042d372ef805fc9ecc58c133e7","status.workspaceTrust.2f88ce47fd984a9be3c6ea472eecd6b3","status.workspaceTrust.1650881397224","status.workspaceTrust.1650887075270","status.workspaceTrust.1650887091034","status.workspaceTrust.e437b8117e0b1360710cbf294fd7b31a","status.workspaceTrust.b5e2779ba384cc93453e32153271c7a8","status.workspaceTrust.1651137042766","status.workspaceTrust.1651150943587","status.workspaceTrust.1651159254915","status.workspaceTrust.1651323638893","status.workspaceTrust.1651324550696","status.workspaceTrust.1651325349701","status.workspaceTrust.1651325356451","status.workspaceTrust.ad43e5d7b3d26019434bf716d838fd9d","status.workspaceTrust.1651562993532","status.workspaceTrust.1651565332282","status.workspaceTrust.1651641569741","status.workspaceTrust.1651643118821","status.workspaceTrust.1651659708591","status.workspaceTrust.241f3b6768b6ffdf501a024f3ed729b1","status.workspaceTrust.1651729617674","status.workspaceTrust.1651729644990","status.workspaceTrust.1651741368203","status.workspaceTrust.1651842017465","status.workspaceTrust.1651891769061","status.workspaceTrust.78fe9c58710c7341610ec4778193a846","status.workspaceTrust.293bbe8cb83173ed51de9a3d4b3c282f","status.workspaceTrust.1651896437920","status.workspaceTrust.1651896854135","status.workspaceTrust.1651896859022","status.workspaceTrust.1651923418321","status.workspaceTrust.1651999304374","status.workspaceTrust.1652060657655","status.workspaceTrust.1652079968015","status.workspaceTrust.1652093408063","status.workspaceTrust.1652095208309","status.workspaceTrust.2905cee6fd74e02aac51b10445686e4f","status.workspaceTrust.1652172464336","status.workspaceTrust.c1ab17ded91e61e05540fba87b2364da","status.workspaceTrust.1652498578357","status.workspaceTrust.1652501121137","status.workspaceTrust.1652501129343","status.workspaceTrust.1652508128919","status.workspaceTrust.1652514316219","status.workspaceTrust.1652530280164","status.workspaceTrust.1652581613628","status.workspaceTrust.1652588156948","status.workspaceTrust.1652589094657","status.workspaceTrust.1652604862079","status.workspaceTrust.1652604872935","status.workspaceTrust.dfb2cc1677750d8468e18b266b0ec678","status.workspaceTrust.1652665958953","status.workspaceTrust.1652669318036","status.workspaceTrust.1652674522147","status.workspaceTrust.1652675805648","status.workspaceTrust.1652679153311","status.workspaceTrust.1652704880006","status.workspaceTrust.1652704890289","status.workspaceTrust.a9b14852fb2bf9acb28efc5d25b33bca","status.workspaceTrust.1652708443078","status.workspaceTrust.1652758953457","status.workspaceTrust.27f250a6e0af98ced350e1319d062592"]'
+workbench.statusbar.hidden: '["golang.go","ms-python.python","status.workspaceTrust.63416d86f6b84851085ed42d42e6e8d5","status.workspaceTrust.07ab83e822dec91c8bf381cf86242b44","status.workspaceTrust.1625741130401","status.workspaceTrust.1625743053770","status.workspaceTrust.8f0cd77f249f33ec7deba7dc05adfe03","status.workspaceTrust.1626143120892","status.workspaceTrust.1626245624123","status.workspaceTrust.1626245633958","status.workspaceTrust.1626246910209","status.workspaceTrust.bb11971cc2060514fadf0011caecf4cf","status.workspaceTrust.1626251071919","status.workspaceTrust.1626255961185","status.workspaceTrust.1626255966459","status.workspaceTrust.09a094e9e72e7ab1fcf9f6b40648a4f9","status.workspaceTrust.1626258318419","status.workspaceTrust.1626258378887","status.workspaceTrust.222188c339675492a61b36207bf84668","status.workspaceTrust.1626324047198","status.workspaceTrust.1626342617140","status.workspaceTrust.6772198c78c7adc2f41a2927f975dc1b","status.workspaceTrust.1626421631436","status.workspaceTrust.1626421639006","status.workspaceTrust.739a358a75cd15010d65de5f5d58f297","status.workspaceTrust.1626585149624","status.workspaceTrust.34c00942057c083b3c7511b964fdcf65","status.workspaceTrust.e0737c6ef35232a1280425eda032474c","status.workspaceTrust.1626790608947","status.workspaceTrust.ae05aac02ab6649dd155e080e5f2e251","status.workspaceTrust.80cb8678bbbe7141539009b71068d1dd","status.workspaceTrust.1626852726356","status.workspaceTrust.1c52b66cafbcf41d7f837469df5bae63","status.workspaceTrust.1626878051136","status.workspaceTrust.f235b80a4cfc44eae4cb77df102121ae","status.workspaceTrust.1cd43a6d6ea2f462fd7731a28cc19c5b","status.workspaceTrust.1626940399796","status.workspaceTrust.6ae962b79418343534ba600731d48e30","status.workspaceTrust.1627182746696","status.workspaceTrust.1627183532509","status.workspaceTrust.1627225841632","status.workspaceTrust.1627301505602","status.workspaceTrust.1627312816602","status.workspaceTrust.1627392227813","status.workspaceTrust.bbabad0900d406d538561dfa1f2d3824","status.workspaceTrust.1627404350803","status.workspaceTrust.1627404358173","status.workspaceTrust.943384ad52599a30e734dbc9ab6f05cf","status.workspaceTrust.1627452101749","status.workspaceTrust.1627466467559","status.workspaceTrust.1627469875146","status.workspaceTrust.1627481506511","status.workspaceTrust.1627524295118","status.workspaceTrust.1627537380318","status.workspaceTrust.1627556861488","status.workspaceTrust.1627622630572","status.workspaceTrust.1627625529722","status.workspaceTrust.1627645954730","status.workspaceTrust.1627659388854","status.workspaceTrust.1627660720028","status.workspaceTrust.1627706010471","status.workspaceTrust.1627716133703","status.workspaceTrust.e42cd34a00643ca85006587019a3a949","status.workspaceTrust.1627716705286","status.workspaceTrust.1627723365630","status.workspaceTrust.13b14aa6e9501ef39139857a33be2317","status.workspaceTrust.1627752156965","status.workspaceTrust.1627794452064","status.workspaceTrust.1627794456972","status.workspaceTrust.1627796751132","status.workspaceTrust.68ceb0e2aa59f88eb379ad99a0d92fb6","status.workspaceTrust.1627807836384","status.workspaceTrust.1627808610457","status.workspaceTrust.1627818856827","status.workspaceTrust.b12e9dba582ecf977f0e259eb953e6df","status.workspaceTrust.2b000c52475a1c0f1853b9219b68b4ec","status.workspaceTrust.1627870195135","status.workspaceTrust.1627886965367","status.workspaceTrust.3ebca98991471e479ad6d40d3e5a2ea5","status.workspaceTrust.1627984592061","status.workspaceTrust.1628000380978","status.workspaceTrust.2fc444576889a56f03d86e0d1ddff8ef","status.workspaceTrust.1628006728914","status.workspaceTrust.1628045456296","status.workspaceTrust.1628057966585","status.workspaceTrust.1628064345266","status.workspaceTrust.5f3841e4d984fa25e6e58a7a21e61aea","status.workspaceTrust.1628064536845","status.workspaceTrust.1628064542286","status.workspaceTrust.1628172937580","status.workspaceTrust.1628173055394","status.workspaceTrust.bd53211a8516e442a9905dddc1f35109","status.workspaceTrust.2c8ed84119fb037552f44fc2d1ace53b","status.workspaceTrust.1628248663986","status.workspaceTrust.1628248744801","status.workspaceTrust.240977021865183c814e2cfa52197494","status.workspaceTrust.1628330684119","status.workspaceTrust.76fdf4e18c045c0eaf6a979440b03c1c","status.workspaceTrust.1628475301066","status.workspaceTrust.1e6eb7a7ef852f6ca9da50cb8c92c184","status.workspaceTrust.1628480858838","status.workspaceTrust.1628655324263","status.workspaceTrust.1628657835558","status.workspaceTrust.1628699927383","status.workspaceTrust.828eec606254c3fbbd9b6fe2098cc6ff","status.workspaceTrust.1628761546564","status.workspaceTrust.1fc95a908684c533b07b5e7aae3f7e56","status.workspaceTrust.b2531d4776325ed923ce945edf051f66","status.workspaceTrust.1628847145108","status.workspaceTrust.1628861567757","status.workspaceTrust.1628917259580","status.workspaceTrust.1628925128053","status.workspaceTrust.1628927945242","status.workspaceTrust.1628993649774","status.workspaceTrust.1629006271134","status.workspaceTrust.1629007789980","status.workspaceTrust.1ac2c059e00c36e8c2172e88095e56e3","status.workspaceTrust.1629082455328","status.workspaceTrust.1629111877270","status.workspaceTrust.1629113795182","status.workspaceTrust.1629166689386","status.workspaceTrust.1629168648385","status.workspaceTrust.1629356131397","status.workspaceTrust.1629438989082","status.workspaceTrust.ec97f1c5d0a21cdbb887c08cc210367e","status.workspaceTrust.1629686833851","status.workspaceTrust.1629686855198","status.workspaceTrust.e18d01a791cc3a5feb67673da416e4b9","status.workspaceTrust.1629718363624","status.workspaceTrust.1629736157208","status.workspaceTrust.1629771534523","status.workspaceTrust.1629771726855","status.workspaceTrust.868221c260e44f61c0e2f809c152568b","status.workspaceTrust.1629802676731","status.workspaceTrust.64a5a98d8e97c49856e26c80f7fb927d","status.workspaceTrust.a3b973c98be245e70eb8d1c9d374094f","status.workspaceTrust.1629887255051","status.workspaceTrust.1629948511677","status.workspaceTrust.1629952756404","status.workspaceTrust.1629963505853","status.workspaceTrust.1629964477117","status.workspaceTrust.1629975574154","status.workspaceTrust.1629985940598","status.workspaceTrust.1629986265920","status.workspaceTrust.1630028725236","status.workspaceTrust.1630033343252","status.workspaceTrust.1630033350749","status.workspaceTrust.1630034036890","status.workspaceTrust.27b0442c19ab7bab49ed68c58f3082c9","status.workspaceTrust.1630306628414","status.workspaceTrust.1630306634080","status.workspaceTrust.1630306703637","status.workspaceTrust.1630569521395","status.workspaceTrust.1630569777726","status.workspaceTrust.1630672080350","status.workspaceTrust.1630931944344","status.workspaceTrust.1630937202898","status.workspaceTrust.1630942953560","status.workspaceTrust.1631074557761","status.workspaceTrust.1631078237896","status.workspaceTrust.1631080180467","status.workspaceTrust.1631085922240","status.workspaceTrust.1631099460944","status.workspaceTrust.1631099474284","status.workspaceTrust.1631099889340","status.workspaceTrust.1631169092063","status.workspaceTrust.1631202371007","status.workspaceTrust.1631283149217","status.workspaceTrust.1631283432606","status.workspaceTrust.1631359111168","status.workspaceTrust.1631359118882","status.workspaceTrust.1631363862940","status.workspaceTrust.1631363874425","status.workspaceTrust.1631423339238","status.workspaceTrust.1631423400584","status.workspaceTrust.1631513700685","status.workspaceTrust.1631513713815","status.workspaceTrust.1631513910122","status.workspaceTrust.8af86555408238ddcc96d08c6ab35882","status.workspaceTrust.243da0fde4a8c91c3b832345687965fa","status.workspaceTrust.1983395342dbdaafb7a3386016592d95","status.workspaceTrust.1631756895175","status.workspaceTrust.1631803693173","status.workspaceTrust.1631855925081","status.workspaceTrust.1631950415210","status.workspaceTrust.1631954141770","status.workspaceTrust.1631955679858","status.workspaceTrust.1632018062558","status.workspaceTrust.9db6480308b3b2b76662e44108069bf0","status.workspaceTrust.42be0f5b9132b1ad964edb6771f2fb25","status.workspaceTrust.88e4033e5a2465e08f19621d1373e633","status.workspaceTrust.1632045789139","status.workspaceTrust.a6b2fa523c32967dd7fca5596f706bb1","status.workspaceTrust.11ea77144dff26d675290c8ca4909a63","status.workspaceTrust.10d677bb7b582944c0dda6947866f942","status.workspaceTrust.1632582437216","status.workspaceTrust.1632584412298","status.workspaceTrust.1632645838412","status.workspaceTrust.1632731447857","status.workspaceTrust.1632731790270","status.workspaceTrust.1632735351913","status.workspaceTrust.1632841203262","status.workspaceTrust.1632904757123","status.workspaceTrust.6180d42c9317a8aafd9f6eba73d2858f","status.workspaceTrust.139a93ae513f283a8c51fe05d55f10ce","status.workspaceTrust.03be91d96f8546c6641147ebf1b26fed","status.workspaceTrust.67644b019ca471c6e947eaeafec35367","status.workspaceTrust.1f185332168a26b50015e644771010a1","status.workspaceTrust.1634555085967","status.workspaceTrust.6124308e9caeefa9ea027c79ff2ec50d","status.workspaceTrust.4ece11c62e8845b3f960aa8178b6f248","status.workspaceTrust.1634708022411","status.workspaceTrust.c70c8b72145e54b4823b18303c0568cc","status.workspaceTrust.ffc5721b5d31ce2453c0bcaa7126713a","status.workspaceTrust.c64fabd256039d95c4d1ddc2c06fe63e","status.workspaceTrust.1635864831186","status.workspaceTrust.1506eb3d6567883273b417b2ef6b4aa5","status.workspaceTrust.b2ab6fd3c4d980ac73aabca99a8bbdfd","status.workspaceTrust.1637054759310","status.workspaceTrust.3579d6dd0e64787e144affafce29318e","status.workspaceTrust.bfe17ab4870f2f90d39341b124a323ad","status.workspaceTrust.f469e099d145d2ab4d963b3be2fab489","status.workspaceTrust.2a31989ca773209c58e955453a6bb78a","status.workspaceTrust.03843e40ea45cac8e1045582663b134c","status.workspaceTrust.fd24d531b84dc63a73fbf16caf11332b","status.workspaceTrust.4209b2d4058609dc527fc6eef81f623d","status.workspaceTrust.aa76bda12d17d8c2542f1b0824415e31","status.workspaceTrust.1637229490657","status.workspaceTrust.359fa88b4e1ec96e62bcaddbe7d9da51","status.workspaceTrust.8bef5e8ce362fe38b469dfee9f7ae650","status.workspaceTrust.1637292794981","status.workspaceTrust.f1280b6fb75df1c4bb09bf323cac7b88","status.workspaceTrust.4847274260f429df5b1a3e66d03fa23b","status.workspaceTrust.1637420496742","status.workspaceTrust.8af186e2deee4a3310931e52de1580ae","status.workspaceTrust.c7f628e9b37dffecb986668a0707e875","status.workspaceTrust.1637732474758","status.workspaceTrust.1637735238575","status.workspaceTrust.d65e408e2d2ac151bb645c606834f796","status.workspaceTrust.1637809973866","status.workspaceTrust.1637985534368","status.workspaceTrust.1637986749806","status.workspaceTrust.1637986818994","status.workspaceTrust.1637995668230","status.workspaceTrust.1639191455150","status.workspaceTrust.3700207dddb03561619d2a1fed772e44","status.workspaceTrust.c4c1e2f7a247ea6dc39a21a6ea3f987f","status.workspaceTrust.ec2297ed17e4a5ad9ebf3ebb161f4f35","status.workspaceTrust.7db5885673aaad9ea77535001bbf9406","status.workspaceTrust.588d3c4e5cd7b80af0954528b5693755","status.workspaceTrust.5418c1f5ff1573382e2bb632278f780a","status.workspaceTrust.ac931b1f0a73f86e715ed54a9af10c1a","status.workspaceTrust.1c3a9393d26fdf4a37ca1ae0d19938b9","status.workspaceTrust.5fb0151cf9c71eb18c6574ead39a40bd","status.workspaceTrust.1641016534607","status.workspaceTrust.88ac33866518d90d004702d23897230e","status.workspaceTrust.9aa28ec1c556beee17cc712c2ae9cf18","status.workspaceTrust.8a768e3901cd87cbe645f6ad70cb8fca","status.workspaceTrust.1643261412997","status.workspaceTrust.24f7d950d43817bfe6762c8107b300bf","status.workspaceTrust.98c3318d975d2132a62fb325c5c6a0e3","status.workspaceTrust.1644756816220","status.workspaceTrust.0046f08723327f82bd61195853114ac1","status.workspaceTrust.33901fbf8f7f710471f9a8ce3c0b7dc6","status.workspaceTrust.1644758217937","status.workspaceTrust.1644813141529","status.workspaceTrust.1644836267982","status.workspaceTrust.96bb0108e3fdae94a72e9b5ed9f2d0d7","status.workspaceTrust.1644842218035","status.workspaceTrust.1645063773263","status.workspaceTrust.f4784e7ce373a7362fc4c3c6b2b6fb2b","status.workspaceTrust.1645094111331","status.workspaceTrust.1645169102698","status.workspaceTrust.c8b86ea384a96632e2e61fb3b9ad5024","status.workspaceTrust.530d43ae87273f6a22a2832f9158d55b","status.workspaceTrust.1645591443001","status.workspaceTrust.b2cacf53f0708b370ecfd1b9f2d67dce","status.workspaceTrust.b50ed1f1b943f93b4883b08eeae5a61d","status.workspaceTrust.1645675737653","status.workspaceTrust.1645675783434","status.workspaceTrust.1645676082007","status.workspaceTrust.1645676271774","status.workspaceTrust.1645681317726","status.workspaceTrust.431cd24cd0134a20c84f2019186e06c7","status.workspaceTrust.f58c30137464c8a04c61ee5943b3f90d","status.workspaceTrust.1646025337958","status.workspaceTrust.d9cc73995927b3b107904faf9aba49d3","status.workspaceTrust.1646025606680","status.workspaceTrust.8e1ef36b10bc7d9e1914da92d23b943b","status.workspaceTrust.c153015f9a5044b482ffd47bf422903e","status.workspaceTrust.5dc128d56bde3e56da4ba9af48f137b3","status.workspaceTrust.628501019c94a1ee4c896ea3a972d81c","status.workspaceTrust.1646201099147","status.workspaceTrust.1646201119820","status.workspaceTrust.0f2d0c55393450c8d382ceb3e9964036","status.workspaceTrust.1646219143630","status.workspaceTrust.1646219593043","status.workspaceTrust.9ab58bb88896c97bcee95357c9c654ba","status.workspaceTrust.1646278577517","status.workspaceTrust.1646298414031","status.workspaceTrust.1646378665876","status.workspaceTrust.1646378797370","status.workspaceTrust.1646459366693","status.workspaceTrust.b58a9901759474ca2c1a57e5bf9ebbe0","status.workspaceTrust.1646478840380","status.workspaceTrust.1646485812857","status.workspaceTrust.1646485819903","status.workspaceTrust.f3cd636f3a8a9b3e7b2bab37a8c50226","status.workspaceTrust.1646532094200","status.workspaceTrust.1646544697802","status.workspaceTrust.1646544746208","status.workspaceTrust.1646545309847","status.workspaceTrust.1646545319085","status.workspaceTrust.1646545548558","status.workspaceTrust.1646546261428","status.workspaceTrust.1646546277105","status.workspaceTrust.4b033e8175151b4bcc9906004055c278","status.workspaceTrust.aeb006220cdedc739e94c99c8445348e","status.workspaceTrust.1646547104162","status.workspaceTrust.b1295f5aaaa88dfafcfef6b310c1b027","status.workspaceTrust.194ba845d9d6c7be50678b34dd9bc96c","status.workspaceTrust.1646552777988","status.workspaceTrust.569666db48c74dfae07e82867cb76fe8","status.workspaceTrust.36b0b9c6ee2071dffc815c002929cfdf","status.workspaceTrust.1646569282410","status.workspaceTrust.1646569290879","status.workspaceTrust.aba8b6e53d7474f2e7d63a28ba2dd5f7","status.workspaceTrust.1646575645936","status.workspaceTrust.1646575660684","status.workspaceTrust.a82a9beb856c8b31b633c0bc7b82f96b","status.workspaceTrust.1646576032963","status.workspaceTrust.1646633500225","status.workspaceTrust.1646639723615","status.workspaceTrust.ed0e4bf9108797a94fab1a24451e6e4a","status.workspaceTrust.1647766238612","status.workspaceTrust.1647774950109","status.workspaceTrust.1647785355940","status.workspaceTrust.1647828660194","status.workspaceTrust.1647833174449","status.workspaceTrust.072c135b2a5653bbf63d4ae3c720910a","status.workspaceTrust.1647926253032","status.workspaceTrust.74db54b39febc71a937b4df6b7e61de7","status.workspaceTrust.3124b6eb1156b8dc0803f1e91c740fc8","status.workspaceTrust.5b375bf0fd75d0c59bf2892ac9d41e10","status.workspaceTrust.1647927600186","status.workspaceTrust.1647927625398","status.workspaceTrust.dac63d1a2389d3567c7174b20eb4480a","status.workspaceTrust.1647937712750","status.workspaceTrust.1648008494324","status.workspaceTrust.1648037288833","status.workspaceTrust.1648042441400","status.workspaceTrust.1648097776636","status.workspaceTrust.1648097836357","status.workspaceTrust.1648105329470","status.workspaceTrust.1648111753760","status.workspaceTrust.5272595cd8e6328fa3a399cd82a579fd","status.workspaceTrust.1648122475733","status.workspaceTrust.1648126277107","status.workspaceTrust.1648128877366","status.workspaceTrust.1648272761294","status.workspaceTrust.1648273974400","status.workspaceTrust.1648277672347","status.workspaceTrust.1648278565287","status.workspaceTrust.1648278724310","status.workspaceTrust.1648278747963","status.workspaceTrust.1648284823608","status.workspaceTrust.1648293864411","status.workspaceTrust.1648436800553","status.workspaceTrust.1648555458982","status.workspaceTrust.1648622148574","status.workspaceTrust.1648624623781","status.workspaceTrust.1648692413718","status.workspaceTrust.1648716153259","status.workspaceTrust.87263a869cd5fff6121cb72d8760fd45","status.workspaceTrust.1648717972904","status.workspaceTrust.1648728426420","status.workspaceTrust.1648794748552","status.workspaceTrust.1648816989092","status.workspaceTrust.1648869321610","status.workspaceTrust.1648869468061","status.workspaceTrust.e710b22febe3b018744429a83536be09","status.workspaceTrust.1648873059778","status.workspaceTrust.bdec4e8726ee9a6d8e3b72af472b5a25","status.workspaceTrust.1648874289716","status.workspaceTrust.1648889000442","status.workspaceTrust.1648950777304","status.workspaceTrust.1648955666946","status.workspaceTrust.1648966200083","status.workspaceTrust.1648969638816","status.workspaceTrust.1e7c760d362dd8d6bebc30c92941dc54","status.workspaceTrust.1648980433249","status.workspaceTrust.1648991731848","status.workspaceTrust.1649063727213","status.workspaceTrust.1649232243460","status.workspaceTrust.1649232358036","status.workspaceTrust.1649261502559","status.workspaceTrust.1649313752560","status.workspaceTrust.1649324279174","status.workspaceTrust.1649324286142","status.workspaceTrust.43c78123f0e477122801201a3d8ada1b","status.workspaceTrust.1649331687804","status.workspaceTrust.1649332270762","status.workspaceTrust.1649333190684","status.workspaceTrust.1649334844495","status.workspaceTrust.1649387934463","status.workspaceTrust.1649396756243","status.workspaceTrust.1649416227064","status.workspaceTrust.1649422969562","status.workspaceTrust.1649482206188","status.workspaceTrust.1649486045251","status.workspaceTrust.1649487433446","status.workspaceTrust.7ff35756ccd8ceded86e1e7860c1be14","status.workspaceTrust.1649511652562","status.workspaceTrust.1649568229195","status.workspaceTrust.1649576760586","status.workspaceTrust.1649737926185","status.workspaceTrust.1649752652009","status.workspaceTrust.1649924654408","status.workspaceTrust.1649925446610","status.workspaceTrust.1649986668141","status.workspaceTrust.1649987257458","status.workspaceTrust.1650000137914","status.workspaceTrust.1650008272689","status.workspaceTrust.1650031708730","status.workspaceTrust.1650106651848","status.workspaceTrust.1650114540694","status.workspaceTrust.1650116295385","status.workspaceTrust.1650172112526","status.workspaceTrust.1650283555802","status.workspaceTrust.1650358026291","status.workspaceTrust.1650432875697","status.workspaceTrust.1650434127318","status.workspaceTrust.1650434145500","status.workspaceTrust.1650451357904","status.workspaceTrust.1650453622574","status.workspaceTrust.1cf8a2b404ac8412a9c4126ab9091dff","status.workspaceTrust.1650512640392","status.workspaceTrust.1650512651643","status.workspaceTrust.1650531303114","status.workspaceTrust.4b946fb1b6b205dba4fc091ead8ad065","status.workspaceTrust.1650541913751","status.workspaceTrust.1650616595643","status.workspaceTrust.ee988ce8597fe9b3f9b13541161a1ee9","status.workspaceTrust.1650691333769","status.workspaceTrust.655116042d372ef805fc9ecc58c133e7","status.workspaceTrust.2f88ce47fd984a9be3c6ea472eecd6b3","status.workspaceTrust.1650881397224","status.workspaceTrust.1650887075270","status.workspaceTrust.1650887091034","status.workspaceTrust.e437b8117e0b1360710cbf294fd7b31a","status.workspaceTrust.b5e2779ba384cc93453e32153271c7a8","status.workspaceTrust.1651137042766","status.workspaceTrust.1651150943587","status.workspaceTrust.1651159254915","status.workspaceTrust.1651323638893","status.workspaceTrust.1651324550696","status.workspaceTrust.1651325349701","status.workspaceTrust.1651325356451","status.workspaceTrust.ad43e5d7b3d26019434bf716d838fd9d","status.workspaceTrust.1651562993532","status.workspaceTrust.1651565332282","status.workspaceTrust.1651641569741","status.workspaceTrust.1651643118821","status.workspaceTrust.1651659708591","status.workspaceTrust.241f3b6768b6ffdf501a024f3ed729b1","status.workspaceTrust.1651729617674","status.workspaceTrust.1651729644990","status.workspaceTrust.1651741368203","status.workspaceTrust.1651842017465","status.workspaceTrust.1651891769061","status.workspaceTrust.78fe9c58710c7341610ec4778193a846","status.workspaceTrust.293bbe8cb83173ed51de9a3d4b3c282f","status.workspaceTrust.1651896437920","status.workspaceTrust.1651896854135","status.workspaceTrust.1651896859022","status.workspaceTrust.1651923418321","status.workspaceTrust.1651999304374","status.workspaceTrust.1652060657655","status.workspaceTrust.1652079968015","status.workspaceTrust.1652093408063","status.workspaceTrust.1652095208309","status.workspaceTrust.2905cee6fd74e02aac51b10445686e4f","status.workspaceTrust.1652172464336","status.workspaceTrust.c1ab17ded91e61e05540fba87b2364da","status.workspaceTrust.1652498578357","status.workspaceTrust.1652501121137","status.workspaceTrust.1652501129343","status.workspaceTrust.1652508128919","status.workspaceTrust.1652514316219","status.workspaceTrust.1652530280164","status.workspaceTrust.1652581613628","status.workspaceTrust.1652588156948","status.workspaceTrust.1652589094657","status.workspaceTrust.1652604862079","status.workspaceTrust.1652604872935","status.workspaceTrust.dfb2cc1677750d8468e18b266b0ec678","status.workspaceTrust.1652665958953","status.workspaceTrust.1652669318036","status.workspaceTrust.1652674522147","status.workspaceTrust.1652675805648","status.workspaceTrust.1652679153311","status.workspaceTrust.1652704880006","status.workspaceTrust.1652704890289","status.workspaceTrust.a9b14852fb2bf9acb28efc5d25b33bca","status.workspaceTrust.1652708443078","status.workspaceTrust.1652758953457","status.workspaceTrust.27f250a6e0af98ced350e1319d062592","status.workspaceTrust.1652773420864","status.workspaceTrust.1652777444138","status.workspaceTrust.1652790273945","status.workspaceTrust.1652880096323","status.workspaceTrust.1652880115846","status.workspaceTrust.1652934838273","status.workspaceTrust.1653048399968","status.workspaceTrust.1653106263828","status.workspaceTrust.1653115875132","status.workspaceTrust.1653226720273","status.workspaceTrust.1653287108599","status.workspaceTrust.1653368928445","status.workspaceTrust.1653382740177","status.workspaceTrust.1653391059579","status.workspaceTrust.1653651787346","status.workspaceTrust.6b87a697eff270a2800e9991dd420efd","status.workspaceTrust.1653714251131","status.workspaceTrust.1653714722050","status.workspaceTrust.1653718758616","status.workspaceTrust.1653720052767","status.workspaceTrust.1653887948844","status.workspaceTrust.1653969196084","status.workspaceTrust.1653974595875","status.workspaceTrust.1653995664588","status.workspaceTrust.1654061712837","status.workspaceTrust.1654065838865","status.workspaceTrust.1654070464001","status.workspaceTrust.1654070531142","status.workspaceTrust.1654070540686","status.workspaceTrust.6daeaa6685a23a3e6af0a346a558a9bf","status.workspaceTrust.1654072037927","status.workspaceTrust.1654072460114","status.workspaceTrust.1654072477593","status.workspaceTrust.1654140160275","status.workspaceTrust.1654141091585","status.workspaceTrust.1654142748179","status.workspaceTrust.1654149475097","status.workspaceTrust.3638ae2e458935381b28c33a5b90c0bf","status.workspaceTrust.1654174402053","status.workspaceTrust.1654230528587","status.workspaceTrust.1654234051887","status.workspaceTrust.1654234233685","status.workspaceTrust.1654257168890","status.workspaceTrust.1654314376113","status.workspaceTrust.1965a343541fccd84bba2b044aeefe4e","status.workspaceTrust.1654337648168","status.workspaceTrust.1654409447258","status.workspaceTrust.1654412413423","status.workspaceTrust.1654416604927","status.workspaceTrust.79198ef19c2a375ba828cd082b4437b1","status.workspaceTrust.1654422521876","status.workspaceTrust.1654422537268","status.workspaceTrust.1654422646268","status.workspaceTrust.7fc9d851774ad552bf6912cac6bd3548","status.workspaceTrust.1654426893853","status.workspaceTrust.1654426974929","status.workspaceTrust.1654427036956","status.workspaceTrust.1654427056727","status.workspaceTrust.1654427078862","status.workspaceTrust.1654427150532","status.workspaceTrust.1654427205926","status.workspaceTrust.1654427241951","status.workspaceTrust.1654427392879","status.workspaceTrust.1654428598920","status.workspaceTrust.1654428656829","status.workspaceTrust.1654428894772","status.workspaceTrust.1654428924285","status.workspaceTrust.1654428954507","status.workspaceTrust.1654486935402","status.workspaceTrust.1654487009117","status.workspaceTrust.82524e549b23a485fe8b841ddd56ad00","status.workspaceTrust.1654487063372","status.workspaceTrust.1654487068748","status.workspaceTrust.1654487143079","status.workspaceTrust.1654487287227","status.workspaceTrust.1654491885119","status.workspaceTrust.1654492261419","status.workspaceTrust.1654494555896","status.workspaceTrust.1654494563317","status.workspaceTrust.271912bb26d732929e77cb94b04b76be","status.workspaceTrust.1654503252884","status.workspaceTrust.1654503273324","status.workspaceTrust.8080747e45a2865a1923376d7b8a9a35","status.workspaceTrust.1654514774659","status.workspaceTrust.1654603215543","status.workspaceTrust.1654663413530","status.workspaceTrust.1654663449858","status.workspaceTrust.1654671143376","status.workspaceTrust.1654676932098","status.workspaceTrust.1654687491921","status.workspaceTrust.1654748976846","status.workspaceTrust.e91e05ef5338d69a881ae9dbe39c026f","status.workspaceTrust.1654756910698","status.workspaceTrust.1654833493218","status.workspaceTrust.1654833547004","status.workspaceTrust.d1f473b6caa3070620d4a7368198d764","status.workspaceTrust.1654866136934","status.workspaceTrust.1654916535980","status.workspaceTrust.1654949185469","status.workspaceTrust.1655042267039","status.workspaceTrust.1655042476532","status.workspaceTrust.aaa1cf7c4dfea86078114b57d3583710","status.workspaceTrust.1655088307168","status.workspaceTrust.1655097856799","status.workspaceTrust.1655110815571","status.workspaceTrust.1655176916297","status.workspaceTrust.1655192310740","status.workspaceTrust.3ac47e660d91e5900f17767a2f7d267b","status.workspaceTrust.1655211167097","status.workspaceTrust.1655212442265","status.workspaceTrust.1655264186781","status.workspaceTrust.1655264950559","status.workspaceTrust.1655267383492","status.workspaceTrust.1655268175015","status.workspaceTrust.1655271292783","status.workspaceTrust.1655273385377","status.workspaceTrust.9b9fd3d543c377ed7fed0dd39af02fdb","status.workspaceTrust.1655282961794","status.workspaceTrust.1655365396762","status.workspaceTrust.1655381277463","status.workspaceTrust.1655433791677","status.workspaceTrust.1655465232591","status.workspaceTrust.1655616848968","status.workspaceTrust.1655640640237","status.workspaceTrust.1655640659224","status.workspaceTrust.1655789651629","status.workspaceTrust.1655884842918","status.workspaceTrust.1655963803304","status.workspaceTrust.1656042427011","status.workspaceTrust.1656127157790","status.workspaceTrust.1656131160382","status.workspaceTrust.1656211116656","status.workspaceTrust.1656217123741","status.workspaceTrust.1656220959068","status.workspaceTrust.1656230163753","status.workspaceTrust.1656253929538","status.workspaceTrust.1656303682307","status.workspaceTrust.1656317127251","status.workspaceTrust.1656339469306","status.workspaceTrust.1656384732029","status.workspaceTrust.1656406970767","status.workspaceTrust.1656410652136","status.workspaceTrust.1656478095946","status.workspaceTrust.1656481002449","status.workspaceTrust.1656486435067","status.workspaceTrust.1656490501545","status.workspaceTrust.1656491057533","status.workspaceTrust.1656506950899","status.workspaceTrust.1656514697472","status.workspaceTrust.1656519042163","status.workspaceTrust.1656578752278","status.workspaceTrust.1656640776823","status.workspaceTrust.1656682394013","status.workspaceTrust.1656683658891","status.workspaceTrust.1656723343172","status.workspaceTrust.1656731201005","status.workspaceTrust.1656731856922","status.workspaceTrust.1656745336689","status.workspaceTrust.1656768251501","status.workspaceTrust.1656818340335","status.workspaceTrust.1656842230481","status.workspaceTrust.1656852990032","status.workspaceTrust.1656898649108","status.workspaceTrust.1656906411980","status.workspaceTrust.1656907171464","status.workspaceTrust.1656913155478","status.workspaceTrust.1656923670083","status.workspaceTrust.1656923724093","status.workspaceTrust.3bdd75dbbc235d211db9d2b597ed8d22","status.workspaceTrust.1656945199792","status.workspaceTrust.1656984952298","status.workspaceTrust.d1319cb152e525e30dd46447dff08893","status.workspaceTrust.1656986670917","status.workspaceTrust.1656987463848","status.workspaceTrust.1656991274962","status.workspaceTrust.1657005602168","status.workspaceTrust.1657028820998","status.workspaceTrust.c47bdd94c98fa527f17eb3a55b08e2d6","status.workspaceTrust.1657348480814","status.workspaceTrust.1657348579221","status.workspaceTrust.1657505047542","status.workspaceTrust.1657591420628","status.workspaceTrust.1657591991641","status.workspaceTrust.1657593610118","status.workspaceTrust.1657594203806","status.workspaceTrust.1657677503986","status.workspaceTrust.1657684749322","status.workspaceTrust.1657689045706","status.workspaceTrust.1657689054827","status.workspaceTrust.1657696031671","status.workspaceTrust.1657764296129","status.workspaceTrust.1657764957319","status.workspaceTrust.1657775086969","status.workspaceTrust.1657784766799","status.workspaceTrust.1657848157199","status.workspaceTrust.1657849959415","status.workspaceTrust.1657864258511","status.workspaceTrust.1657883331246","status.workspaceTrust.a47a65a84989fd1af937520786dcbb15","status.workspaceTrust.1657883987163","status.workspaceTrust.93c5bf7d63610d7a3522dd2f041214fe","status.workspaceTrust.1658038286821","status.workspaceTrust.1658046828955","status.workspaceTrust.1658048611100","status.workspaceTrust.1658049391193","status.workspaceTrust.1658049755030","status.workspaceTrust.3815b45ce031d3028e9102c5909e6d74","status.workspaceTrust.738c423be0f1733074fec2d3872950c2","status.workspaceTrust.1658110635475","status.workspaceTrust.1658110645662","status.workspaceTrust.1658113133120","status.workspaceTrust.14ad8aa189fff65acd1eb3c7ecd8b2d5","status.workspaceTrust.1658130658697","status.workspaceTrust.1658144011881","status.workspaceTrust.1658160832347","status.workspaceTrust.1658160949920","status.workspaceTrust.1658193819263","status.workspaceTrust.1658193838400","status.workspaceTrust.1658200658876","status.workspaceTrust.1658209220747","status.workspaceTrust.1658212424656","status.workspaceTrust.1658222237315","status.workspaceTrust.1658234059569","status.workspaceTrust.1658284695112","status.workspaceTrust.1658310303351","status.workspaceTrust.1658367747246","status.workspaceTrust.1658372909864","status.workspaceTrust.1658386149875","status.workspaceTrust.40a4cfccdf5bd90a2ea5d5b55aa4e62f","status.workspaceTrust.f14753dd18c17068d84348431ac2546f","status.workspaceTrust.3669d349361ee3f8428ee168f7267af9","status.workspaceTrust.4528053b4925f3a91fe69ff0ea25e751","status.workspaceTrust.1658642795577","status.workspaceTrust.2811ef33727c321605099de693073754","status.workspaceTrust.1658649002290","status.workspaceTrust.1658651211242","status.workspaceTrust.a1a15dbce579c85fc261a9a3b3058a33","status.workspaceTrust.1658664237723","status.workspaceTrust.1658664639111","status.workspaceTrust.1658673634546","status.workspaceTrust.1658713768195","status.workspaceTrust.7053d9c98411f3c44701575e757df45d","status.workspaceTrust.1658729894214","status.workspaceTrust.1658738931002","status.workspaceTrust.1658751153547","status.workspaceTrust.1658797722731","status.workspaceTrust.1658798663343","status.workspaceTrust.1658911384064","status.workspaceTrust.1658973492713","status.workspaceTrust.1658974361089","status.workspaceTrust.1658974400448","status.workspaceTrust.d86db819ee253ce211f99b5084402968","status.workspaceTrust.cb6d94126af6367d9bdbb3d06926ccbd","status.workspaceTrust.1659333817380","status.workspaceTrust.1659343594099","status.workspaceTrust.1659584507168","status.workspaceTrust.384b70771b382012fe74aab5db3a4545","status.workspaceTrust.1659668942868","status.workspaceTrust.89e5daebf476849a17aff4992e81a7a7","status.workspaceTrust.1660989754135","status.workspaceTrust.1660992174834","status.workspaceTrust.1660992185539","status.workspaceTrust.1660992255193","status.workspaceTrust.1660992786641","status.workspaceTrust.1661073972531","status.workspaceTrust.1661139156104","status.workspaceTrust.1661150509841","status.workspaceTrust.1661160115070","status.workspaceTrust.d08c2b6210b67c29b41da563662d2863","status.workspaceTrust.1661314560447","status.workspaceTrust.1661324260365","status.workspaceTrust.6348cc8d858d9d013a0de9222543ae20","status.workspaceTrust.088bced437d05498785fbf51ab72bfe7","status.workspaceTrust.1661419235976","status.workspaceTrust.1661440908205","status.workspaceTrust.1661492773933","status.workspaceTrust.1661577204048","status.workspaceTrust.1661603610867","status.workspaceTrust.1661603676612","status.workspaceTrust.1661659074571","status.workspaceTrust.1661659272810","status.workspaceTrust.f0fce19d7fb7be5187501571dd3df822","status.workspaceTrust.474079fc3c4047322e2e9406eaf1638d","status.workspaceTrust.2cc2a5e4274d5a058a0ac85517b5a32b","status.workspaceTrust.1661667988701","status.workspaceTrust.7029373d55ad70b62e57df24a4385108","status.workspaceTrust.678659a0ae949d90c1b12fca11493f08","status.workspaceTrust.a817dcaa61a3c9c2c47eb0abf5bfd65a","status.workspaceTrust.d62d546d2c6d8582a6c2c15ab3f89ec5","status.workspaceTrust.a10af64661d56c79e693f4b1b256dd52","status.workspaceTrust.5ec6871fac92dd58c2b6a632a9987680","status.workspaceTrust.1661834859127","status.workspaceTrust.1661861973974","status.workspaceTrust.541e5bb50031afef051714f4e64082f0","status.workspaceTrust.1661913003823","status.workspaceTrust.1661930287937","status.workspaceTrust.f8a1c62ef91f7303897bb8249d0fb8d6","status.workspaceTrust.1661938263407","status.workspaceTrust.65a4f371fe70a49d22b823a1360f74ff","status.workspaceTrust.6c16ab09a4a91bbcc5d7422d087e9f5d","status.workspaceTrust.1661958032322","status.workspaceTrust.1662000898825","status.workspaceTrust.5db531d9906bb15f339608c4ca973e37","status.workspaceTrust.1662024985063","status.workspaceTrust.1662025648154","status.workspaceTrust.1662030865409","status.workspaceTrust.ab54a105b1e7cfe147a231a21d954ac5","status.workspaceTrust.1662035461870","status.workspaceTrust.1662036622804","status.workspaceTrust.1662036645597","status.workspaceTrust.1662036652574","status.workspaceTrust.32b0c61acd4569fce0858e0a35feed0c","status.workspaceTrust.0b63c33af8d2be1a802085934c1e534b","status.workspaceTrust.1662098828852","status.workspaceTrust.1662100772006","status.workspaceTrust.f7991399c945338c34f01117afb6668e","status.workspaceTrust.1662199652661","status.workspaceTrust.6d81b1e72e8bc0fafc0d94263f108aa3","status.workspaceTrust.a4bc5ae03bbe20640990761983e92f47","status.workspaceTrust.1662200922097","status.workspaceTrust.1662275024242","status.workspaceTrust.1662275522094","status.workspaceTrust.1662276912282","status.workspaceTrust.1662280928498","status.workspaceTrust.1662283096715","status.workspaceTrust.eca682456a31da4df7ca99c2dc2402f6"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"extension.firefox.loadedScripts","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"loadedModules","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
 workbench.view.extension.cmake__viewContainer.state.hidden: '[{"id":"cmake.outline","isHidden":false}]'
@@ -134,19 +1250,21 @@ workbench.view.extension.github-pull-requests.state.hidden: '[{"id":"github:logi
 workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.updates","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false},{"id":"gitlens.views.repositories:gitlens","isHidden":false},{"id":"gitlens.views.fileHistory:gitlens","isHidden":false},{"id":"gitlens.views.lineHistory:gitlens","isHidden":false},{"id":"gitlens.views.compare:gitlens","isHidden":false},{"id":"gitlens.views.search:gitlens","isHidden":false},{"id":"gitlens.views.home","isHidden":false}]'
 workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.timeline","isHidden":false}]'
 workbench.view.extension.inteloneapisamples.state.hidden: '[{"id":"intel.oneAPISamples.tree","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false}]'
 workbench.view.extension.latex-workshop-activitybar.state.hidden:
   '[{"id":"latex-workshop-commands","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false}]'
 workbench.view.extension.latex.state.hidden: '[{"id":"latex-commands","isHidden":false},{"id":"latex-structure","isHidden":false},{"id":"latex-snippet-view","isHidden":false}]'
-workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.contacts","isHidden":false},{"id":"liveshare.plannedSessions","isHidden":false},{"id":"liveshare.help","isHidden":false}]'
+workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.contacts","isHidden":false},{"id":"liveshare.plannedSessions","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"liveshare.devtools","isHidden":false}]'
+workbench.view.extension.mongoDB.state.hidden: '[{"id":"mongoDBConnectionExplorer","isHidden":false},{"id":"mongoDBPlaygroundsExplorer","isHidden":false},{"id":"mongoDBHelpExplorer","isHidden":false}]'
 workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false},{"id":"CppReferencesView","isHidden":false}]'
 workbench.view.extension.test.state.hidden: '[{"id":"python_tests","isHidden":false},{"id":"testExplorer","isHidden":false},{"id":"workbench.view.testing","isHidden":false},{"id":"go.test.profile","isHidden":false}]'
-workbench.view.extensions.state.hidden: '[{"id":"extensions.popularExtensionsList","isHidden":false},{"id":"extensions.enabledExtensionList","isHidden":false},{"id":"extensions.disabledExtensionList","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"extensions.listView","isHidden":false},{"id":"extensions.enabledExtensionList2","isHidden":false},{"id":"extensions.workspaceRecommendedList","isHidden":false},{"id":"extensions.vscode-local.default","isHidden":false},{"id":"extensions.otherrecommendedList","isHidden":false},{"id":"extensions.disabledExtensionList2","isHidden":false},{"id":"extensions.builtInExtensionsList","isHidden":false},{"id":"extensions.builtInBasicsExtensionsList","isHidden":false},{"id":"extensions.builtInThemesExtensionsList","isHidden":false},{"id":"extensions.vscode-local.installed","isHidden":false},{"id":"extensions.vscode-local.outdated","isHidden":false},{"id":"extensions.local.default","isHidden":false},{"id":"extensions.local.installed","isHidden":false},{"id":"extensions.local.outdated","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.local.installed.empty","isHidden":false},{"id":"workbench.views.extensions.remote.installed.empty","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchTrustRequired","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnStartExtensions","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnDemandExtensions","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"extensions.popularExtensionsList","isHidden":false},{"id":"extensions.enabledExtensionList","isHidden":false},{"id":"extensions.disabledExtensionList","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"extensions.listView","isHidden":false},{"id":"extensions.enabledExtensionList2","isHidden":false},{"id":"extensions.workspaceRecommendedList","isHidden":false},{"id":"extensions.vscode-local.default","isHidden":false},{"id":"extensions.otherrecommendedList","isHidden":false},{"id":"extensions.disabledExtensionList2","isHidden":false},{"id":"extensions.builtInExtensionsList","isHidden":false},{"id":"extensions.builtInBasicsExtensionsList","isHidden":false},{"id":"extensions.builtInThemesExtensionsList","isHidden":false},{"id":"extensions.vscode-local.installed","isHidden":false},{"id":"extensions.vscode-local.outdated","isHidden":false},{"id":"extensions.local.default","isHidden":false},{"id":"extensions.local.installed","isHidden":false},{"id":"extensions.local.outdated","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.local.installed.empty","isHidden":false},{"id":"workbench.views.extensions.remote.installed.empty","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchTrustRequired","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnStartExtensions","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnDemandExtensions","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"~remote.forwardedPorts","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"codespaces.explorer","isHidden":false},{"id":"codespaces.explorerDetails","isHidden":false},{"id":"devVolumes","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.merges","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true}]'
 workbench.views.extensions.installed.empty: "3348"
-workbench.views.extensions.installed.size: "43"
-workbench.views.extensions.local.installed.size: "43"
-workbench.views.extensions.remote.installed.size: "48"
+workbench.views.extensions.installed.size: "51"
+workbench.views.extensions.local.installed.size: "51"
+workbench.views.extensions.remote.installed.size: "35"
 workbench.welcomePage.hiddenCategories: '["Intermediate"]'
-workbench.welcomePage.walkthroughMetadata: '[["ms-vscode.cpptools#cppWelcome",{"firstSeen":1626584536098,"stepIDs":["verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","open.project","setup.intellisense","run.project.mac","run.project.linux","run.project.windows","install.cmake.tools","watch.tutorials"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1628218038317,"stepIDs":["python.installPythonWin","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.runAndDebug","python.runAndDebugMacOS","python.learnMore"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1628218038317,"stepIDs":["python.installPython","python.openFolderMac","python.openFolder","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1651335292356,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["eamodio.gitlens#gitlens.welcome",{"firstSeen":1651565333644,"stepIDs":["gitlens.welcome.experience","gitlens.welcome.settings","gitlens.welcome.currentLineBlame","gitlens.welcome.gitCodeLens","gitlens.welcome.revisionHistory","gitlens.welcome.fileAnnotations","gitlens.welcome.gitSideBarViews","gitlens.welcome.hostingServiceIntegrations","gitlens.welcome.gitCommandPalette","gitlens.welcome.interactiveRebaseEditor","gitlens.welcome.terminal","gitlens.welcome.plus"],"manaullyOpened":false}],["eamodio.gitlens#gitlens.plus",{"firstSeen":1651565333644,"stepIDs":["gitlens.plus.intro.tryNow","gitlens.plus.intro.signIn","gitlens.plus.intro","gitlens.plus.visualFileHistory","gitlens.plus.worktrees","gitlens.plus.comingSoon","gitlens.plus.tryNow","gitlens.plus.signIn"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWelcome",{"firstSeen":1651565333644,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}]]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-vscode.cpptools#cppWelcome",{"firstSeen":1626584536098,"stepIDs":["verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","open.project","setup.intellisense","run.project.mac","run.project.linux","run.project.windows","install.cmake.tools","watch.tutorials"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1628218038317,"stepIDs":["python.installPythonWin","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.runAndDebug","python.runAndDebugMacOS","python.learnMore"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1628218038317,"stepIDs":["python.installPython","python.openFolderMac","python.openFolder","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1651335292356,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["eamodio.gitlens#gitlens.welcome",{"firstSeen":1651565333644,"stepIDs":["gitlens.welcome.experience","gitlens.welcome.settings","gitlens.welcome.currentLineBlame","gitlens.welcome.gitCodeLens","gitlens.welcome.revisionHistory","gitlens.welcome.fileAnnotations","gitlens.welcome.gitSideBarViews","gitlens.welcome.hostingServiceIntegrations","gitlens.welcome.gitCommandPalette","gitlens.welcome.interactiveRebaseEditor","gitlens.welcome.terminal","gitlens.welcome.plus"],"manaullyOpened":false}],["eamodio.gitlens#gitlens.plus",{"firstSeen":1651565333644,"stepIDs":["gitlens.plus.intro.tryNow","gitlens.plus.intro.signIn","gitlens.plus.intro","gitlens.plus.visualFileHistory","gitlens.plus.worktrees","gitlens.plus.comingSoon","gitlens.plus.tryNow","gitlens.plus.signIn"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWelcome",{"firstSeen":1651565333644,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-python.python#pythonWelcomeWithDS",{"firstSeen":1657072358374,"stepIDs":["python.installPythonWin","python.installPythonMac","python.installPythonLinux","python.createPythonFile","python.selectInterpreter","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}]]'

@@ -1,12 +1,10 @@
 disabled:
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
-  - id: ms-toolsai.jupyter-keymap
-    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: xaver.clang-format
+    uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
   - id: xyz.local-history
     uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
@@ -28,22 +26,32 @@ enabled:
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
+  - id: jeff-hykin.better-cpp-syntax
+    uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
   - id: JeffersonQin.latex-snippets-jeff
     uuid: 35939ef0-ae19-483a-a524-0d9c354b32f1
+  - id: josetr.cmake-language-support-vscode
+    uuid: dce141da-393b-4514-9f89-18dc85ccc626
   - id: kevinkyang.auto-comment-blocks
     uuid: cb5ffd62-3768-4f92-83a0-ccf84e22ddf4
   - id: lextudio.restructuredtext
     uuid: a5a4d637-aa11-4bd1-b404-9f10390f8d4b
-  - id: matklad.rust-analyzer
-    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: matepek.vscode-catch2-test-adapter
+    uuid: 9431c072-9b03-4fb0-a71e-6ee895066c44
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-vscode-remote.remote-ssh
     uuid: 607fd052-be03-4363-b657-2bd62b83d28a
   - id: ms-vscode-remote.remote-ssh-edit
@@ -54,14 +62,20 @@ enabled:
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.cpptools
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.wordcount
     uuid: 03bcac69-2a42-4fd3-ac6e-928090766003
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: mushan.vscode-paste-image
     uuid: ffaf4ec8-f001-4f02-b671-705ecf079cde
   - id: nickfode.latex-formatter
     uuid: ea8da575-2c65-42a9-b0e2-68bf3e3bce0d
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: satokaz.vscode-toggleproxy
     uuid: 2228d4ca-d607-405d-9155-a7b2aad3eb4f
   - id: shd101wyy.markdown-preview-enhanced
@@ -82,5 +96,7 @@ enabled:
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
-  - id: xaver.clang-format
-    uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
+  - id: webfreak.debug
+    uuid: 2fd22b8e-b3b8-4e7f-9a28-a5e2d1bdd0d4
+  - id: yzane.markdown-pdf
+    uuid: f015bc3c-a098-4245-8765-615e002e09ab

@@ -1,33 +1,34 @@
 {
-    "files.associations": {
-        "new": "cpp",
-        "iosfwd": "cpp"
+  "files.associations": {
+    "new": "cpp",
+    "iosfwd": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex",
+      "tools": [
+        "xelatex"
+      ]
     },
-    "C_Cpp.errorSquiggles": "Enabled",
-
-    "latex-workshop.latex.recipes": [{
-        "name": "xelatex",
-        "tools": [
-            "xelatex"
-        ]
-      }, {
-        "name": "latexmk",
-        "tools": [
-            "latexmk"
-        ]
-      },
-      
-      {
-        "name": "pdflatex -> bibtex -> pdflatex*2",
-        "tools": [
-            "pdflatex",
-            "bibtex",
-            "pdflatex",
-            "pdflatex"
-        ]
-      }
-      ],
-      "latex-workshop.latex.tools": [{
+    {
+      "name": "latexmk",
+      "tools": [
+        "latexmk"
+      ]
+    },
+    {
+      "name": "pdflatex -> bibtex -> pdflatex*2",
+      "tools": [
+        "pdflatex",
+        "bibtex",
+        "pdflatex",
+        "pdflatex"
+      ]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
       "name": "latexmk",
       "command": "latexmk",
       "args": [
@@ -37,7 +38,8 @@
         "-pdf",
         "%DOC%"
       ]
-      }, {
+    },
+    {
       "name": "xelatex",
       "command": "xelatex",
       "args": [
@@ -46,7 +48,8 @@
         "-file-line-error",
         "%DOC%"
       ]
-      }, {
+    },
+    {
       "name": "pdflatex",
       "command": "pdflatex",
       "args": [
@@ -55,116 +58,120 @@
         "-file-line-error",
         "%DOC%"
       ]
-      }, {
+    },
+    {
       "name": "bibtex",
       "command": "bibtex",
       "args": [
         "%DOCFILE%"
       ]
-      }],
-      "latex-workshop.view.pdf.viewer": "tab",
-      "latex-workshop.latex.clean.fileTypes": [
-      "*.aux",
-      "*.bbl",
-      "*.blg",
-      "*.idx",
-      "*.ind",
-      "*.lof",
-      "*.lot",
-      "*.out",
-      "*.toc",
-      "*.acn",
-      "*.acr",
-      "*.alg",
-      "*.glg",
-      "*.glo",
-      "*.gls",
-      "*.ist",
-      "*.fls",
-      "*.log",
-      "*.fdb_latexmk"
-      ],
-
-    "explorer.confirmDelete": false,
-    "C_Cpp.updateChannel": "Insiders",
-    "explorer.confirmDragAndDrop": false,
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "[c]": {
-      "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "latex-snippets.autoSuggestionOn": true,
-    "c-cpp-flylint.clang.standard": [
-      "c++14"
-    ],
-    "c-cpp-flylint.cppcheck.enable": false,
-    "c-cpp-flylint.flexelint.enable": false,
-    "c-cpp-flylint.clang.extraArgs": [
-      "-Wno-c++98-compat"
-    ],
-    "cmake.configureOnOpen": true,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "java.semanticHighlighting.enabled": true,
-    "files.exclude": {
-      "**/.classpath": true,
-      "**/.project": true,
-      "**/.settings": true,
-      "**/.factorypath": true,
-      "**/.history": true
-    },
-    "java.requirements.JDK11Warning": false,
-    "cmake.toolset": "GCC 6.3.0",
-    "python.languageServer": "Default",
-    /*"latex-preview.command": "xelatex",
+    }
+  ],
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.bbl",
+    "*.blg",
+    "*.idx",
+    "*.ind",
+    "*.lof",
+    "*.lot",
+    "*.out",
+    "*.toc",
+    "*.acn",
+    "*.acr",
+    "*.alg",
+    "*.glg",
+    "*.glo",
+    "*.gls",
+    "*.ist",
+    "*.fls",
+    "*.log",
+    "*.fdb_latexmk"
+  ],
+  "explorer.confirmDelete": false,
+  "C_Cpp.updateChannel": "Insiders",
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "latex-snippets.autoSuggestionOn": true,
+  "c-cpp-flylint.clang.standard": [
+    "c++14"
+  ],
+  "c-cpp-flylint.cppcheck.enable": false,
+  "c-cpp-flylint.flexelint.enable": false,
+  "c-cpp-flylint.clang.extraArgs": [
+    "-Wno-c++98-compat"
+  ],
+  "cmake.configureOnOpen": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.semanticHighlighting.enabled": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/.history": true
+  },
+  "java.requirements.JDK11Warning": false,
+  "cmake.toolset": "GCC 6.3.0",
+  "python.languageServer": "Default",
+  /*"latex-preview.command": "xelatex",
     "[latex]": {
         "editor.defaultFormatter": "nickfode.latex-formatter"
     },*/
-    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-    // Prevent vscode from sending data to Microsoft about it's usage
-    "telemetry.telemetryLevel": "off",
-    "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.activityBar.visible": true,
-    "settingsSync.ignoredSettings": [
-      "http.proxy",
-      "search.useIgnoreFiles",
-      "latex-workshop.latex.magic.args",
-      "editor.copyWithSyntaxHighlighting",
-      "editor.tabSize",
-      "editor.formatOnSave",
-      "update.mode",
-      "C_Cpp.clang_format_style",
-      "files.maxMemoryForLargeFilesMB"
-    ],
-    "editor.copyWithSyntaxHighlighting": false,
-    "workbench.editorAssociations": {
-      "*.ipynb": "jupyter-notebook"
-    },
-    "latex-workshop.latex.recipe.default": "lastUsed",
-    "rust-client.rustupPath": "$HOME/.cargo/bin/rustup",
-    "editor.rulers": [
-      80
-    ],
-    "editor.largeFileOptimizations": false,
-    "notebook.cellToolbarLocation": {
-      "default": "right",
-      "jupyter-notebook": "left"
-    },
-    "rust-analyzer.rustfmt.enableRangeFormatting": true,
-    "gitlens.views.branches.pullRequests.enabled": false,
-    "gitlens.views.branches.pullRequests.showForBranches": false,
-    "gitlens.views.branches.pullRequests.showForCommits": false,
-    "redhat.telemetry.enabled": true,
-    "settingsSync.ignoredExtensions": [
-      "ms-vscode-remote.remote-containers"
-    ],
-    "git.confirmSync": false,
-    "http.proxy": "http://localhost:8234",
-    "[cpp]": {
-      "editor.defaultFormatter": "xaver.clang-format"
-    },
-    "C_Cpp.clang_format_style": "",
-    "go.toolsManagement.autoUpdate": true,
-    "window.zoomLevel": -1,
-    "update.mode": "none"
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  // Prevent vscode from sending data to Microsoft about it's usage
+  "telemetry.telemetryLevel": "off",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.activityBar.visible": true,
+  "settingsSync.ignoredSettings": [
+    "http.proxy",
+    "search.useIgnoreFiles",
+    "latex-workshop.latex.magic.args",
+    "editor.copyWithSyntaxHighlighting",
+    "editor.tabSize",
+    "editor.formatOnSave",
+    "update.mode",
+    "files.maxMemoryForLargeFilesMB"
+  ],
+  "editor.copyWithSyntaxHighlighting": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "latex-workshop.latex.recipe.default": "lastUsed",
+  "rust-client.rustupPath": "$HOME/.cargo/bin/rustup",
+  "editor.rulers": [
+    80
+  ],
+  "editor.largeFileOptimizations": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "gitlens.views.branches.pullRequests.enabled": false,
+  "gitlens.views.branches.pullRequests.showForBranches": false,
+  "gitlens.views.branches.pullRequests.showForCommits": false,
+  "redhat.telemetry.enabled": true,
+  "settingsSync.ignoredExtensions": [
+    "ms-vscode-remote.remote-containers"
+  ],
+  "git.confirmSync": false,
+  "http.proxy": "http://localhost:8234",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "go.toolsManagement.autoUpdate": true,
+  "update.mode": "none",
+  "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4, TabWidth: 4, UseTab: Always}",
+  "editor.insertSpaces": false,
+  "rust-analyzer.rustfmt.rangeFormatting.enable": true,
+  "rust-analyzer.rustfmt.extraArgs": [
+    "--config",
+    "max_width=80"
+  ]
 }
