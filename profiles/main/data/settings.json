@@ -90,7 +90,7 @@
     "*.fdb_latexmk"
   ],
   "explorer.confirmDelete": false,
-  "C_Cpp.updateChannel": "Insiders",
+"C_Cpp.updateChannel": "Insiders",
   "explorer.confirmDragAndDrop": false,
   "git.enableSmartCommit": true,
   "git.autofetch": true,
@@ -160,8 +160,8 @@
   "settingsSync.ignoredExtensions": [
     "ms-vscode-remote.remote-containers"
   ],
-  "git.confirmSync": false,
-  "http.proxy": "http://localhost:8234",
+"git.confirmSync": false,
+"http.proxy": "http://localhost:8234",
   "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
@@ -173,5 +173,11 @@
   "rust-analyzer.rustfmt.extraArgs": [
     "--config",
     "max_width=80"
-  ]
+  ],
+  "search.exclude": {
+    "**/.git": true,
+    "**/.history": true
+  },
+  "C_Cpp.default.cppStandard": "c++17",
+  "editor.wordWrap": "on"
 }

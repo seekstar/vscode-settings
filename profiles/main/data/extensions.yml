@@ -1,12 +1,8 @@
 disabled:
-  - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: xaver.clang-format
     uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
-  - id: xyz.local-history
-    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
   - id: asciidoctor.asciidoctor-vscode
     uuid: c1309cc2-f420-46a3-b2be-ca04f4d9e51b
@@ -44,10 +40,6 @@ enabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
-  - id: ms-toolsai.jupyter-keymap
-    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-vscode-remote.remote-ssh
     uuid: 607fd052-be03-4363-b657-2bd62b83d28a
   - id: ms-vscode-remote.remote-ssh-edit
@@ -88,9 +80,9 @@ enabled:
     uuid: 7789bd61-a874-4bf0-a8b4-d9e8d920af63
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: webfreak.debug
     uuid: 2fd22b8e-b3b8-4e7f-9a28-a5e2d1bdd0d4
-  - id: yzane.markdown-pdf
-    uuid: f015bc3c-a098-4245-8765-615e002e09ab
