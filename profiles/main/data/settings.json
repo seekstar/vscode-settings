@@ -161,14 +161,13 @@
     "ms-vscode-remote.remote-containers"
   ],
 "git.confirmSync": false,
-"http.proxy": "http://localhost:8234",
   "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
   "go.toolsManagement.autoUpdate": true,
-  "update.mode": "none",
   "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4, TabWidth: 4, UseTab: Always}",
   "editor.insertSpaces": false,
+  "files.maxMemoryForLargeFilesMB": 8192,
   "rust-analyzer.rustfmt.rangeFormatting.enable": true,
   "rust-analyzer.rustfmt.extraArgs": [
     "--config",
@@ -179,5 +178,18 @@
     "**/.history": true
   },
   "C_Cpp.default.cppStandard": "c++17",
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "C_Cpp.codeAnalysis.clangTidy.checks.enabled": [
+    "bugprone-use-after-move",
+    "bugprone-*",
+    "bugprone-narrowing-conversions"
+  ],
+  "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "bugprone-easily-swappable-parameters",
+    "bugprone-implicit-widening-of-multiplication-result"
+],
+  "remote.autoForwardPorts": false,
+  "update.mode": "none",
+  "window.zoomLevel": 1
 }

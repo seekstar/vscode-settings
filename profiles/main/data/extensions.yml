@@ -28,18 +28,14 @@ enabled:
     uuid: cb5ffd62-3768-4f92-83a0-ccf84e22ddf4
   - id: lextudio.restructuredtext
     uuid: a5a4d637-aa11-4bd1-b404-9f10390f8d4b
-  - id: matepek.vscode-catch2-test-adapter
-    uuid: 9431c072-9b03-4fb0-a71e-6ee895066c44
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
   - id: ms-dotnettools.vscode-dotnet-runtime
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-python.isort
+    uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-vscode-remote.remote-ssh
     uuid: 607fd052-be03-4363-b657-2bd62b83d28a
   - id: ms-vscode-remote.remote-ssh-edit
@@ -52,18 +48,20 @@ enabled:
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
   - id: ms-vscode.cpptools-themes
     uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.remote-explorer
+    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
   - id: ms-vscode.wordcount
     uuid: 03bcac69-2a42-4fd3-ac6e-928090766003
   - id: mushan.vscode-paste-image
     uuid: ffaf4ec8-f001-4f02-b671-705ecf079cde
   - id: nickfode.latex-formatter
     uuid: ea8da575-2c65-42a9-b0e2-68bf3e3bce0d
+  - id: notskm.clang-tidy
+    uuid: 241edb4b-f6a7-47b9-a1f8-7ef1f2086449
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
-  - id: satokaz.vscode-toggleproxy
-    uuid: 2228d4ca-d607-405d-9155-a7b2aad3eb4f
   - id: shd101wyy.markdown-preview-enhanced
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: streetsidesoftware.code-spell-checker
@@ -86,3 +84,5 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: webfreak.debug
     uuid: 2fd22b8e-b3b8-4e7f-9a28-a5e2d1bdd0d4
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
