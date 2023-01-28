@@ -56,8 +56,6 @@ enabled:
     uuid: ffaf4ec8-f001-4f02-b671-705ecf079cde
   - id: nickfode.latex-formatter
     uuid: ea8da575-2c65-42a9-b0e2-68bf3e3bce0d
-  - id: notskm.clang-tidy
-    uuid: 241edb4b-f6a7-47b9-a1f8-7ef1f2086449
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: rust-lang.rust-analyzer
